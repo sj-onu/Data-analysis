@@ -1,0 +1,3565 @@
+DepartmentID,LocationID,Headcount,SnapshotDate,DepartmentName,LocationName,Region
+1,1,3,1/1/2024,Executive,Las Vegas,West
+1,2,3,1/1/2024,Executive,Phoenix,West
+1,3,8,1/1/2024,Executive,Austin,South
+1,4,7,1/1/2024,Executive,Chicago,Midwest
+1,5,5,1/1/2024,Executive,Atlanta,South
+1,6,4,1/1/2024,Executive,Seattle,West
+1,7,4,1/1/2024,Executive,Denver,West
+1,8,6,1/1/2024,Executive,Nashville,South
+1,9,5,1/1/2024,Executive,Miami,South
+1,10,10,1/1/2024,Executive,Remote-East,East
+1,11,5,1/1/2024,Executive,Remote-Central,Central
+1,12,8,1/1/2024,Executive,Remote-West,West
+2,1,231,1/1/2024,Engineering,Las Vegas,West
+2,2,182,1/1/2024,Engineering,Phoenix,West
+2,3,267,1/1/2024,Engineering,Austin,South
+2,4,170,1/1/2024,Engineering,Chicago,Midwest
+2,5,177,1/1/2024,Engineering,Atlanta,South
+2,6,181,1/1/2024,Engineering,Seattle,West
+2,7,157,1/1/2024,Engineering,Denver,West
+2,8,140,1/1/2024,Engineering,Nashville,South
+2,9,162,1/1/2024,Engineering,Miami,South
+2,10,165,1/1/2024,Engineering,Remote-East,East
+2,11,192,1/1/2024,Engineering,Remote-Central,Central
+2,12,152,1/1/2024,Engineering,Remote-West,West
+3,1,72,1/1/2024,Product,Las Vegas,West
+3,2,49,1/1/2024,Product,Phoenix,West
+3,3,64,1/1/2024,Product,Austin,South
+3,4,45,1/1/2024,Product,Chicago,Midwest
+3,5,39,1/1/2024,Product,Atlanta,South
+3,6,59,1/1/2024,Product,Seattle,West
+3,7,45,1/1/2024,Product,Denver,West
+3,8,53,1/1/2024,Product,Nashville,South
+3,9,45,1/1/2024,Product,Miami,South
+3,10,53,1/1/2024,Product,Remote-East,East
+3,11,43,1/1/2024,Product,Remote-Central,Central
+3,12,46,1/1/2024,Product,Remote-West,West
+4,1,57,1/1/2024,IT,Las Vegas,West
+4,2,51,1/1/2024,IT,Phoenix,West
+4,3,78,1/1/2024,IT,Austin,South
+4,4,48,1/1/2024,IT,Chicago,Midwest
+4,5,51,1/1/2024,IT,Atlanta,South
+4,6,67,1/1/2024,IT,Seattle,West
+4,7,42,1/1/2024,IT,Denver,West
+4,8,44,1/1/2024,IT,Nashville,South
+4,9,54,1/1/2024,IT,Miami,South
+4,10,54,1/1/2024,IT,Remote-East,East
+4,11,50,1/1/2024,IT,Remote-Central,Central
+4,12,49,1/1/2024,IT,Remote-West,West
+5,1,35,1/1/2024,Finance,Las Vegas,West
+5,2,35,1/1/2024,Finance,Phoenix,West
+5,3,61,1/1/2024,Finance,Austin,South
+5,4,43,1/1/2024,Finance,Chicago,Midwest
+5,5,43,1/1/2024,Finance,Atlanta,South
+5,6,49,1/1/2024,Finance,Seattle,West
+5,7,39,1/1/2024,Finance,Denver,West
+5,8,32,1/1/2024,Finance,Nashville,South
+5,9,46,1/1/2024,Finance,Miami,South
+5,10,39,1/1/2024,Finance,Remote-East,East
+5,11,45,1/1/2024,Finance,Remote-Central,Central
+5,12,46,1/1/2024,Finance,Remote-West,West
+6,1,45,1/1/2024,HR,Las Vegas,West
+6,2,42,1/1/2024,HR,Phoenix,West
+6,3,67,1/1/2024,HR,Austin,South
+6,4,54,1/1/2024,HR,Chicago,Midwest
+6,5,36,1/1/2024,HR,Atlanta,South
+6,6,47,1/1/2024,HR,Seattle,West
+6,7,45,1/1/2024,HR,Denver,West
+6,8,48,1/1/2024,HR,Nashville,South
+6,9,41,1/1/2024,HR,Miami,South
+6,10,41,1/1/2024,HR,Remote-East,East
+6,11,39,1/1/2024,HR,Remote-Central,Central
+6,12,43,1/1/2024,HR,Remote-West,West
+7,1,62,1/1/2024,Marketing,Las Vegas,West
+7,2,45,1/1/2024,Marketing,Phoenix,West
+7,3,69,1/1/2024,Marketing,Austin,South
+7,4,44,1/1/2024,Marketing,Chicago,Midwest
+7,5,38,1/1/2024,Marketing,Atlanta,South
+7,6,57,1/1/2024,Marketing,Seattle,West
+7,7,51,1/1/2024,Marketing,Denver,West
+7,8,45,1/1/2024,Marketing,Nashville,South
+7,9,62,1/1/2024,Marketing,Miami,South
+7,10,59,1/1/2024,Marketing,Remote-East,East
+7,11,51,1/1/2024,Marketing,Remote-Central,Central
+7,12,48,1/1/2024,Marketing,Remote-West,West
+8,1,115,1/1/2024,Sales,Las Vegas,West
+8,2,89,1/1/2024,Sales,Phoenix,West
+8,3,129,1/1/2024,Sales,Austin,South
+8,4,97,1/1/2024,Sales,Chicago,Midwest
+8,5,91,1/1/2024,Sales,Atlanta,South
+8,6,99,1/1/2024,Sales,Seattle,West
+8,7,77,1/1/2024,Sales,Denver,West
+8,8,67,1/1/2024,Sales,Nashville,South
+8,9,82,1/1/2024,Sales,Miami,South
+8,10,79,1/1/2024,Sales,Remote-East,East
+8,11,95,1/1/2024,Sales,Remote-Central,Central
+8,12,93,1/1/2024,Sales,Remote-West,West
+9,1,89,1/1/2024,Operations,Las Vegas,West
+9,2,78,1/1/2024,Operations,Phoenix,West
+9,3,85,1/1/2024,Operations,Austin,South
+9,4,88,1/1/2024,Operations,Chicago,Midwest
+9,5,65,1/1/2024,Operations,Atlanta,South
+9,6,76,1/1/2024,Operations,Seattle,West
+9,7,63,1/1/2024,Operations,Denver,West
+9,8,64,1/1/2024,Operations,Nashville,South
+9,9,72,1/1/2024,Operations,Miami,South
+9,10,96,1/1/2024,Operations,Remote-East,East
+9,11,72,1/1/2024,Operations,Remote-Central,Central
+9,12,77,1/1/2024,Operations,Remote-West,West
+10,1,91,1/1/2024,Customer Support,Las Vegas,West
+10,2,59,1/1/2024,Customer Support,Phoenix,West
+10,3,84,1/1/2024,Customer Support,Austin,South
+10,4,63,1/1/2024,Customer Support,Chicago,Midwest
+10,5,50,1/1/2024,Customer Support,Atlanta,South
+10,6,50,1/1/2024,Customer Support,Seattle,West
+10,7,52,1/1/2024,Customer Support,Denver,West
+10,8,48,1/1/2024,Customer Support,Nashville,South
+10,9,61,1/1/2024,Customer Support,Miami,South
+10,10,68,1/1/2024,Customer Support,Remote-East,East
+10,11,49,1/1/2024,Customer Support,Remote-Central,Central
+10,12,61,1/1/2024,Customer Support,Remote-West,West
+11,1,9,1/1/2024,Legal,Las Vegas,West
+11,2,6,1/1/2024,Legal,Phoenix,West
+11,3,8,1/1/2024,Legal,Austin,South
+11,4,8,1/1/2024,Legal,Chicago,Midwest
+11,5,4,1/1/2024,Legal,Atlanta,South
+11,6,13,1/1/2024,Legal,Seattle,West
+11,7,14,1/1/2024,Legal,Denver,West
+11,8,4,1/1/2024,Legal,Nashville,South
+11,9,10,1/1/2024,Legal,Miami,South
+11,10,6,1/1/2024,Legal,Remote-East,East
+11,11,13,1/1/2024,Legal,Remote-Central,Central
+11,12,4,1/1/2024,Legal,Remote-West,West
+1,1,3,2/1/2024,Executive,Las Vegas,West
+1,2,3,2/1/2024,Executive,Phoenix,West
+1,3,8,2/1/2024,Executive,Austin,South
+1,4,7,2/1/2024,Executive,Chicago,Midwest
+1,5,5,2/1/2024,Executive,Atlanta,South
+1,6,4,2/1/2024,Executive,Seattle,West
+1,7,4,2/1/2024,Executive,Denver,West
+1,8,6,2/1/2024,Executive,Nashville,South
+1,9,5,2/1/2024,Executive,Miami,South
+1,10,10,2/1/2024,Executive,Remote-East,East
+1,11,5,2/1/2024,Executive,Remote-Central,Central
+1,12,8,2/1/2024,Executive,Remote-West,West
+2,1,231,2/1/2024,Engineering,Las Vegas,West
+2,2,183,2/1/2024,Engineering,Phoenix,West
+2,3,265,2/1/2024,Engineering,Austin,South
+2,4,171,2/1/2024,Engineering,Chicago,Midwest
+2,5,178,2/1/2024,Engineering,Atlanta,South
+2,6,180,2/1/2024,Engineering,Seattle,West
+2,7,157,2/1/2024,Engineering,Denver,West
+2,8,140,2/1/2024,Engineering,Nashville,South
+2,9,166,2/1/2024,Engineering,Miami,South
+2,10,166,2/1/2024,Engineering,Remote-East,East
+2,11,194,2/1/2024,Engineering,Remote-Central,Central
+2,12,152,2/1/2024,Engineering,Remote-West,West
+3,1,73,2/1/2024,Product,Las Vegas,West
+3,2,49,2/1/2024,Product,Phoenix,West
+3,3,64,2/1/2024,Product,Austin,South
+3,4,45,2/1/2024,Product,Chicago,Midwest
+3,5,39,2/1/2024,Product,Atlanta,South
+3,6,60,2/1/2024,Product,Seattle,West
+3,7,45,2/1/2024,Product,Denver,West
+3,8,54,2/1/2024,Product,Nashville,South
+3,9,45,2/1/2024,Product,Miami,South
+3,10,54,2/1/2024,Product,Remote-East,East
+3,11,43,2/1/2024,Product,Remote-Central,Central
+3,12,46,2/1/2024,Product,Remote-West,West
+4,1,57,2/1/2024,IT,Las Vegas,West
+4,2,51,2/1/2024,IT,Phoenix,West
+4,3,79,2/1/2024,IT,Austin,South
+4,4,48,2/1/2024,IT,Chicago,Midwest
+4,5,52,2/1/2024,IT,Atlanta,South
+4,6,67,2/1/2024,IT,Seattle,West
+4,7,42,2/1/2024,IT,Denver,West
+4,8,45,2/1/2024,IT,Nashville,South
+4,9,56,2/1/2024,IT,Miami,South
+4,10,54,2/1/2024,IT,Remote-East,East
+4,11,49,2/1/2024,IT,Remote-Central,Central
+4,12,50,2/1/2024,IT,Remote-West,West
+5,1,35,2/1/2024,Finance,Las Vegas,West
+5,2,34,2/1/2024,Finance,Phoenix,West
+5,3,61,2/1/2024,Finance,Austin,South
+5,4,43,2/1/2024,Finance,Chicago,Midwest
+5,5,44,2/1/2024,Finance,Atlanta,South
+5,6,48,2/1/2024,Finance,Seattle,West
+5,7,39,2/1/2024,Finance,Denver,West
+5,8,32,2/1/2024,Finance,Nashville,South
+5,9,47,2/1/2024,Finance,Miami,South
+5,10,39,2/1/2024,Finance,Remote-East,East
+5,11,47,2/1/2024,Finance,Remote-Central,Central
+5,12,45,2/1/2024,Finance,Remote-West,West
+6,1,45,2/1/2024,HR,Las Vegas,West
+6,2,42,2/1/2024,HR,Phoenix,West
+6,3,68,2/1/2024,HR,Austin,South
+6,4,54,2/1/2024,HR,Chicago,Midwest
+6,5,36,2/1/2024,HR,Atlanta,South
+6,6,47,2/1/2024,HR,Seattle,West
+6,7,45,2/1/2024,HR,Denver,West
+6,8,47,2/1/2024,HR,Nashville,South
+6,9,41,2/1/2024,HR,Miami,South
+6,10,41,2/1/2024,HR,Remote-East,East
+6,11,39,2/1/2024,HR,Remote-Central,Central
+6,12,44,2/1/2024,HR,Remote-West,West
+7,1,62,2/1/2024,Marketing,Las Vegas,West
+7,2,46,2/1/2024,Marketing,Phoenix,West
+7,3,69,2/1/2024,Marketing,Austin,South
+7,4,44,2/1/2024,Marketing,Chicago,Midwest
+7,5,38,2/1/2024,Marketing,Atlanta,South
+7,6,57,2/1/2024,Marketing,Seattle,West
+7,7,51,2/1/2024,Marketing,Denver,West
+7,8,45,2/1/2024,Marketing,Nashville,South
+7,9,63,2/1/2024,Marketing,Miami,South
+7,10,59,2/1/2024,Marketing,Remote-East,East
+7,11,51,2/1/2024,Marketing,Remote-Central,Central
+7,12,48,2/1/2024,Marketing,Remote-West,West
+8,1,116,2/1/2024,Sales,Las Vegas,West
+8,2,89,2/1/2024,Sales,Phoenix,West
+8,3,131,2/1/2024,Sales,Austin,South
+8,4,99,2/1/2024,Sales,Chicago,Midwest
+8,5,91,2/1/2024,Sales,Atlanta,South
+8,6,100,2/1/2024,Sales,Seattle,West
+8,7,77,2/1/2024,Sales,Denver,West
+8,8,68,2/1/2024,Sales,Nashville,South
+8,9,83,2/1/2024,Sales,Miami,South
+8,10,81,2/1/2024,Sales,Remote-East,East
+8,11,93,2/1/2024,Sales,Remote-Central,Central
+8,12,93,2/1/2024,Sales,Remote-West,West
+9,1,91,2/1/2024,Operations,Las Vegas,West
+9,2,79,2/1/2024,Operations,Phoenix,West
+9,3,88,2/1/2024,Operations,Austin,South
+9,4,89,2/1/2024,Operations,Chicago,Midwest
+9,5,65,2/1/2024,Operations,Atlanta,South
+9,6,75,2/1/2024,Operations,Seattle,West
+9,7,64,2/1/2024,Operations,Denver,West
+9,8,65,2/1/2024,Operations,Nashville,South
+9,9,73,2/1/2024,Operations,Miami,South
+9,10,96,2/1/2024,Operations,Remote-East,East
+9,11,72,2/1/2024,Operations,Remote-Central,Central
+9,12,78,2/1/2024,Operations,Remote-West,West
+10,1,91,2/1/2024,Customer Support,Las Vegas,West
+10,2,60,2/1/2024,Customer Support,Phoenix,West
+10,3,85,2/1/2024,Customer Support,Austin,South
+10,4,63,2/1/2024,Customer Support,Chicago,Midwest
+10,5,52,2/1/2024,Customer Support,Atlanta,South
+10,6,50,2/1/2024,Customer Support,Seattle,West
+10,7,52,2/1/2024,Customer Support,Denver,West
+10,8,49,2/1/2024,Customer Support,Nashville,South
+10,9,62,2/1/2024,Customer Support,Miami,South
+10,10,68,2/1/2024,Customer Support,Remote-East,East
+10,11,49,2/1/2024,Customer Support,Remote-Central,Central
+10,12,61,2/1/2024,Customer Support,Remote-West,West
+11,1,9,2/1/2024,Legal,Las Vegas,West
+11,2,6,2/1/2024,Legal,Phoenix,West
+11,3,8,2/1/2024,Legal,Austin,South
+11,4,8,2/1/2024,Legal,Chicago,Midwest
+11,5,4,2/1/2024,Legal,Atlanta,South
+11,6,13,2/1/2024,Legal,Seattle,West
+11,7,14,2/1/2024,Legal,Denver,West
+11,8,4,2/1/2024,Legal,Nashville,South
+11,9,10,2/1/2024,Legal,Miami,South
+11,10,6,2/1/2024,Legal,Remote-East,East
+11,11,13,2/1/2024,Legal,Remote-Central,Central
+11,12,4,2/1/2024,Legal,Remote-West,West
+1,1,3,3/1/2024,Executive,Las Vegas,West
+1,2,3,3/1/2024,Executive,Phoenix,West
+1,3,8,3/1/2024,Executive,Austin,South
+1,4,7,3/1/2024,Executive,Chicago,Midwest
+1,5,5,3/1/2024,Executive,Atlanta,South
+1,6,4,3/1/2024,Executive,Seattle,West
+1,7,4,3/1/2024,Executive,Denver,West
+1,8,6,3/1/2024,Executive,Nashville,South
+1,9,5,3/1/2024,Executive,Miami,South
+1,10,10,3/1/2024,Executive,Remote-East,East
+1,11,5,3/1/2024,Executive,Remote-Central,Central
+1,12,8,3/1/2024,Executive,Remote-West,West
+2,1,232,3/1/2024,Engineering,Las Vegas,West
+2,2,184,3/1/2024,Engineering,Phoenix,West
+2,3,266,3/1/2024,Engineering,Austin,South
+2,4,172,3/1/2024,Engineering,Chicago,Midwest
+2,5,181,3/1/2024,Engineering,Atlanta,South
+2,6,183,3/1/2024,Engineering,Seattle,West
+2,7,159,3/1/2024,Engineering,Denver,West
+2,8,140,3/1/2024,Engineering,Nashville,South
+2,9,167,3/1/2024,Engineering,Miami,South
+2,10,166,3/1/2024,Engineering,Remote-East,East
+2,11,194,3/1/2024,Engineering,Remote-Central,Central
+2,12,155,3/1/2024,Engineering,Remote-West,West
+3,1,73,3/1/2024,Product,Las Vegas,West
+3,2,49,3/1/2024,Product,Phoenix,West
+3,3,65,3/1/2024,Product,Austin,South
+3,4,45,3/1/2024,Product,Chicago,Midwest
+3,5,39,3/1/2024,Product,Atlanta,South
+3,6,60,3/1/2024,Product,Seattle,West
+3,7,45,3/1/2024,Product,Denver,West
+3,8,54,3/1/2024,Product,Nashville,South
+3,9,45,3/1/2024,Product,Miami,South
+3,10,55,3/1/2024,Product,Remote-East,East
+3,11,43,3/1/2024,Product,Remote-Central,Central
+3,12,46,3/1/2024,Product,Remote-West,West
+4,1,59,3/1/2024,IT,Las Vegas,West
+4,2,51,3/1/2024,IT,Phoenix,West
+4,3,80,3/1/2024,IT,Austin,South
+4,4,48,3/1/2024,IT,Chicago,Midwest
+4,5,52,3/1/2024,IT,Atlanta,South
+4,6,69,3/1/2024,IT,Seattle,West
+4,7,43,3/1/2024,IT,Denver,West
+4,8,45,3/1/2024,IT,Nashville,South
+4,9,56,3/1/2024,IT,Miami,South
+4,10,54,3/1/2024,IT,Remote-East,East
+4,11,49,3/1/2024,IT,Remote-Central,Central
+4,12,51,3/1/2024,IT,Remote-West,West
+5,1,35,3/1/2024,Finance,Las Vegas,West
+5,2,35,3/1/2024,Finance,Phoenix,West
+5,3,61,3/1/2024,Finance,Austin,South
+5,4,43,3/1/2024,Finance,Chicago,Midwest
+5,5,44,3/1/2024,Finance,Atlanta,South
+5,6,48,3/1/2024,Finance,Seattle,West
+5,7,39,3/1/2024,Finance,Denver,West
+5,8,32,3/1/2024,Finance,Nashville,South
+5,9,47,3/1/2024,Finance,Miami,South
+5,10,39,3/1/2024,Finance,Remote-East,East
+5,11,47,3/1/2024,Finance,Remote-Central,Central
+5,12,45,3/1/2024,Finance,Remote-West,West
+6,1,45,3/1/2024,HR,Las Vegas,West
+6,2,42,3/1/2024,HR,Phoenix,West
+6,3,68,3/1/2024,HR,Austin,South
+6,4,55,3/1/2024,HR,Chicago,Midwest
+6,5,36,3/1/2024,HR,Atlanta,South
+6,6,48,3/1/2024,HR,Seattle,West
+6,7,45,3/1/2024,HR,Denver,West
+6,8,47,3/1/2024,HR,Nashville,South
+6,9,41,3/1/2024,HR,Miami,South
+6,10,41,3/1/2024,HR,Remote-East,East
+6,11,40,3/1/2024,HR,Remote-Central,Central
+6,12,45,3/1/2024,HR,Remote-West,West
+7,1,62,3/1/2024,Marketing,Las Vegas,West
+7,2,45,3/1/2024,Marketing,Phoenix,West
+7,3,71,3/1/2024,Marketing,Austin,South
+7,4,44,3/1/2024,Marketing,Chicago,Midwest
+7,5,39,3/1/2024,Marketing,Atlanta,South
+7,6,57,3/1/2024,Marketing,Seattle,West
+7,7,51,3/1/2024,Marketing,Denver,West
+7,8,45,3/1/2024,Marketing,Nashville,South
+7,9,63,3/1/2024,Marketing,Miami,South
+7,10,60,3/1/2024,Marketing,Remote-East,East
+7,11,52,3/1/2024,Marketing,Remote-Central,Central
+7,12,48,3/1/2024,Marketing,Remote-West,West
+8,1,117,3/1/2024,Sales,Las Vegas,West
+8,2,90,3/1/2024,Sales,Phoenix,West
+8,3,132,3/1/2024,Sales,Austin,South
+8,4,99,3/1/2024,Sales,Chicago,Midwest
+8,5,92,3/1/2024,Sales,Atlanta,South
+8,6,101,3/1/2024,Sales,Seattle,West
+8,7,80,3/1/2024,Sales,Denver,West
+8,8,69,3/1/2024,Sales,Nashville,South
+8,9,84,3/1/2024,Sales,Miami,South
+8,10,82,3/1/2024,Sales,Remote-East,East
+8,11,92,3/1/2024,Sales,Remote-Central,Central
+8,12,93,3/1/2024,Sales,Remote-West,West
+9,1,93,3/1/2024,Operations,Las Vegas,West
+9,2,80,3/1/2024,Operations,Phoenix,West
+9,3,89,3/1/2024,Operations,Austin,South
+9,4,91,3/1/2024,Operations,Chicago,Midwest
+9,5,67,3/1/2024,Operations,Atlanta,South
+9,6,75,3/1/2024,Operations,Seattle,West
+9,7,64,3/1/2024,Operations,Denver,West
+9,8,65,3/1/2024,Operations,Nashville,South
+9,9,75,3/1/2024,Operations,Miami,South
+9,10,97,3/1/2024,Operations,Remote-East,East
+9,11,73,3/1/2024,Operations,Remote-Central,Central
+9,12,78,3/1/2024,Operations,Remote-West,West
+10,1,90,3/1/2024,Customer Support,Las Vegas,West
+10,2,62,3/1/2024,Customer Support,Phoenix,West
+10,3,86,3/1/2024,Customer Support,Austin,South
+10,4,63,3/1/2024,Customer Support,Chicago,Midwest
+10,5,52,3/1/2024,Customer Support,Atlanta,South
+10,6,50,3/1/2024,Customer Support,Seattle,West
+10,7,52,3/1/2024,Customer Support,Denver,West
+10,8,49,3/1/2024,Customer Support,Nashville,South
+10,9,60,3/1/2024,Customer Support,Miami,South
+10,10,70,3/1/2024,Customer Support,Remote-East,East
+10,11,49,3/1/2024,Customer Support,Remote-Central,Central
+10,12,61,3/1/2024,Customer Support,Remote-West,West
+11,1,9,3/1/2024,Legal,Las Vegas,West
+11,2,6,3/1/2024,Legal,Phoenix,West
+11,3,8,3/1/2024,Legal,Austin,South
+11,4,8,3/1/2024,Legal,Chicago,Midwest
+11,5,4,3/1/2024,Legal,Atlanta,South
+11,6,12,3/1/2024,Legal,Seattle,West
+11,7,14,3/1/2024,Legal,Denver,West
+11,8,4,3/1/2024,Legal,Nashville,South
+11,9,10,3/1/2024,Legal,Miami,South
+11,10,6,3/1/2024,Legal,Remote-East,East
+11,11,13,3/1/2024,Legal,Remote-Central,Central
+11,12,4,3/1/2024,Legal,Remote-West,West
+1,1,3,4/1/2024,Executive,Las Vegas,West
+1,2,3,4/1/2024,Executive,Phoenix,West
+1,3,9,4/1/2024,Executive,Austin,South
+1,4,7,4/1/2024,Executive,Chicago,Midwest
+1,5,5,4/1/2024,Executive,Atlanta,South
+1,6,5,4/1/2024,Executive,Seattle,West
+1,7,4,4/1/2024,Executive,Denver,West
+1,8,6,4/1/2024,Executive,Nashville,South
+1,9,5,4/1/2024,Executive,Miami,South
+1,10,10,4/1/2024,Executive,Remote-East,East
+1,11,5,4/1/2024,Executive,Remote-Central,Central
+1,12,8,4/1/2024,Executive,Remote-West,West
+2,1,234,4/1/2024,Engineering,Las Vegas,West
+2,2,185,4/1/2024,Engineering,Phoenix,West
+2,3,267,4/1/2024,Engineering,Austin,South
+2,4,173,4/1/2024,Engineering,Chicago,Midwest
+2,5,180,4/1/2024,Engineering,Atlanta,South
+2,6,185,4/1/2024,Engineering,Seattle,West
+2,7,159,4/1/2024,Engineering,Denver,West
+2,8,139,4/1/2024,Engineering,Nashville,South
+2,9,167,4/1/2024,Engineering,Miami,South
+2,10,166,4/1/2024,Engineering,Remote-East,East
+2,11,197,4/1/2024,Engineering,Remote-Central,Central
+2,12,157,4/1/2024,Engineering,Remote-West,West
+3,1,74,4/1/2024,Product,Las Vegas,West
+3,2,50,4/1/2024,Product,Phoenix,West
+3,3,66,4/1/2024,Product,Austin,South
+3,4,45,4/1/2024,Product,Chicago,Midwest
+3,5,39,4/1/2024,Product,Atlanta,South
+3,6,61,4/1/2024,Product,Seattle,West
+3,7,46,4/1/2024,Product,Denver,West
+3,8,56,4/1/2024,Product,Nashville,South
+3,9,45,4/1/2024,Product,Miami,South
+3,10,55,4/1/2024,Product,Remote-East,East
+3,11,43,4/1/2024,Product,Remote-Central,Central
+3,12,46,4/1/2024,Product,Remote-West,West
+4,1,59,4/1/2024,IT,Las Vegas,West
+4,2,52,4/1/2024,IT,Phoenix,West
+4,3,79,4/1/2024,IT,Austin,South
+4,4,49,4/1/2024,IT,Chicago,Midwest
+4,5,52,4/1/2024,IT,Atlanta,South
+4,6,69,4/1/2024,IT,Seattle,West
+4,7,43,4/1/2024,IT,Denver,West
+4,8,47,4/1/2024,IT,Nashville,South
+4,9,56,4/1/2024,IT,Miami,South
+4,10,54,4/1/2024,IT,Remote-East,East
+4,11,48,4/1/2024,IT,Remote-Central,Central
+4,12,51,4/1/2024,IT,Remote-West,West
+5,1,35,4/1/2024,Finance,Las Vegas,West
+5,2,35,4/1/2024,Finance,Phoenix,West
+5,3,62,4/1/2024,Finance,Austin,South
+5,4,42,4/1/2024,Finance,Chicago,Midwest
+5,5,44,4/1/2024,Finance,Atlanta,South
+5,6,49,4/1/2024,Finance,Seattle,West
+5,7,41,4/1/2024,Finance,Denver,West
+5,8,32,4/1/2024,Finance,Nashville,South
+5,9,48,4/1/2024,Finance,Miami,South
+5,10,39,4/1/2024,Finance,Remote-East,East
+5,11,48,4/1/2024,Finance,Remote-Central,Central
+5,12,47,4/1/2024,Finance,Remote-West,West
+6,1,46,4/1/2024,HR,Las Vegas,West
+6,2,43,4/1/2024,HR,Phoenix,West
+6,3,68,4/1/2024,HR,Austin,South
+6,4,55,4/1/2024,HR,Chicago,Midwest
+6,5,36,4/1/2024,HR,Atlanta,South
+6,6,48,4/1/2024,HR,Seattle,West
+6,7,45,4/1/2024,HR,Denver,West
+6,8,47,4/1/2024,HR,Nashville,South
+6,9,41,4/1/2024,HR,Miami,South
+6,10,41,4/1/2024,HR,Remote-East,East
+6,11,40,4/1/2024,HR,Remote-Central,Central
+6,12,45,4/1/2024,HR,Remote-West,West
+7,1,63,4/1/2024,Marketing,Las Vegas,West
+7,2,46,4/1/2024,Marketing,Phoenix,West
+7,3,70,4/1/2024,Marketing,Austin,South
+7,4,45,4/1/2024,Marketing,Chicago,Midwest
+7,5,39,4/1/2024,Marketing,Atlanta,South
+7,6,58,4/1/2024,Marketing,Seattle,West
+7,7,51,4/1/2024,Marketing,Denver,West
+7,8,45,4/1/2024,Marketing,Nashville,South
+7,9,63,4/1/2024,Marketing,Miami,South
+7,10,61,4/1/2024,Marketing,Remote-East,East
+7,11,53,4/1/2024,Marketing,Remote-Central,Central
+7,12,50,4/1/2024,Marketing,Remote-West,West
+8,1,118,4/1/2024,Sales,Las Vegas,West
+8,2,92,4/1/2024,Sales,Phoenix,West
+8,3,134,4/1/2024,Sales,Austin,South
+8,4,100,4/1/2024,Sales,Chicago,Midwest
+8,5,93,4/1/2024,Sales,Atlanta,South
+8,6,102,4/1/2024,Sales,Seattle,West
+8,7,83,4/1/2024,Sales,Denver,West
+8,8,71,4/1/2024,Sales,Nashville,South
+8,9,84,4/1/2024,Sales,Miami,South
+8,10,83,4/1/2024,Sales,Remote-East,East
+8,11,93,4/1/2024,Sales,Remote-Central,Central
+8,12,94,4/1/2024,Sales,Remote-West,West
+9,1,93,4/1/2024,Operations,Las Vegas,West
+9,2,82,4/1/2024,Operations,Phoenix,West
+9,3,89,4/1/2024,Operations,Austin,South
+9,4,91,4/1/2024,Operations,Chicago,Midwest
+9,5,67,4/1/2024,Operations,Atlanta,South
+9,6,75,4/1/2024,Operations,Seattle,West
+9,7,66,4/1/2024,Operations,Denver,West
+9,8,65,4/1/2024,Operations,Nashville,South
+9,9,75,4/1/2024,Operations,Miami,South
+9,10,97,4/1/2024,Operations,Remote-East,East
+9,11,74,4/1/2024,Operations,Remote-Central,Central
+9,12,78,4/1/2024,Operations,Remote-West,West
+10,1,90,4/1/2024,Customer Support,Las Vegas,West
+10,2,62,4/1/2024,Customer Support,Phoenix,West
+10,3,86,4/1/2024,Customer Support,Austin,South
+10,4,63,4/1/2024,Customer Support,Chicago,Midwest
+10,5,53,4/1/2024,Customer Support,Atlanta,South
+10,6,50,4/1/2024,Customer Support,Seattle,West
+10,7,53,4/1/2024,Customer Support,Denver,West
+10,8,50,4/1/2024,Customer Support,Nashville,South
+10,9,60,4/1/2024,Customer Support,Miami,South
+10,10,70,4/1/2024,Customer Support,Remote-East,East
+10,11,49,4/1/2024,Customer Support,Remote-Central,Central
+10,12,61,4/1/2024,Customer Support,Remote-West,West
+11,1,9,4/1/2024,Legal,Las Vegas,West
+11,2,6,4/1/2024,Legal,Phoenix,West
+11,3,9,4/1/2024,Legal,Austin,South
+11,4,8,4/1/2024,Legal,Chicago,Midwest
+11,5,6,4/1/2024,Legal,Atlanta,South
+11,6,12,4/1/2024,Legal,Seattle,West
+11,7,14,4/1/2024,Legal,Denver,West
+11,8,4,4/1/2024,Legal,Nashville,South
+11,9,11,4/1/2024,Legal,Miami,South
+11,10,6,4/1/2024,Legal,Remote-East,East
+11,11,13,4/1/2024,Legal,Remote-Central,Central
+11,12,4,4/1/2024,Legal,Remote-West,West
+1,1,3,5/1/2024,Executive,Las Vegas,West
+1,2,3,5/1/2024,Executive,Phoenix,West
+1,3,9,5/1/2024,Executive,Austin,South
+1,4,7,5/1/2024,Executive,Chicago,Midwest
+1,5,5,5/1/2024,Executive,Atlanta,South
+1,6,5,5/1/2024,Executive,Seattle,West
+1,7,4,5/1/2024,Executive,Denver,West
+1,8,6,5/1/2024,Executive,Nashville,South
+1,9,5,5/1/2024,Executive,Miami,South
+1,10,10,5/1/2024,Executive,Remote-East,East
+1,11,5,5/1/2024,Executive,Remote-Central,Central
+1,12,8,5/1/2024,Executive,Remote-West,West
+2,1,237,5/1/2024,Engineering,Las Vegas,West
+2,2,188,5/1/2024,Engineering,Phoenix,West
+2,3,268,5/1/2024,Engineering,Austin,South
+2,4,173,5/1/2024,Engineering,Chicago,Midwest
+2,5,181,5/1/2024,Engineering,Atlanta,South
+2,6,186,5/1/2024,Engineering,Seattle,West
+2,7,159,5/1/2024,Engineering,Denver,West
+2,8,142,5/1/2024,Engineering,Nashville,South
+2,9,170,5/1/2024,Engineering,Miami,South
+2,10,167,5/1/2024,Engineering,Remote-East,East
+2,11,198,5/1/2024,Engineering,Remote-Central,Central
+2,12,158,5/1/2024,Engineering,Remote-West,West
+3,1,75,5/1/2024,Product,Las Vegas,West
+3,2,51,5/1/2024,Product,Phoenix,West
+3,3,66,5/1/2024,Product,Austin,South
+3,4,45,5/1/2024,Product,Chicago,Midwest
+3,5,40,5/1/2024,Product,Atlanta,South
+3,6,61,5/1/2024,Product,Seattle,West
+3,7,46,5/1/2024,Product,Denver,West
+3,8,56,5/1/2024,Product,Nashville,South
+3,9,45,5/1/2024,Product,Miami,South
+3,10,55,5/1/2024,Product,Remote-East,East
+3,11,43,5/1/2024,Product,Remote-Central,Central
+3,12,46,5/1/2024,Product,Remote-West,West
+4,1,60,5/1/2024,IT,Las Vegas,West
+4,2,53,5/1/2024,IT,Phoenix,West
+4,3,79,5/1/2024,IT,Austin,South
+4,4,49,5/1/2024,IT,Chicago,Midwest
+4,5,52,5/1/2024,IT,Atlanta,South
+4,6,68,5/1/2024,IT,Seattle,West
+4,7,43,5/1/2024,IT,Denver,West
+4,8,47,5/1/2024,IT,Nashville,South
+4,9,57,5/1/2024,IT,Miami,South
+4,10,56,5/1/2024,IT,Remote-East,East
+4,11,49,5/1/2024,IT,Remote-Central,Central
+4,12,51,5/1/2024,IT,Remote-West,West
+5,1,35,5/1/2024,Finance,Las Vegas,West
+5,2,35,5/1/2024,Finance,Phoenix,West
+5,3,62,5/1/2024,Finance,Austin,South
+5,4,43,5/1/2024,Finance,Chicago,Midwest
+5,5,44,5/1/2024,Finance,Atlanta,South
+5,6,50,5/1/2024,Finance,Seattle,West
+5,7,42,5/1/2024,Finance,Denver,West
+5,8,31,5/1/2024,Finance,Nashville,South
+5,9,48,5/1/2024,Finance,Miami,South
+5,10,41,5/1/2024,Finance,Remote-East,East
+5,11,49,5/1/2024,Finance,Remote-Central,Central
+5,12,49,5/1/2024,Finance,Remote-West,West
+6,1,46,5/1/2024,HR,Las Vegas,West
+6,2,43,5/1/2024,HR,Phoenix,West
+6,3,68,5/1/2024,HR,Austin,South
+6,4,55,5/1/2024,HR,Chicago,Midwest
+6,5,36,5/1/2024,HR,Atlanta,South
+6,6,49,5/1/2024,HR,Seattle,West
+6,7,45,5/1/2024,HR,Denver,West
+6,8,47,5/1/2024,HR,Nashville,South
+6,9,41,5/1/2024,HR,Miami,South
+6,10,41,5/1/2024,HR,Remote-East,East
+6,11,39,5/1/2024,HR,Remote-Central,Central
+6,12,45,5/1/2024,HR,Remote-West,West
+7,1,62,5/1/2024,Marketing,Las Vegas,West
+7,2,46,5/1/2024,Marketing,Phoenix,West
+7,3,71,5/1/2024,Marketing,Austin,South
+7,4,45,5/1/2024,Marketing,Chicago,Midwest
+7,5,39,5/1/2024,Marketing,Atlanta,South
+7,6,58,5/1/2024,Marketing,Seattle,West
+7,7,51,5/1/2024,Marketing,Denver,West
+7,8,45,5/1/2024,Marketing,Nashville,South
+7,9,64,5/1/2024,Marketing,Miami,South
+7,10,62,5/1/2024,Marketing,Remote-East,East
+7,11,53,5/1/2024,Marketing,Remote-Central,Central
+7,12,50,5/1/2024,Marketing,Remote-West,West
+8,1,119,5/1/2024,Sales,Las Vegas,West
+8,2,93,5/1/2024,Sales,Phoenix,West
+8,3,134,5/1/2024,Sales,Austin,South
+8,4,100,5/1/2024,Sales,Chicago,Midwest
+8,5,95,5/1/2024,Sales,Atlanta,South
+8,6,100,5/1/2024,Sales,Seattle,West
+8,7,82,5/1/2024,Sales,Denver,West
+8,8,71,5/1/2024,Sales,Nashville,South
+8,9,87,5/1/2024,Sales,Miami,South
+8,10,83,5/1/2024,Sales,Remote-East,East
+8,11,93,5/1/2024,Sales,Remote-Central,Central
+8,12,96,5/1/2024,Sales,Remote-West,West
+9,1,93,5/1/2024,Operations,Las Vegas,West
+9,2,82,5/1/2024,Operations,Phoenix,West
+9,3,91,5/1/2024,Operations,Austin,South
+9,4,91,5/1/2024,Operations,Chicago,Midwest
+9,5,67,5/1/2024,Operations,Atlanta,South
+9,6,75,5/1/2024,Operations,Seattle,West
+9,7,67,5/1/2024,Operations,Denver,West
+9,8,65,5/1/2024,Operations,Nashville,South
+9,9,75,5/1/2024,Operations,Miami,South
+9,10,98,5/1/2024,Operations,Remote-East,East
+9,11,75,5/1/2024,Operations,Remote-Central,Central
+9,12,79,5/1/2024,Operations,Remote-West,West
+10,1,90,5/1/2024,Customer Support,Las Vegas,West
+10,2,62,5/1/2024,Customer Support,Phoenix,West
+10,3,87,5/1/2024,Customer Support,Austin,South
+10,4,63,5/1/2024,Customer Support,Chicago,Midwest
+10,5,53,5/1/2024,Customer Support,Atlanta,South
+10,6,50,5/1/2024,Customer Support,Seattle,West
+10,7,55,5/1/2024,Customer Support,Denver,West
+10,8,50,5/1/2024,Customer Support,Nashville,South
+10,9,60,5/1/2024,Customer Support,Miami,South
+10,10,70,5/1/2024,Customer Support,Remote-East,East
+10,11,49,5/1/2024,Customer Support,Remote-Central,Central
+10,12,61,5/1/2024,Customer Support,Remote-West,West
+11,1,9,5/1/2024,Legal,Las Vegas,West
+11,2,6,5/1/2024,Legal,Phoenix,West
+11,3,9,5/1/2024,Legal,Austin,South
+11,4,9,5/1/2024,Legal,Chicago,Midwest
+11,5,6,5/1/2024,Legal,Atlanta,South
+11,6,12,5/1/2024,Legal,Seattle,West
+11,7,14,5/1/2024,Legal,Denver,West
+11,8,4,5/1/2024,Legal,Nashville,South
+11,9,11,5/1/2024,Legal,Miami,South
+11,10,6,5/1/2024,Legal,Remote-East,East
+11,11,13,5/1/2024,Legal,Remote-Central,Central
+11,12,4,5/1/2024,Legal,Remote-West,West
+1,1,3,6/1/2024,Executive,Las Vegas,West
+1,2,3,6/1/2024,Executive,Phoenix,West
+1,3,9,6/1/2024,Executive,Austin,South
+1,4,7,6/1/2024,Executive,Chicago,Midwest
+1,5,5,6/1/2024,Executive,Atlanta,South
+1,6,5,6/1/2024,Executive,Seattle,West
+1,7,4,6/1/2024,Executive,Denver,West
+1,8,6,6/1/2024,Executive,Nashville,South
+1,9,5,6/1/2024,Executive,Miami,South
+1,10,10,6/1/2024,Executive,Remote-East,East
+1,11,5,6/1/2024,Executive,Remote-Central,Central
+1,12,8,6/1/2024,Executive,Remote-West,West
+2,1,238,6/1/2024,Engineering,Las Vegas,West
+2,2,188,6/1/2024,Engineering,Phoenix,West
+2,3,268,6/1/2024,Engineering,Austin,South
+2,4,173,6/1/2024,Engineering,Chicago,Midwest
+2,5,183,6/1/2024,Engineering,Atlanta,South
+2,6,185,6/1/2024,Engineering,Seattle,West
+2,7,161,6/1/2024,Engineering,Denver,West
+2,8,143,6/1/2024,Engineering,Nashville,South
+2,9,170,6/1/2024,Engineering,Miami,South
+2,10,168,6/1/2024,Engineering,Remote-East,East
+2,11,202,6/1/2024,Engineering,Remote-Central,Central
+2,12,159,6/1/2024,Engineering,Remote-West,West
+3,1,76,6/1/2024,Product,Las Vegas,West
+3,2,52,6/1/2024,Product,Phoenix,West
+3,3,67,6/1/2024,Product,Austin,South
+3,4,45,6/1/2024,Product,Chicago,Midwest
+3,5,41,6/1/2024,Product,Atlanta,South
+3,6,60,6/1/2024,Product,Seattle,West
+3,7,46,6/1/2024,Product,Denver,West
+3,8,56,6/1/2024,Product,Nashville,South
+3,9,46,6/1/2024,Product,Miami,South
+3,10,56,6/1/2024,Product,Remote-East,East
+3,11,43,6/1/2024,Product,Remote-Central,Central
+3,12,46,6/1/2024,Product,Remote-West,West
+4,1,61,6/1/2024,IT,Las Vegas,West
+4,2,53,6/1/2024,IT,Phoenix,West
+4,3,79,6/1/2024,IT,Austin,South
+4,4,51,6/1/2024,IT,Chicago,Midwest
+4,5,53,6/1/2024,IT,Atlanta,South
+4,6,68,6/1/2024,IT,Seattle,West
+4,7,43,6/1/2024,IT,Denver,West
+4,8,47,6/1/2024,IT,Nashville,South
+4,9,57,6/1/2024,IT,Miami,South
+4,10,57,6/1/2024,IT,Remote-East,East
+4,11,49,6/1/2024,IT,Remote-Central,Central
+4,12,51,6/1/2024,IT,Remote-West,West
+5,1,35,6/1/2024,Finance,Las Vegas,West
+5,2,36,6/1/2024,Finance,Phoenix,West
+5,3,63,6/1/2024,Finance,Austin,South
+5,4,43,6/1/2024,Finance,Chicago,Midwest
+5,5,44,6/1/2024,Finance,Atlanta,South
+5,6,50,6/1/2024,Finance,Seattle,West
+5,7,43,6/1/2024,Finance,Denver,West
+5,8,31,6/1/2024,Finance,Nashville,South
+5,9,48,6/1/2024,Finance,Miami,South
+5,10,41,6/1/2024,Finance,Remote-East,East
+5,11,50,6/1/2024,Finance,Remote-Central,Central
+5,12,50,6/1/2024,Finance,Remote-West,West
+6,1,47,6/1/2024,HR,Las Vegas,West
+6,2,45,6/1/2024,HR,Phoenix,West
+6,3,68,6/1/2024,HR,Austin,South
+6,4,56,6/1/2024,HR,Chicago,Midwest
+6,5,36,6/1/2024,HR,Atlanta,South
+6,6,49,6/1/2024,HR,Seattle,West
+6,7,45,6/1/2024,HR,Denver,West
+6,8,47,6/1/2024,HR,Nashville,South
+6,9,41,6/1/2024,HR,Miami,South
+6,10,41,6/1/2024,HR,Remote-East,East
+6,11,39,6/1/2024,HR,Remote-Central,Central
+6,12,45,6/1/2024,HR,Remote-West,West
+7,1,62,6/1/2024,Marketing,Las Vegas,West
+7,2,46,6/1/2024,Marketing,Phoenix,West
+7,3,71,6/1/2024,Marketing,Austin,South
+7,4,45,6/1/2024,Marketing,Chicago,Midwest
+7,5,39,6/1/2024,Marketing,Atlanta,South
+7,6,58,6/1/2024,Marketing,Seattle,West
+7,7,51,6/1/2024,Marketing,Denver,West
+7,8,45,6/1/2024,Marketing,Nashville,South
+7,9,65,6/1/2024,Marketing,Miami,South
+7,10,62,6/1/2024,Marketing,Remote-East,East
+7,11,53,6/1/2024,Marketing,Remote-Central,Central
+7,12,50,6/1/2024,Marketing,Remote-West,West
+8,1,119,6/1/2024,Sales,Las Vegas,West
+8,2,94,6/1/2024,Sales,Phoenix,West
+8,3,137,6/1/2024,Sales,Austin,South
+8,4,100,6/1/2024,Sales,Chicago,Midwest
+8,5,95,6/1/2024,Sales,Atlanta,South
+8,6,100,6/1/2024,Sales,Seattle,West
+8,7,82,6/1/2024,Sales,Denver,West
+8,8,71,6/1/2024,Sales,Nashville,South
+8,9,89,6/1/2024,Sales,Miami,South
+8,10,84,6/1/2024,Sales,Remote-East,East
+8,11,93,6/1/2024,Sales,Remote-Central,Central
+8,12,95,6/1/2024,Sales,Remote-West,West
+9,1,93,6/1/2024,Operations,Las Vegas,West
+9,2,82,6/1/2024,Operations,Phoenix,West
+9,3,93,6/1/2024,Operations,Austin,South
+9,4,91,6/1/2024,Operations,Chicago,Midwest
+9,5,68,6/1/2024,Operations,Atlanta,South
+9,6,76,6/1/2024,Operations,Seattle,West
+9,7,68,6/1/2024,Operations,Denver,West
+9,8,66,6/1/2024,Operations,Nashville,South
+9,9,75,6/1/2024,Operations,Miami,South
+9,10,97,6/1/2024,Operations,Remote-East,East
+9,11,75,6/1/2024,Operations,Remote-Central,Central
+9,12,79,6/1/2024,Operations,Remote-West,West
+10,1,89,6/1/2024,Customer Support,Las Vegas,West
+10,2,63,6/1/2024,Customer Support,Phoenix,West
+10,3,88,6/1/2024,Customer Support,Austin,South
+10,4,63,6/1/2024,Customer Support,Chicago,Midwest
+10,5,54,6/1/2024,Customer Support,Atlanta,South
+10,6,51,6/1/2024,Customer Support,Seattle,West
+10,7,57,6/1/2024,Customer Support,Denver,West
+10,8,50,6/1/2024,Customer Support,Nashville,South
+10,9,62,6/1/2024,Customer Support,Miami,South
+10,10,70,6/1/2024,Customer Support,Remote-East,East
+10,11,49,6/1/2024,Customer Support,Remote-Central,Central
+10,12,61,6/1/2024,Customer Support,Remote-West,West
+11,1,9,6/1/2024,Legal,Las Vegas,West
+11,2,6,6/1/2024,Legal,Phoenix,West
+11,3,9,6/1/2024,Legal,Austin,South
+11,4,9,6/1/2024,Legal,Chicago,Midwest
+11,5,6,6/1/2024,Legal,Atlanta,South
+11,6,12,6/1/2024,Legal,Seattle,West
+11,7,14,6/1/2024,Legal,Denver,West
+11,8,4,6/1/2024,Legal,Nashville,South
+11,9,11,6/1/2024,Legal,Miami,South
+11,10,6,6/1/2024,Legal,Remote-East,East
+11,11,13,6/1/2024,Legal,Remote-Central,Central
+11,12,4,6/1/2024,Legal,Remote-West,West
+1,1,4,7/1/2024,Executive,Las Vegas,West
+1,2,3,7/1/2024,Executive,Phoenix,West
+1,3,10,7/1/2024,Executive,Austin,South
+1,4,7,7/1/2024,Executive,Chicago,Midwest
+1,5,5,7/1/2024,Executive,Atlanta,South
+1,6,5,7/1/2024,Executive,Seattle,West
+1,7,4,7/1/2024,Executive,Denver,West
+1,8,6,7/1/2024,Executive,Nashville,South
+1,9,5,7/1/2024,Executive,Miami,South
+1,10,10,7/1/2024,Executive,Remote-East,East
+1,11,5,7/1/2024,Executive,Remote-Central,Central
+1,12,8,7/1/2024,Executive,Remote-West,West
+2,1,239,7/1/2024,Engineering,Las Vegas,West
+2,2,190,7/1/2024,Engineering,Phoenix,West
+2,3,271,7/1/2024,Engineering,Austin,South
+2,4,173,7/1/2024,Engineering,Chicago,Midwest
+2,5,184,7/1/2024,Engineering,Atlanta,South
+2,6,185,7/1/2024,Engineering,Seattle,West
+2,7,161,7/1/2024,Engineering,Denver,West
+2,8,143,7/1/2024,Engineering,Nashville,South
+2,9,172,7/1/2024,Engineering,Miami,South
+2,10,168,7/1/2024,Engineering,Remote-East,East
+2,11,205,7/1/2024,Engineering,Remote-Central,Central
+2,12,160,7/1/2024,Engineering,Remote-West,West
+3,1,76,7/1/2024,Product,Las Vegas,West
+3,2,52,7/1/2024,Product,Phoenix,West
+3,3,69,7/1/2024,Product,Austin,South
+3,4,45,7/1/2024,Product,Chicago,Midwest
+3,5,41,7/1/2024,Product,Atlanta,South
+3,6,60,7/1/2024,Product,Seattle,West
+3,7,46,7/1/2024,Product,Denver,West
+3,8,57,7/1/2024,Product,Nashville,South
+3,9,47,7/1/2024,Product,Miami,South
+3,10,57,7/1/2024,Product,Remote-East,East
+3,11,43,7/1/2024,Product,Remote-Central,Central
+3,12,46,7/1/2024,Product,Remote-West,West
+4,1,62,7/1/2024,IT,Las Vegas,West
+4,2,53,7/1/2024,IT,Phoenix,West
+4,3,80,7/1/2024,IT,Austin,South
+4,4,52,7/1/2024,IT,Chicago,Midwest
+4,5,54,7/1/2024,IT,Atlanta,South
+4,6,68,7/1/2024,IT,Seattle,West
+4,7,43,7/1/2024,IT,Denver,West
+4,8,49,7/1/2024,IT,Nashville,South
+4,9,57,7/1/2024,IT,Miami,South
+4,10,58,7/1/2024,IT,Remote-East,East
+4,11,49,7/1/2024,IT,Remote-Central,Central
+4,12,51,7/1/2024,IT,Remote-West,West
+5,1,35,7/1/2024,Finance,Las Vegas,West
+5,2,36,7/1/2024,Finance,Phoenix,West
+5,3,63,7/1/2024,Finance,Austin,South
+5,4,43,7/1/2024,Finance,Chicago,Midwest
+5,5,45,7/1/2024,Finance,Atlanta,South
+5,6,51,7/1/2024,Finance,Seattle,West
+5,7,43,7/1/2024,Finance,Denver,West
+5,8,32,7/1/2024,Finance,Nashville,South
+5,9,48,7/1/2024,Finance,Miami,South
+5,10,42,7/1/2024,Finance,Remote-East,East
+5,11,50,7/1/2024,Finance,Remote-Central,Central
+5,12,50,7/1/2024,Finance,Remote-West,West
+6,1,47,7/1/2024,HR,Las Vegas,West
+6,2,45,7/1/2024,HR,Phoenix,West
+6,3,68,7/1/2024,HR,Austin,South
+6,4,56,7/1/2024,HR,Chicago,Midwest
+6,5,38,7/1/2024,HR,Atlanta,South
+6,6,50,7/1/2024,HR,Seattle,West
+6,7,45,7/1/2024,HR,Denver,West
+6,8,47,7/1/2024,HR,Nashville,South
+6,9,42,7/1/2024,HR,Miami,South
+6,10,41,7/1/2024,HR,Remote-East,East
+6,11,39,7/1/2024,HR,Remote-Central,Central
+6,12,47,7/1/2024,HR,Remote-West,West
+7,1,63,7/1/2024,Marketing,Las Vegas,West
+7,2,47,7/1/2024,Marketing,Phoenix,West
+7,3,72,7/1/2024,Marketing,Austin,South
+7,4,46,7/1/2024,Marketing,Chicago,Midwest
+7,5,40,7/1/2024,Marketing,Atlanta,South
+7,6,58,7/1/2024,Marketing,Seattle,West
+7,7,52,7/1/2024,Marketing,Denver,West
+7,8,45,7/1/2024,Marketing,Nashville,South
+7,9,66,7/1/2024,Marketing,Miami,South
+7,10,62,7/1/2024,Marketing,Remote-East,East
+7,11,53,7/1/2024,Marketing,Remote-Central,Central
+7,12,52,7/1/2024,Marketing,Remote-West,West
+8,1,119,7/1/2024,Sales,Las Vegas,West
+8,2,98,7/1/2024,Sales,Phoenix,West
+8,3,138,7/1/2024,Sales,Austin,South
+8,4,100,7/1/2024,Sales,Chicago,Midwest
+8,5,96,7/1/2024,Sales,Atlanta,South
+8,6,100,7/1/2024,Sales,Seattle,West
+8,7,83,7/1/2024,Sales,Denver,West
+8,8,72,7/1/2024,Sales,Nashville,South
+8,9,89,7/1/2024,Sales,Miami,South
+8,10,86,7/1/2024,Sales,Remote-East,East
+8,11,93,7/1/2024,Sales,Remote-Central,Central
+8,12,96,7/1/2024,Sales,Remote-West,West
+9,1,92,7/1/2024,Operations,Las Vegas,West
+9,2,83,7/1/2024,Operations,Phoenix,West
+9,3,94,7/1/2024,Operations,Austin,South
+9,4,92,7/1/2024,Operations,Chicago,Midwest
+9,5,68,7/1/2024,Operations,Atlanta,South
+9,6,77,7/1/2024,Operations,Seattle,West
+9,7,69,7/1/2024,Operations,Denver,West
+9,8,66,7/1/2024,Operations,Nashville,South
+9,9,75,7/1/2024,Operations,Miami,South
+9,10,99,7/1/2024,Operations,Remote-East,East
+9,11,76,7/1/2024,Operations,Remote-Central,Central
+9,12,79,7/1/2024,Operations,Remote-West,West
+10,1,89,7/1/2024,Customer Support,Las Vegas,West
+10,2,63,7/1/2024,Customer Support,Phoenix,West
+10,3,88,7/1/2024,Customer Support,Austin,South
+10,4,63,7/1/2024,Customer Support,Chicago,Midwest
+10,5,55,7/1/2024,Customer Support,Atlanta,South
+10,6,52,7/1/2024,Customer Support,Seattle,West
+10,7,57,7/1/2024,Customer Support,Denver,West
+10,8,51,7/1/2024,Customer Support,Nashville,South
+10,9,62,7/1/2024,Customer Support,Miami,South
+10,10,70,7/1/2024,Customer Support,Remote-East,East
+10,11,50,7/1/2024,Customer Support,Remote-Central,Central
+10,12,61,7/1/2024,Customer Support,Remote-West,West
+11,1,9,7/1/2024,Legal,Las Vegas,West
+11,2,6,7/1/2024,Legal,Phoenix,West
+11,3,10,7/1/2024,Legal,Austin,South
+11,4,9,7/1/2024,Legal,Chicago,Midwest
+11,5,6,7/1/2024,Legal,Atlanta,South
+11,6,12,7/1/2024,Legal,Seattle,West
+11,7,14,7/1/2024,Legal,Denver,West
+11,8,4,7/1/2024,Legal,Nashville,South
+11,9,11,7/1/2024,Legal,Miami,South
+11,10,6,7/1/2024,Legal,Remote-East,East
+11,11,13,7/1/2024,Legal,Remote-Central,Central
+11,12,4,7/1/2024,Legal,Remote-West,West
+1,1,4,8/1/2024,Executive,Las Vegas,West
+1,2,3,8/1/2024,Executive,Phoenix,West
+1,3,10,8/1/2024,Executive,Austin,South
+1,4,7,8/1/2024,Executive,Chicago,Midwest
+1,5,5,8/1/2024,Executive,Atlanta,South
+1,6,5,8/1/2024,Executive,Seattle,West
+1,7,4,8/1/2024,Executive,Denver,West
+1,8,6,8/1/2024,Executive,Nashville,South
+1,9,5,8/1/2024,Executive,Miami,South
+1,10,10,8/1/2024,Executive,Remote-East,East
+1,11,5,8/1/2024,Executive,Remote-Central,Central
+1,12,8,8/1/2024,Executive,Remote-West,West
+2,1,241,8/1/2024,Engineering,Las Vegas,West
+2,2,191,8/1/2024,Engineering,Phoenix,West
+2,3,274,8/1/2024,Engineering,Austin,South
+2,4,174,8/1/2024,Engineering,Chicago,Midwest
+2,5,185,8/1/2024,Engineering,Atlanta,South
+2,6,184,8/1/2024,Engineering,Seattle,West
+2,7,161,8/1/2024,Engineering,Denver,West
+2,8,144,8/1/2024,Engineering,Nashville,South
+2,9,173,8/1/2024,Engineering,Miami,South
+2,10,170,8/1/2024,Engineering,Remote-East,East
+2,11,207,8/1/2024,Engineering,Remote-Central,Central
+2,12,163,8/1/2024,Engineering,Remote-West,West
+3,1,76,8/1/2024,Product,Las Vegas,West
+3,2,52,8/1/2024,Product,Phoenix,West
+3,3,70,8/1/2024,Product,Austin,South
+3,4,45,8/1/2024,Product,Chicago,Midwest
+3,5,43,8/1/2024,Product,Atlanta,South
+3,6,62,8/1/2024,Product,Seattle,West
+3,7,46,8/1/2024,Product,Denver,West
+3,8,57,8/1/2024,Product,Nashville,South
+3,9,47,8/1/2024,Product,Miami,South
+3,10,56,8/1/2024,Product,Remote-East,East
+3,11,43,8/1/2024,Product,Remote-Central,Central
+3,12,47,8/1/2024,Product,Remote-West,West
+4,1,62,8/1/2024,IT,Las Vegas,West
+4,2,53,8/1/2024,IT,Phoenix,West
+4,3,81,8/1/2024,IT,Austin,South
+4,4,53,8/1/2024,IT,Chicago,Midwest
+4,5,54,8/1/2024,IT,Atlanta,South
+4,6,69,8/1/2024,IT,Seattle,West
+4,7,43,8/1/2024,IT,Denver,West
+4,8,50,8/1/2024,IT,Nashville,South
+4,9,57,8/1/2024,IT,Miami,South
+4,10,58,8/1/2024,IT,Remote-East,East
+4,11,51,8/1/2024,IT,Remote-Central,Central
+4,12,51,8/1/2024,IT,Remote-West,West
+5,1,36,8/1/2024,Finance,Las Vegas,West
+5,2,36,8/1/2024,Finance,Phoenix,West
+5,3,63,8/1/2024,Finance,Austin,South
+5,4,44,8/1/2024,Finance,Chicago,Midwest
+5,5,44,8/1/2024,Finance,Atlanta,South
+5,6,51,8/1/2024,Finance,Seattle,West
+5,7,43,8/1/2024,Finance,Denver,West
+5,8,32,8/1/2024,Finance,Nashville,South
+5,9,48,8/1/2024,Finance,Miami,South
+5,10,42,8/1/2024,Finance,Remote-East,East
+5,11,50,8/1/2024,Finance,Remote-Central,Central
+5,12,50,8/1/2024,Finance,Remote-West,West
+6,1,50,8/1/2024,HR,Las Vegas,West
+6,2,46,8/1/2024,HR,Phoenix,West
+6,3,68,8/1/2024,HR,Austin,South
+6,4,56,8/1/2024,HR,Chicago,Midwest
+6,5,38,8/1/2024,HR,Atlanta,South
+6,6,51,8/1/2024,HR,Seattle,West
+6,7,45,8/1/2024,HR,Denver,West
+6,8,48,8/1/2024,HR,Nashville,South
+6,9,43,8/1/2024,HR,Miami,South
+6,10,42,8/1/2024,HR,Remote-East,East
+6,11,39,8/1/2024,HR,Remote-Central,Central
+6,12,48,8/1/2024,HR,Remote-West,West
+7,1,62,8/1/2024,Marketing,Las Vegas,West
+7,2,48,8/1/2024,Marketing,Phoenix,West
+7,3,72,8/1/2024,Marketing,Austin,South
+7,4,46,8/1/2024,Marketing,Chicago,Midwest
+7,5,40,8/1/2024,Marketing,Atlanta,South
+7,6,58,8/1/2024,Marketing,Seattle,West
+7,7,52,8/1/2024,Marketing,Denver,West
+7,8,45,8/1/2024,Marketing,Nashville,South
+7,9,64,8/1/2024,Marketing,Miami,South
+7,10,62,8/1/2024,Marketing,Remote-East,East
+7,11,52,8/1/2024,Marketing,Remote-Central,Central
+7,12,52,8/1/2024,Marketing,Remote-West,West
+8,1,119,8/1/2024,Sales,Las Vegas,West
+8,2,99,8/1/2024,Sales,Phoenix,West
+8,3,142,8/1/2024,Sales,Austin,South
+8,4,100,8/1/2024,Sales,Chicago,Midwest
+8,5,97,8/1/2024,Sales,Atlanta,South
+8,6,100,8/1/2024,Sales,Seattle,West
+8,7,83,8/1/2024,Sales,Denver,West
+8,8,72,8/1/2024,Sales,Nashville,South
+8,9,90,8/1/2024,Sales,Miami,South
+8,10,85,8/1/2024,Sales,Remote-East,East
+8,11,94,8/1/2024,Sales,Remote-Central,Central
+8,12,96,8/1/2024,Sales,Remote-West,West
+9,1,92,8/1/2024,Operations,Las Vegas,West
+9,2,85,8/1/2024,Operations,Phoenix,West
+9,3,95,8/1/2024,Operations,Austin,South
+9,4,92,8/1/2024,Operations,Chicago,Midwest
+9,5,68,8/1/2024,Operations,Atlanta,South
+9,6,77,8/1/2024,Operations,Seattle,West
+9,7,69,8/1/2024,Operations,Denver,West
+9,8,66,8/1/2024,Operations,Nashville,South
+9,9,76,8/1/2024,Operations,Miami,South
+9,10,100,8/1/2024,Operations,Remote-East,East
+9,11,77,8/1/2024,Operations,Remote-Central,Central
+9,12,80,8/1/2024,Operations,Remote-West,West
+10,1,88,8/1/2024,Customer Support,Las Vegas,West
+10,2,64,8/1/2024,Customer Support,Phoenix,West
+10,3,88,8/1/2024,Customer Support,Austin,South
+10,4,63,8/1/2024,Customer Support,Chicago,Midwest
+10,5,56,8/1/2024,Customer Support,Atlanta,South
+10,6,54,8/1/2024,Customer Support,Seattle,West
+10,7,59,8/1/2024,Customer Support,Denver,West
+10,8,52,8/1/2024,Customer Support,Nashville,South
+10,9,62,8/1/2024,Customer Support,Miami,South
+10,10,72,8/1/2024,Customer Support,Remote-East,East
+10,11,51,8/1/2024,Customer Support,Remote-Central,Central
+10,12,61,8/1/2024,Customer Support,Remote-West,West
+11,1,9,8/1/2024,Legal,Las Vegas,West
+11,2,6,8/1/2024,Legal,Phoenix,West
+11,3,10,8/1/2024,Legal,Austin,South
+11,4,9,8/1/2024,Legal,Chicago,Midwest
+11,5,6,8/1/2024,Legal,Atlanta,South
+11,6,12,8/1/2024,Legal,Seattle,West
+11,7,14,8/1/2024,Legal,Denver,West
+11,8,4,8/1/2024,Legal,Nashville,South
+11,9,11,8/1/2024,Legal,Miami,South
+11,10,6,8/1/2024,Legal,Remote-East,East
+11,11,13,8/1/2024,Legal,Remote-Central,Central
+11,12,4,8/1/2024,Legal,Remote-West,West
+1,1,4,9/1/2024,Executive,Las Vegas,West
+1,2,3,9/1/2024,Executive,Phoenix,West
+1,3,11,9/1/2024,Executive,Austin,South
+1,4,7,9/1/2024,Executive,Chicago,Midwest
+1,5,5,9/1/2024,Executive,Atlanta,South
+1,6,5,9/1/2024,Executive,Seattle,West
+1,7,4,9/1/2024,Executive,Denver,West
+1,8,6,9/1/2024,Executive,Nashville,South
+1,9,5,9/1/2024,Executive,Miami,South
+1,10,10,9/1/2024,Executive,Remote-East,East
+1,11,5,9/1/2024,Executive,Remote-Central,Central
+1,12,8,9/1/2024,Executive,Remote-West,West
+2,1,242,9/1/2024,Engineering,Las Vegas,West
+2,2,193,9/1/2024,Engineering,Phoenix,West
+2,3,277,9/1/2024,Engineering,Austin,South
+2,4,176,9/1/2024,Engineering,Chicago,Midwest
+2,5,184,9/1/2024,Engineering,Atlanta,South
+2,6,183,9/1/2024,Engineering,Seattle,West
+2,7,162,9/1/2024,Engineering,Denver,West
+2,8,145,9/1/2024,Engineering,Nashville,South
+2,9,174,9/1/2024,Engineering,Miami,South
+2,10,172,9/1/2024,Engineering,Remote-East,East
+2,11,207,9/1/2024,Engineering,Remote-Central,Central
+2,12,162,9/1/2024,Engineering,Remote-West,West
+3,1,76,9/1/2024,Product,Las Vegas,West
+3,2,53,9/1/2024,Product,Phoenix,West
+3,3,71,9/1/2024,Product,Austin,South
+3,4,45,9/1/2024,Product,Chicago,Midwest
+3,5,43,9/1/2024,Product,Atlanta,South
+3,6,62,9/1/2024,Product,Seattle,West
+3,7,47,9/1/2024,Product,Denver,West
+3,8,57,9/1/2024,Product,Nashville,South
+3,9,48,9/1/2024,Product,Miami,South
+3,10,56,9/1/2024,Product,Remote-East,East
+3,11,43,9/1/2024,Product,Remote-Central,Central
+3,12,48,9/1/2024,Product,Remote-West,West
+4,1,63,9/1/2024,IT,Las Vegas,West
+4,2,54,9/1/2024,IT,Phoenix,West
+4,3,85,9/1/2024,IT,Austin,South
+4,4,54,9/1/2024,IT,Chicago,Midwest
+4,5,55,9/1/2024,IT,Atlanta,South
+4,6,68,9/1/2024,IT,Seattle,West
+4,7,45,9/1/2024,IT,Denver,West
+4,8,49,9/1/2024,IT,Nashville,South
+4,9,57,9/1/2024,IT,Miami,South
+4,10,58,9/1/2024,IT,Remote-East,East
+4,11,51,9/1/2024,IT,Remote-Central,Central
+4,12,52,9/1/2024,IT,Remote-West,West
+5,1,38,9/1/2024,Finance,Las Vegas,West
+5,2,36,9/1/2024,Finance,Phoenix,West
+5,3,64,9/1/2024,Finance,Austin,South
+5,4,45,9/1/2024,Finance,Chicago,Midwest
+5,5,44,9/1/2024,Finance,Atlanta,South
+5,6,51,9/1/2024,Finance,Seattle,West
+5,7,44,9/1/2024,Finance,Denver,West
+5,8,32,9/1/2024,Finance,Nashville,South
+5,9,49,9/1/2024,Finance,Miami,South
+5,10,42,9/1/2024,Finance,Remote-East,East
+5,11,50,9/1/2024,Finance,Remote-Central,Central
+5,12,50,9/1/2024,Finance,Remote-West,West
+6,1,50,9/1/2024,HR,Las Vegas,West
+6,2,48,9/1/2024,HR,Phoenix,West
+6,3,68,9/1/2024,HR,Austin,South
+6,4,56,9/1/2024,HR,Chicago,Midwest
+6,5,39,9/1/2024,HR,Atlanta,South
+6,6,52,9/1/2024,HR,Seattle,West
+6,7,45,9/1/2024,HR,Denver,West
+6,8,48,9/1/2024,HR,Nashville,South
+6,9,44,9/1/2024,HR,Miami,South
+6,10,42,9/1/2024,HR,Remote-East,East
+6,11,39,9/1/2024,HR,Remote-Central,Central
+6,12,48,9/1/2024,HR,Remote-West,West
+7,1,61,9/1/2024,Marketing,Las Vegas,West
+7,2,49,9/1/2024,Marketing,Phoenix,West
+7,3,72,9/1/2024,Marketing,Austin,South
+7,4,47,9/1/2024,Marketing,Chicago,Midwest
+7,5,40,9/1/2024,Marketing,Atlanta,South
+7,6,59,9/1/2024,Marketing,Seattle,West
+7,7,52,9/1/2024,Marketing,Denver,West
+7,8,45,9/1/2024,Marketing,Nashville,South
+7,9,64,9/1/2024,Marketing,Miami,South
+7,10,62,9/1/2024,Marketing,Remote-East,East
+7,11,53,9/1/2024,Marketing,Remote-Central,Central
+7,12,52,9/1/2024,Marketing,Remote-West,West
+8,1,120,9/1/2024,Sales,Las Vegas,West
+8,2,98,9/1/2024,Sales,Phoenix,West
+8,3,143,9/1/2024,Sales,Austin,South
+8,4,101,9/1/2024,Sales,Chicago,Midwest
+8,5,97,9/1/2024,Sales,Atlanta,South
+8,6,101,9/1/2024,Sales,Seattle,West
+8,7,84,9/1/2024,Sales,Denver,West
+8,8,72,9/1/2024,Sales,Nashville,South
+8,9,90,9/1/2024,Sales,Miami,South
+8,10,84,9/1/2024,Sales,Remote-East,East
+8,11,96,9/1/2024,Sales,Remote-Central,Central
+8,12,95,9/1/2024,Sales,Remote-West,West
+9,1,95,9/1/2024,Operations,Las Vegas,West
+9,2,86,9/1/2024,Operations,Phoenix,West
+9,3,96,9/1/2024,Operations,Austin,South
+9,4,92,9/1/2024,Operations,Chicago,Midwest
+9,5,70,9/1/2024,Operations,Atlanta,South
+9,6,77,9/1/2024,Operations,Seattle,West
+9,7,71,9/1/2024,Operations,Denver,West
+9,8,66,9/1/2024,Operations,Nashville,South
+9,9,76,9/1/2024,Operations,Miami,South
+9,10,100,9/1/2024,Operations,Remote-East,East
+9,11,77,9/1/2024,Operations,Remote-Central,Central
+9,12,80,9/1/2024,Operations,Remote-West,West
+10,1,90,9/1/2024,Customer Support,Las Vegas,West
+10,2,64,9/1/2024,Customer Support,Phoenix,West
+10,3,88,9/1/2024,Customer Support,Austin,South
+10,4,63,9/1/2024,Customer Support,Chicago,Midwest
+10,5,56,9/1/2024,Customer Support,Atlanta,South
+10,6,55,9/1/2024,Customer Support,Seattle,West
+10,7,59,9/1/2024,Customer Support,Denver,West
+10,8,52,9/1/2024,Customer Support,Nashville,South
+10,9,61,9/1/2024,Customer Support,Miami,South
+10,10,72,9/1/2024,Customer Support,Remote-East,East
+10,11,51,9/1/2024,Customer Support,Remote-Central,Central
+10,12,61,9/1/2024,Customer Support,Remote-West,West
+11,1,9,9/1/2024,Legal,Las Vegas,West
+11,2,6,9/1/2024,Legal,Phoenix,West
+11,3,10,9/1/2024,Legal,Austin,South
+11,4,9,9/1/2024,Legal,Chicago,Midwest
+11,5,6,9/1/2024,Legal,Atlanta,South
+11,6,12,9/1/2024,Legal,Seattle,West
+11,7,14,9/1/2024,Legal,Denver,West
+11,8,4,9/1/2024,Legal,Nashville,South
+11,9,11,9/1/2024,Legal,Miami,South
+11,10,6,9/1/2024,Legal,Remote-East,East
+11,11,13,9/1/2024,Legal,Remote-Central,Central
+11,12,4,9/1/2024,Legal,Remote-West,West
+1,1,4,10/1/2024,Executive,Las Vegas,West
+1,2,3,10/1/2024,Executive,Phoenix,West
+1,3,11,10/1/2024,Executive,Austin,South
+1,4,7,10/1/2024,Executive,Chicago,Midwest
+1,5,5,10/1/2024,Executive,Atlanta,South
+1,6,5,10/1/2024,Executive,Seattle,West
+1,7,4,10/1/2024,Executive,Denver,West
+1,8,6,10/1/2024,Executive,Nashville,South
+1,9,5,10/1/2024,Executive,Miami,South
+1,10,11,10/1/2024,Executive,Remote-East,East
+1,11,5,10/1/2024,Executive,Remote-Central,Central
+1,12,8,10/1/2024,Executive,Remote-West,West
+2,1,244,10/1/2024,Engineering,Las Vegas,West
+2,2,194,10/1/2024,Engineering,Phoenix,West
+2,3,278,10/1/2024,Engineering,Austin,South
+2,4,177,10/1/2024,Engineering,Chicago,Midwest
+2,5,186,10/1/2024,Engineering,Atlanta,South
+2,6,184,10/1/2024,Engineering,Seattle,West
+2,7,162,10/1/2024,Engineering,Denver,West
+2,8,147,10/1/2024,Engineering,Nashville,South
+2,9,174,10/1/2024,Engineering,Miami,South
+2,10,172,10/1/2024,Engineering,Remote-East,East
+2,11,207,10/1/2024,Engineering,Remote-Central,Central
+2,12,164,10/1/2024,Engineering,Remote-West,West
+3,1,76,10/1/2024,Product,Las Vegas,West
+3,2,53,10/1/2024,Product,Phoenix,West
+3,3,71,10/1/2024,Product,Austin,South
+3,4,45,10/1/2024,Product,Chicago,Midwest
+3,5,44,10/1/2024,Product,Atlanta,South
+3,6,63,10/1/2024,Product,Seattle,West
+3,7,47,10/1/2024,Product,Denver,West
+3,8,57,10/1/2024,Product,Nashville,South
+3,9,48,10/1/2024,Product,Miami,South
+3,10,56,10/1/2024,Product,Remote-East,East
+3,11,44,10/1/2024,Product,Remote-Central,Central
+3,12,48,10/1/2024,Product,Remote-West,West
+4,1,63,10/1/2024,IT,Las Vegas,West
+4,2,54,10/1/2024,IT,Phoenix,West
+4,3,86,10/1/2024,IT,Austin,South
+4,4,57,10/1/2024,IT,Chicago,Midwest
+4,5,55,10/1/2024,IT,Atlanta,South
+4,6,68,10/1/2024,IT,Seattle,West
+4,7,45,10/1/2024,IT,Denver,West
+4,8,49,10/1/2024,IT,Nashville,South
+4,9,57,10/1/2024,IT,Miami,South
+4,10,58,10/1/2024,IT,Remote-East,East
+4,11,51,10/1/2024,IT,Remote-Central,Central
+4,12,52,10/1/2024,IT,Remote-West,West
+5,1,38,10/1/2024,Finance,Las Vegas,West
+5,2,36,10/1/2024,Finance,Phoenix,West
+5,3,65,10/1/2024,Finance,Austin,South
+5,4,46,10/1/2024,Finance,Chicago,Midwest
+5,5,45,10/1/2024,Finance,Atlanta,South
+5,6,52,10/1/2024,Finance,Seattle,West
+5,7,44,10/1/2024,Finance,Denver,West
+5,8,32,10/1/2024,Finance,Nashville,South
+5,9,49,10/1/2024,Finance,Miami,South
+5,10,43,10/1/2024,Finance,Remote-East,East
+5,11,50,10/1/2024,Finance,Remote-Central,Central
+5,12,50,10/1/2024,Finance,Remote-West,West
+6,1,50,10/1/2024,HR,Las Vegas,West
+6,2,49,10/1/2024,HR,Phoenix,West
+6,3,68,10/1/2024,HR,Austin,South
+6,4,56,10/1/2024,HR,Chicago,Midwest
+6,5,41,10/1/2024,HR,Atlanta,South
+6,6,52,10/1/2024,HR,Seattle,West
+6,7,44,10/1/2024,HR,Denver,West
+6,8,48,10/1/2024,HR,Nashville,South
+6,9,44,10/1/2024,HR,Miami,South
+6,10,42,10/1/2024,HR,Remote-East,East
+6,11,40,10/1/2024,HR,Remote-Central,Central
+6,12,49,10/1/2024,HR,Remote-West,West
+7,1,63,10/1/2024,Marketing,Las Vegas,West
+7,2,49,10/1/2024,Marketing,Phoenix,West
+7,3,72,10/1/2024,Marketing,Austin,South
+7,4,47,10/1/2024,Marketing,Chicago,Midwest
+7,5,40,10/1/2024,Marketing,Atlanta,South
+7,6,59,10/1/2024,Marketing,Seattle,West
+7,7,52,10/1/2024,Marketing,Denver,West
+7,8,45,10/1/2024,Marketing,Nashville,South
+7,9,64,10/1/2024,Marketing,Miami,South
+7,10,63,10/1/2024,Marketing,Remote-East,East
+7,11,52,10/1/2024,Marketing,Remote-Central,Central
+7,12,53,10/1/2024,Marketing,Remote-West,West
+8,1,119,10/1/2024,Sales,Las Vegas,West
+8,2,98,10/1/2024,Sales,Phoenix,West
+8,3,143,10/1/2024,Sales,Austin,South
+8,4,101,10/1/2024,Sales,Chicago,Midwest
+8,5,99,10/1/2024,Sales,Atlanta,South
+8,6,101,10/1/2024,Sales,Seattle,West
+8,7,84,10/1/2024,Sales,Denver,West
+8,8,73,10/1/2024,Sales,Nashville,South
+8,9,90,10/1/2024,Sales,Miami,South
+8,10,85,10/1/2024,Sales,Remote-East,East
+8,11,96,10/1/2024,Sales,Remote-Central,Central
+8,12,95,10/1/2024,Sales,Remote-West,West
+9,1,95,10/1/2024,Operations,Las Vegas,West
+9,2,87,10/1/2024,Operations,Phoenix,West
+9,3,96,10/1/2024,Operations,Austin,South
+9,4,92,10/1/2024,Operations,Chicago,Midwest
+9,5,70,10/1/2024,Operations,Atlanta,South
+9,6,78,10/1/2024,Operations,Seattle,West
+9,7,71,10/1/2024,Operations,Denver,West
+9,8,66,10/1/2024,Operations,Nashville,South
+9,9,76,10/1/2024,Operations,Miami,South
+9,10,100,10/1/2024,Operations,Remote-East,East
+9,11,78,10/1/2024,Operations,Remote-Central,Central
+9,12,80,10/1/2024,Operations,Remote-West,West
+10,1,91,10/1/2024,Customer Support,Las Vegas,West
+10,2,64,10/1/2024,Customer Support,Phoenix,West
+10,3,93,10/1/2024,Customer Support,Austin,South
+10,4,63,10/1/2024,Customer Support,Chicago,Midwest
+10,5,56,10/1/2024,Customer Support,Atlanta,South
+10,6,55,10/1/2024,Customer Support,Seattle,West
+10,7,60,10/1/2024,Customer Support,Denver,West
+10,8,52,10/1/2024,Customer Support,Nashville,South
+10,9,61,10/1/2024,Customer Support,Miami,South
+10,10,73,10/1/2024,Customer Support,Remote-East,East
+10,11,51,10/1/2024,Customer Support,Remote-Central,Central
+10,12,62,10/1/2024,Customer Support,Remote-West,West
+11,1,9,10/1/2024,Legal,Las Vegas,West
+11,2,6,10/1/2024,Legal,Phoenix,West
+11,3,10,10/1/2024,Legal,Austin,South
+11,4,9,10/1/2024,Legal,Chicago,Midwest
+11,5,7,10/1/2024,Legal,Atlanta,South
+11,6,12,10/1/2024,Legal,Seattle,West
+11,7,14,10/1/2024,Legal,Denver,West
+11,8,4,10/1/2024,Legal,Nashville,South
+11,9,11,10/1/2024,Legal,Miami,South
+11,10,6,10/1/2024,Legal,Remote-East,East
+11,11,13,10/1/2024,Legal,Remote-Central,Central
+11,12,4,10/1/2024,Legal,Remote-West,West
+1,1,4,11/1/2024,Executive,Las Vegas,West
+1,2,3,11/1/2024,Executive,Phoenix,West
+1,3,11,11/1/2024,Executive,Austin,South
+1,4,7,11/1/2024,Executive,Chicago,Midwest
+1,5,5,11/1/2024,Executive,Atlanta,South
+1,6,5,11/1/2024,Executive,Seattle,West
+1,7,4,11/1/2024,Executive,Denver,West
+1,8,6,11/1/2024,Executive,Nashville,South
+1,9,5,11/1/2024,Executive,Miami,South
+1,10,11,11/1/2024,Executive,Remote-East,East
+1,11,5,11/1/2024,Executive,Remote-Central,Central
+1,12,8,11/1/2024,Executive,Remote-West,West
+2,1,246,11/1/2024,Engineering,Las Vegas,West
+2,2,194,11/1/2024,Engineering,Phoenix,West
+2,3,278,11/1/2024,Engineering,Austin,South
+2,4,179,11/1/2024,Engineering,Chicago,Midwest
+2,5,187,11/1/2024,Engineering,Atlanta,South
+2,6,184,11/1/2024,Engineering,Seattle,West
+2,7,166,11/1/2024,Engineering,Denver,West
+2,8,151,11/1/2024,Engineering,Nashville,South
+2,9,175,11/1/2024,Engineering,Miami,South
+2,10,172,11/1/2024,Engineering,Remote-East,East
+2,11,208,11/1/2024,Engineering,Remote-Central,Central
+2,12,166,11/1/2024,Engineering,Remote-West,West
+3,1,76,11/1/2024,Product,Las Vegas,West
+3,2,53,11/1/2024,Product,Phoenix,West
+3,3,72,11/1/2024,Product,Austin,South
+3,4,45,11/1/2024,Product,Chicago,Midwest
+3,5,45,11/1/2024,Product,Atlanta,South
+3,6,63,11/1/2024,Product,Seattle,West
+3,7,48,11/1/2024,Product,Denver,West
+3,8,57,11/1/2024,Product,Nashville,South
+3,9,49,11/1/2024,Product,Miami,South
+3,10,56,11/1/2024,Product,Remote-East,East
+3,11,44,11/1/2024,Product,Remote-Central,Central
+3,12,48,11/1/2024,Product,Remote-West,West
+4,1,63,11/1/2024,IT,Las Vegas,West
+4,2,54,11/1/2024,IT,Phoenix,West
+4,3,87,11/1/2024,IT,Austin,South
+4,4,58,11/1/2024,IT,Chicago,Midwest
+4,5,56,11/1/2024,IT,Atlanta,South
+4,6,69,11/1/2024,IT,Seattle,West
+4,7,45,11/1/2024,IT,Denver,West
+4,8,49,11/1/2024,IT,Nashville,South
+4,9,55,11/1/2024,IT,Miami,South
+4,10,58,11/1/2024,IT,Remote-East,East
+4,11,51,11/1/2024,IT,Remote-Central,Central
+4,12,52,11/1/2024,IT,Remote-West,West
+5,1,38,11/1/2024,Finance,Las Vegas,West
+5,2,36,11/1/2024,Finance,Phoenix,West
+5,3,66,11/1/2024,Finance,Austin,South
+5,4,46,11/1/2024,Finance,Chicago,Midwest
+5,5,45,11/1/2024,Finance,Atlanta,South
+5,6,52,11/1/2024,Finance,Seattle,West
+5,7,44,11/1/2024,Finance,Denver,West
+5,8,32,11/1/2024,Finance,Nashville,South
+5,9,50,11/1/2024,Finance,Miami,South
+5,10,44,11/1/2024,Finance,Remote-East,East
+5,11,51,11/1/2024,Finance,Remote-Central,Central
+5,12,50,11/1/2024,Finance,Remote-West,West
+6,1,51,11/1/2024,HR,Las Vegas,West
+6,2,49,11/1/2024,HR,Phoenix,West
+6,3,67,11/1/2024,HR,Austin,South
+6,4,57,11/1/2024,HR,Chicago,Midwest
+6,5,41,11/1/2024,HR,Atlanta,South
+6,6,52,11/1/2024,HR,Seattle,West
+6,7,45,11/1/2024,HR,Denver,West
+6,8,48,11/1/2024,HR,Nashville,South
+6,9,44,11/1/2024,HR,Miami,South
+6,10,42,11/1/2024,HR,Remote-East,East
+6,11,41,11/1/2024,HR,Remote-Central,Central
+6,12,49,11/1/2024,HR,Remote-West,West
+7,1,64,11/1/2024,Marketing,Las Vegas,West
+7,2,50,11/1/2024,Marketing,Phoenix,West
+7,3,72,11/1/2024,Marketing,Austin,South
+7,4,47,11/1/2024,Marketing,Chicago,Midwest
+7,5,40,11/1/2024,Marketing,Atlanta,South
+7,6,60,11/1/2024,Marketing,Seattle,West
+7,7,54,11/1/2024,Marketing,Denver,West
+7,8,46,11/1/2024,Marketing,Nashville,South
+7,9,65,11/1/2024,Marketing,Miami,South
+7,10,62,11/1/2024,Marketing,Remote-East,East
+7,11,52,11/1/2024,Marketing,Remote-Central,Central
+7,12,54,11/1/2024,Marketing,Remote-West,West
+8,1,119,11/1/2024,Sales,Las Vegas,West
+8,2,98,11/1/2024,Sales,Phoenix,West
+8,3,146,11/1/2024,Sales,Austin,South
+8,4,101,11/1/2024,Sales,Chicago,Midwest
+8,5,99,11/1/2024,Sales,Atlanta,South
+8,6,101,11/1/2024,Sales,Seattle,West
+8,7,85,11/1/2024,Sales,Denver,West
+8,8,75,11/1/2024,Sales,Nashville,South
+8,9,91,11/1/2024,Sales,Miami,South
+8,10,85,11/1/2024,Sales,Remote-East,East
+8,11,96,11/1/2024,Sales,Remote-Central,Central
+8,12,97,11/1/2024,Sales,Remote-West,West
+9,1,96,11/1/2024,Operations,Las Vegas,West
+9,2,88,11/1/2024,Operations,Phoenix,West
+9,3,98,11/1/2024,Operations,Austin,South
+9,4,93,11/1/2024,Operations,Chicago,Midwest
+9,5,70,11/1/2024,Operations,Atlanta,South
+9,6,79,11/1/2024,Operations,Seattle,West
+9,7,71,11/1/2024,Operations,Denver,West
+9,8,66,11/1/2024,Operations,Nashville,South
+9,9,76,11/1/2024,Operations,Miami,South
+9,10,100,11/1/2024,Operations,Remote-East,East
+9,11,79,11/1/2024,Operations,Remote-Central,Central
+9,12,81,11/1/2024,Operations,Remote-West,West
+10,1,92,11/1/2024,Customer Support,Las Vegas,West
+10,2,63,11/1/2024,Customer Support,Phoenix,West
+10,3,93,11/1/2024,Customer Support,Austin,South
+10,4,63,11/1/2024,Customer Support,Chicago,Midwest
+10,5,59,11/1/2024,Customer Support,Atlanta,South
+10,6,55,11/1/2024,Customer Support,Seattle,West
+10,7,60,11/1/2024,Customer Support,Denver,West
+10,8,53,11/1/2024,Customer Support,Nashville,South
+10,9,62,11/1/2024,Customer Support,Miami,South
+10,10,74,11/1/2024,Customer Support,Remote-East,East
+10,11,51,11/1/2024,Customer Support,Remote-Central,Central
+10,12,62,11/1/2024,Customer Support,Remote-West,West
+11,1,9,11/1/2024,Legal,Las Vegas,West
+11,2,6,11/1/2024,Legal,Phoenix,West
+11,3,10,11/1/2024,Legal,Austin,South
+11,4,9,11/1/2024,Legal,Chicago,Midwest
+11,5,7,11/1/2024,Legal,Atlanta,South
+11,6,12,11/1/2024,Legal,Seattle,West
+11,7,14,11/1/2024,Legal,Denver,West
+11,8,4,11/1/2024,Legal,Nashville,South
+11,9,11,11/1/2024,Legal,Miami,South
+11,10,6,11/1/2024,Legal,Remote-East,East
+11,11,13,11/1/2024,Legal,Remote-Central,Central
+11,12,4,11/1/2024,Legal,Remote-West,West
+1,1,4,12/1/2024,Executive,Las Vegas,West
+1,2,3,12/1/2024,Executive,Phoenix,West
+1,3,11,12/1/2024,Executive,Austin,South
+1,4,7,12/1/2024,Executive,Chicago,Midwest
+1,5,5,12/1/2024,Executive,Atlanta,South
+1,6,5,12/1/2024,Executive,Seattle,West
+1,7,4,12/1/2024,Executive,Denver,West
+1,8,6,12/1/2024,Executive,Nashville,South
+1,9,5,12/1/2024,Executive,Miami,South
+1,10,11,12/1/2024,Executive,Remote-East,East
+1,11,5,12/1/2024,Executive,Remote-Central,Central
+1,12,8,12/1/2024,Executive,Remote-West,West
+2,1,245,12/1/2024,Engineering,Las Vegas,West
+2,2,198,12/1/2024,Engineering,Phoenix,West
+2,3,279,12/1/2024,Engineering,Austin,South
+2,4,180,12/1/2024,Engineering,Chicago,Midwest
+2,5,187,12/1/2024,Engineering,Atlanta,South
+2,6,186,12/1/2024,Engineering,Seattle,West
+2,7,169,12/1/2024,Engineering,Denver,West
+2,8,152,12/1/2024,Engineering,Nashville,South
+2,9,174,12/1/2024,Engineering,Miami,South
+2,10,174,12/1/2024,Engineering,Remote-East,East
+2,11,209,12/1/2024,Engineering,Remote-Central,Central
+2,12,166,12/1/2024,Engineering,Remote-West,West
+3,1,76,12/1/2024,Product,Las Vegas,West
+3,2,53,12/1/2024,Product,Phoenix,West
+3,3,72,12/1/2024,Product,Austin,South
+3,4,45,12/1/2024,Product,Chicago,Midwest
+3,5,46,12/1/2024,Product,Atlanta,South
+3,6,63,12/1/2024,Product,Seattle,West
+3,7,48,12/1/2024,Product,Denver,West
+3,8,57,12/1/2024,Product,Nashville,South
+3,9,51,12/1/2024,Product,Miami,South
+3,10,56,12/1/2024,Product,Remote-East,East
+3,11,44,12/1/2024,Product,Remote-Central,Central
+3,12,48,12/1/2024,Product,Remote-West,West
+4,1,64,12/1/2024,IT,Las Vegas,West
+4,2,54,12/1/2024,IT,Phoenix,West
+4,3,88,12/1/2024,IT,Austin,South
+4,4,58,12/1/2024,IT,Chicago,Midwest
+4,5,56,12/1/2024,IT,Atlanta,South
+4,6,69,12/1/2024,IT,Seattle,West
+4,7,44,12/1/2024,IT,Denver,West
+4,8,50,12/1/2024,IT,Nashville,South
+4,9,55,12/1/2024,IT,Miami,South
+4,10,58,12/1/2024,IT,Remote-East,East
+4,11,53,12/1/2024,IT,Remote-Central,Central
+4,12,53,12/1/2024,IT,Remote-West,West
+5,1,39,12/1/2024,Finance,Las Vegas,West
+5,2,36,12/1/2024,Finance,Phoenix,West
+5,3,66,12/1/2024,Finance,Austin,South
+5,4,46,12/1/2024,Finance,Chicago,Midwest
+5,5,46,12/1/2024,Finance,Atlanta,South
+5,6,52,12/1/2024,Finance,Seattle,West
+5,7,45,12/1/2024,Finance,Denver,West
+5,8,31,12/1/2024,Finance,Nashville,South
+5,9,50,12/1/2024,Finance,Miami,South
+5,10,44,12/1/2024,Finance,Remote-East,East
+5,11,53,12/1/2024,Finance,Remote-Central,Central
+5,12,50,12/1/2024,Finance,Remote-West,West
+6,1,51,12/1/2024,HR,Las Vegas,West
+6,2,50,12/1/2024,HR,Phoenix,West
+6,3,66,12/1/2024,HR,Austin,South
+6,4,57,12/1/2024,HR,Chicago,Midwest
+6,5,41,12/1/2024,HR,Atlanta,South
+6,6,51,12/1/2024,HR,Seattle,West
+6,7,45,12/1/2024,HR,Denver,West
+6,8,48,12/1/2024,HR,Nashville,South
+6,9,43,12/1/2024,HR,Miami,South
+6,10,42,12/1/2024,HR,Remote-East,East
+6,11,41,12/1/2024,HR,Remote-Central,Central
+6,12,49,12/1/2024,HR,Remote-West,West
+7,1,64,12/1/2024,Marketing,Las Vegas,West
+7,2,50,12/1/2024,Marketing,Phoenix,West
+7,3,72,12/1/2024,Marketing,Austin,South
+7,4,47,12/1/2024,Marketing,Chicago,Midwest
+7,5,40,12/1/2024,Marketing,Atlanta,South
+7,6,60,12/1/2024,Marketing,Seattle,West
+7,7,55,12/1/2024,Marketing,Denver,West
+7,8,46,12/1/2024,Marketing,Nashville,South
+7,9,65,12/1/2024,Marketing,Miami,South
+7,10,62,12/1/2024,Marketing,Remote-East,East
+7,11,52,12/1/2024,Marketing,Remote-Central,Central
+7,12,54,12/1/2024,Marketing,Remote-West,West
+8,1,119,12/1/2024,Sales,Las Vegas,West
+8,2,97,12/1/2024,Sales,Phoenix,West
+8,3,146,12/1/2024,Sales,Austin,South
+8,4,101,12/1/2024,Sales,Chicago,Midwest
+8,5,98,12/1/2024,Sales,Atlanta,South
+8,6,101,12/1/2024,Sales,Seattle,West
+8,7,86,12/1/2024,Sales,Denver,West
+8,8,75,12/1/2024,Sales,Nashville,South
+8,9,92,12/1/2024,Sales,Miami,South
+8,10,85,12/1/2024,Sales,Remote-East,East
+8,11,96,12/1/2024,Sales,Remote-Central,Central
+8,12,98,12/1/2024,Sales,Remote-West,West
+9,1,96,12/1/2024,Operations,Las Vegas,West
+9,2,88,12/1/2024,Operations,Phoenix,West
+9,3,100,12/1/2024,Operations,Austin,South
+9,4,93,12/1/2024,Operations,Chicago,Midwest
+9,5,69,12/1/2024,Operations,Atlanta,South
+9,6,79,12/1/2024,Operations,Seattle,West
+9,7,71,12/1/2024,Operations,Denver,West
+9,8,65,12/1/2024,Operations,Nashville,South
+9,9,77,12/1/2024,Operations,Miami,South
+9,10,100,12/1/2024,Operations,Remote-East,East
+9,11,78,12/1/2024,Operations,Remote-Central,Central
+9,12,81,12/1/2024,Operations,Remote-West,West
+10,1,91,12/1/2024,Customer Support,Las Vegas,West
+10,2,64,12/1/2024,Customer Support,Phoenix,West
+10,3,94,12/1/2024,Customer Support,Austin,South
+10,4,63,12/1/2024,Customer Support,Chicago,Midwest
+10,5,59,12/1/2024,Customer Support,Atlanta,South
+10,6,55,12/1/2024,Customer Support,Seattle,West
+10,7,61,12/1/2024,Customer Support,Denver,West
+10,8,53,12/1/2024,Customer Support,Nashville,South
+10,9,64,12/1/2024,Customer Support,Miami,South
+10,10,74,12/1/2024,Customer Support,Remote-East,East
+10,11,52,12/1/2024,Customer Support,Remote-Central,Central
+10,12,63,12/1/2024,Customer Support,Remote-West,West
+11,1,9,12/1/2024,Legal,Las Vegas,West
+11,2,6,12/1/2024,Legal,Phoenix,West
+11,3,10,12/1/2024,Legal,Austin,South
+11,4,9,12/1/2024,Legal,Chicago,Midwest
+11,5,7,12/1/2024,Legal,Atlanta,South
+11,6,12,12/1/2024,Legal,Seattle,West
+11,7,15,12/1/2024,Legal,Denver,West
+11,8,4,12/1/2024,Legal,Nashville,South
+11,9,11,12/1/2024,Legal,Miami,South
+11,10,6,12/1/2024,Legal,Remote-East,East
+11,11,13,12/1/2024,Legal,Remote-Central,Central
+11,12,4,12/1/2024,Legal,Remote-West,West
+1,1,4,1/1/2025,Executive,Las Vegas,West
+1,2,3,1/1/2025,Executive,Phoenix,West
+1,3,12,1/1/2025,Executive,Austin,South
+1,4,7,1/1/2025,Executive,Chicago,Midwest
+1,5,5,1/1/2025,Executive,Atlanta,South
+1,6,5,1/1/2025,Executive,Seattle,West
+1,7,4,1/1/2025,Executive,Denver,West
+1,8,5,1/1/2025,Executive,Nashville,South
+1,9,5,1/1/2025,Executive,Miami,South
+1,10,11,1/1/2025,Executive,Remote-East,East
+1,11,5,1/1/2025,Executive,Remote-Central,Central
+1,12,8,1/1/2025,Executive,Remote-West,West
+2,1,246,1/1/2025,Engineering,Las Vegas,West
+2,2,197,1/1/2025,Engineering,Phoenix,West
+2,3,276,1/1/2025,Engineering,Austin,South
+2,4,181,1/1/2025,Engineering,Chicago,Midwest
+2,5,186,1/1/2025,Engineering,Atlanta,South
+2,6,186,1/1/2025,Engineering,Seattle,West
+2,7,169,1/1/2025,Engineering,Denver,West
+2,8,152,1/1/2025,Engineering,Nashville,South
+2,9,175,1/1/2025,Engineering,Miami,South
+2,10,176,1/1/2025,Engineering,Remote-East,East
+2,11,212,1/1/2025,Engineering,Remote-Central,Central
+2,12,165,1/1/2025,Engineering,Remote-West,West
+3,1,77,1/1/2025,Product,Las Vegas,West
+3,2,53,1/1/2025,Product,Phoenix,West
+3,3,74,1/1/2025,Product,Austin,South
+3,4,44,1/1/2025,Product,Chicago,Midwest
+3,5,47,1/1/2025,Product,Atlanta,South
+3,6,63,1/1/2025,Product,Seattle,West
+3,7,48,1/1/2025,Product,Denver,West
+3,8,57,1/1/2025,Product,Nashville,South
+3,9,51,1/1/2025,Product,Miami,South
+3,10,56,1/1/2025,Product,Remote-East,East
+3,11,44,1/1/2025,Product,Remote-Central,Central
+3,12,48,1/1/2025,Product,Remote-West,West
+4,1,66,1/1/2025,IT,Las Vegas,West
+4,2,54,1/1/2025,IT,Phoenix,West
+4,3,88,1/1/2025,IT,Austin,South
+4,4,58,1/1/2025,IT,Chicago,Midwest
+4,5,57,1/1/2025,IT,Atlanta,South
+4,6,69,1/1/2025,IT,Seattle,West
+4,7,44,1/1/2025,IT,Denver,West
+4,8,49,1/1/2025,IT,Nashville,South
+4,9,56,1/1/2025,IT,Miami,South
+4,10,60,1/1/2025,IT,Remote-East,East
+4,11,54,1/1/2025,IT,Remote-Central,Central
+4,12,53,1/1/2025,IT,Remote-West,West
+5,1,39,1/1/2025,Finance,Las Vegas,West
+5,2,37,1/1/2025,Finance,Phoenix,West
+5,3,66,1/1/2025,Finance,Austin,South
+5,4,46,1/1/2025,Finance,Chicago,Midwest
+5,5,46,1/1/2025,Finance,Atlanta,South
+5,6,53,1/1/2025,Finance,Seattle,West
+5,7,45,1/1/2025,Finance,Denver,West
+5,8,32,1/1/2025,Finance,Nashville,South
+5,9,50,1/1/2025,Finance,Miami,South
+5,10,43,1/1/2025,Finance,Remote-East,East
+5,11,53,1/1/2025,Finance,Remote-Central,Central
+5,12,51,1/1/2025,Finance,Remote-West,West
+6,1,51,1/1/2025,HR,Las Vegas,West
+6,2,50,1/1/2025,HR,Phoenix,West
+6,3,66,1/1/2025,HR,Austin,South
+6,4,57,1/1/2025,HR,Chicago,Midwest
+6,5,41,1/1/2025,HR,Atlanta,South
+6,6,51,1/1/2025,HR,Seattle,West
+6,7,45,1/1/2025,HR,Denver,West
+6,8,48,1/1/2025,HR,Nashville,South
+6,9,44,1/1/2025,HR,Miami,South
+6,10,42,1/1/2025,HR,Remote-East,East
+6,11,41,1/1/2025,HR,Remote-Central,Central
+6,12,48,1/1/2025,HR,Remote-West,West
+7,1,65,1/1/2025,Marketing,Las Vegas,West
+7,2,48,1/1/2025,Marketing,Phoenix,West
+7,3,72,1/1/2025,Marketing,Austin,South
+7,4,47,1/1/2025,Marketing,Chicago,Midwest
+7,5,40,1/1/2025,Marketing,Atlanta,South
+7,6,60,1/1/2025,Marketing,Seattle,West
+7,7,55,1/1/2025,Marketing,Denver,West
+7,8,46,1/1/2025,Marketing,Nashville,South
+7,9,65,1/1/2025,Marketing,Miami,South
+7,10,60,1/1/2025,Marketing,Remote-East,East
+7,11,53,1/1/2025,Marketing,Remote-Central,Central
+7,12,54,1/1/2025,Marketing,Remote-West,West
+8,1,119,1/1/2025,Sales,Las Vegas,West
+8,2,97,1/1/2025,Sales,Phoenix,West
+8,3,149,1/1/2025,Sales,Austin,South
+8,4,101,1/1/2025,Sales,Chicago,Midwest
+8,5,99,1/1/2025,Sales,Atlanta,South
+8,6,102,1/1/2025,Sales,Seattle,West
+8,7,86,1/1/2025,Sales,Denver,West
+8,8,76,1/1/2025,Sales,Nashville,South
+8,9,91,1/1/2025,Sales,Miami,South
+8,10,85,1/1/2025,Sales,Remote-East,East
+8,11,95,1/1/2025,Sales,Remote-Central,Central
+8,12,99,1/1/2025,Sales,Remote-West,West
+9,1,96,1/1/2025,Operations,Las Vegas,West
+9,2,89,1/1/2025,Operations,Phoenix,West
+9,3,102,1/1/2025,Operations,Austin,South
+9,4,93,1/1/2025,Operations,Chicago,Midwest
+9,5,69,1/1/2025,Operations,Atlanta,South
+9,6,80,1/1/2025,Operations,Seattle,West
+9,7,71,1/1/2025,Operations,Denver,West
+9,8,66,1/1/2025,Operations,Nashville,South
+9,9,78,1/1/2025,Operations,Miami,South
+9,10,101,1/1/2025,Operations,Remote-East,East
+9,11,80,1/1/2025,Operations,Remote-Central,Central
+9,12,82,1/1/2025,Operations,Remote-West,West
+10,1,91,1/1/2025,Customer Support,Las Vegas,West
+10,2,64,1/1/2025,Customer Support,Phoenix,West
+10,3,95,1/1/2025,Customer Support,Austin,South
+10,4,64,1/1/2025,Customer Support,Chicago,Midwest
+10,5,59,1/1/2025,Customer Support,Atlanta,South
+10,6,55,1/1/2025,Customer Support,Seattle,West
+10,7,61,1/1/2025,Customer Support,Denver,West
+10,8,53,1/1/2025,Customer Support,Nashville,South
+10,9,64,1/1/2025,Customer Support,Miami,South
+10,10,76,1/1/2025,Customer Support,Remote-East,East
+10,11,53,1/1/2025,Customer Support,Remote-Central,Central
+10,12,63,1/1/2025,Customer Support,Remote-West,West
+11,1,9,1/1/2025,Legal,Las Vegas,West
+11,2,6,1/1/2025,Legal,Phoenix,West
+11,3,10,1/1/2025,Legal,Austin,South
+11,4,9,1/1/2025,Legal,Chicago,Midwest
+11,5,7,1/1/2025,Legal,Atlanta,South
+11,6,12,1/1/2025,Legal,Seattle,West
+11,7,15,1/1/2025,Legal,Denver,West
+11,8,4,1/1/2025,Legal,Nashville,South
+11,9,11,1/1/2025,Legal,Miami,South
+11,10,6,1/1/2025,Legal,Remote-East,East
+11,11,13,1/1/2025,Legal,Remote-Central,Central
+11,12,4,1/1/2025,Legal,Remote-West,West
+1,1,4,2/1/2025,Executive,Las Vegas,West
+1,2,3,2/1/2025,Executive,Phoenix,West
+1,3,12,2/1/2025,Executive,Austin,South
+1,4,7,2/1/2025,Executive,Chicago,Midwest
+1,5,5,2/1/2025,Executive,Atlanta,South
+1,6,5,2/1/2025,Executive,Seattle,West
+1,7,4,2/1/2025,Executive,Denver,West
+1,8,5,2/1/2025,Executive,Nashville,South
+1,9,5,2/1/2025,Executive,Miami,South
+1,10,11,2/1/2025,Executive,Remote-East,East
+1,11,5,2/1/2025,Executive,Remote-Central,Central
+1,12,8,2/1/2025,Executive,Remote-West,West
+2,1,245,2/1/2025,Engineering,Las Vegas,West
+2,2,198,2/1/2025,Engineering,Phoenix,West
+2,3,276,2/1/2025,Engineering,Austin,South
+2,4,182,2/1/2025,Engineering,Chicago,Midwest
+2,5,188,2/1/2025,Engineering,Atlanta,South
+2,6,187,2/1/2025,Engineering,Seattle,West
+2,7,170,2/1/2025,Engineering,Denver,West
+2,8,154,2/1/2025,Engineering,Nashville,South
+2,9,175,2/1/2025,Engineering,Miami,South
+2,10,176,2/1/2025,Engineering,Remote-East,East
+2,11,213,2/1/2025,Engineering,Remote-Central,Central
+2,12,166,2/1/2025,Engineering,Remote-West,West
+3,1,77,2/1/2025,Product,Las Vegas,West
+3,2,53,2/1/2025,Product,Phoenix,West
+3,3,75,2/1/2025,Product,Austin,South
+3,4,45,2/1/2025,Product,Chicago,Midwest
+3,5,47,2/1/2025,Product,Atlanta,South
+3,6,63,2/1/2025,Product,Seattle,West
+3,7,49,2/1/2025,Product,Denver,West
+3,8,57,2/1/2025,Product,Nashville,South
+3,9,52,2/1/2025,Product,Miami,South
+3,10,57,2/1/2025,Product,Remote-East,East
+3,11,45,2/1/2025,Product,Remote-Central,Central
+3,12,49,2/1/2025,Product,Remote-West,West
+4,1,66,2/1/2025,IT,Las Vegas,West
+4,2,55,2/1/2025,IT,Phoenix,West
+4,3,89,2/1/2025,IT,Austin,South
+4,4,58,2/1/2025,IT,Chicago,Midwest
+4,5,55,2/1/2025,IT,Atlanta,South
+4,6,70,2/1/2025,IT,Seattle,West
+4,7,44,2/1/2025,IT,Denver,West
+4,8,49,2/1/2025,IT,Nashville,South
+4,9,55,2/1/2025,IT,Miami,South
+4,10,60,2/1/2025,IT,Remote-East,East
+4,11,54,2/1/2025,IT,Remote-Central,Central
+4,12,53,2/1/2025,IT,Remote-West,West
+5,1,38,2/1/2025,Finance,Las Vegas,West
+5,2,37,2/1/2025,Finance,Phoenix,West
+5,3,66,2/1/2025,Finance,Austin,South
+5,4,46,2/1/2025,Finance,Chicago,Midwest
+5,5,45,2/1/2025,Finance,Atlanta,South
+5,6,53,2/1/2025,Finance,Seattle,West
+5,7,45,2/1/2025,Finance,Denver,West
+5,8,32,2/1/2025,Finance,Nashville,South
+5,9,50,2/1/2025,Finance,Miami,South
+5,10,43,2/1/2025,Finance,Remote-East,East
+5,11,54,2/1/2025,Finance,Remote-Central,Central
+5,12,51,2/1/2025,Finance,Remote-West,West
+6,1,51,2/1/2025,HR,Las Vegas,West
+6,2,50,2/1/2025,HR,Phoenix,West
+6,3,65,2/1/2025,HR,Austin,South
+6,4,57,2/1/2025,HR,Chicago,Midwest
+6,5,41,2/1/2025,HR,Atlanta,South
+6,6,51,2/1/2025,HR,Seattle,West
+6,7,44,2/1/2025,HR,Denver,West
+6,8,49,2/1/2025,HR,Nashville,South
+6,9,44,2/1/2025,HR,Miami,South
+6,10,42,2/1/2025,HR,Remote-East,East
+6,11,41,2/1/2025,HR,Remote-Central,Central
+6,12,51,2/1/2025,HR,Remote-West,West
+7,1,65,2/1/2025,Marketing,Las Vegas,West
+7,2,47,2/1/2025,Marketing,Phoenix,West
+7,3,72,2/1/2025,Marketing,Austin,South
+7,4,47,2/1/2025,Marketing,Chicago,Midwest
+7,5,40,2/1/2025,Marketing,Atlanta,South
+7,6,60,2/1/2025,Marketing,Seattle,West
+7,7,55,2/1/2025,Marketing,Denver,West
+7,8,44,2/1/2025,Marketing,Nashville,South
+7,9,65,2/1/2025,Marketing,Miami,South
+7,10,60,2/1/2025,Marketing,Remote-East,East
+7,11,52,2/1/2025,Marketing,Remote-Central,Central
+7,12,54,2/1/2025,Marketing,Remote-West,West
+8,1,121,2/1/2025,Sales,Las Vegas,West
+8,2,97,2/1/2025,Sales,Phoenix,West
+8,3,148,2/1/2025,Sales,Austin,South
+8,4,101,2/1/2025,Sales,Chicago,Midwest
+8,5,100,2/1/2025,Sales,Atlanta,South
+8,6,102,2/1/2025,Sales,Seattle,West
+8,7,87,2/1/2025,Sales,Denver,West
+8,8,76,2/1/2025,Sales,Nashville,South
+8,9,92,2/1/2025,Sales,Miami,South
+8,10,85,2/1/2025,Sales,Remote-East,East
+8,11,96,2/1/2025,Sales,Remote-Central,Central
+8,12,99,2/1/2025,Sales,Remote-West,West
+9,1,97,2/1/2025,Operations,Las Vegas,West
+9,2,92,2/1/2025,Operations,Phoenix,West
+9,3,102,2/1/2025,Operations,Austin,South
+9,4,93,2/1/2025,Operations,Chicago,Midwest
+9,5,70,2/1/2025,Operations,Atlanta,South
+9,6,80,2/1/2025,Operations,Seattle,West
+9,7,70,2/1/2025,Operations,Denver,West
+9,8,67,2/1/2025,Operations,Nashville,South
+9,9,80,2/1/2025,Operations,Miami,South
+9,10,103,2/1/2025,Operations,Remote-East,East
+9,11,80,2/1/2025,Operations,Remote-Central,Central
+9,12,85,2/1/2025,Operations,Remote-West,West
+10,1,91,2/1/2025,Customer Support,Las Vegas,West
+10,2,64,2/1/2025,Customer Support,Phoenix,West
+10,3,95,2/1/2025,Customer Support,Austin,South
+10,4,64,2/1/2025,Customer Support,Chicago,Midwest
+10,5,60,2/1/2025,Customer Support,Atlanta,South
+10,6,55,2/1/2025,Customer Support,Seattle,West
+10,7,60,2/1/2025,Customer Support,Denver,West
+10,8,52,2/1/2025,Customer Support,Nashville,South
+10,9,64,2/1/2025,Customer Support,Miami,South
+10,10,76,2/1/2025,Customer Support,Remote-East,East
+10,11,53,2/1/2025,Customer Support,Remote-Central,Central
+10,12,63,2/1/2025,Customer Support,Remote-West,West
+11,1,9,2/1/2025,Legal,Las Vegas,West
+11,2,6,2/1/2025,Legal,Phoenix,West
+11,3,10,2/1/2025,Legal,Austin,South
+11,4,9,2/1/2025,Legal,Chicago,Midwest
+11,5,7,2/1/2025,Legal,Atlanta,South
+11,6,12,2/1/2025,Legal,Seattle,West
+11,7,15,2/1/2025,Legal,Denver,West
+11,8,4,2/1/2025,Legal,Nashville,South
+11,9,11,2/1/2025,Legal,Miami,South
+11,10,6,2/1/2025,Legal,Remote-East,East
+11,11,13,2/1/2025,Legal,Remote-Central,Central
+11,12,4,2/1/2025,Legal,Remote-West,West
+1,1,4,3/1/2025,Executive,Las Vegas,West
+1,2,3,3/1/2025,Executive,Phoenix,West
+1,3,12,3/1/2025,Executive,Austin,South
+1,4,7,3/1/2025,Executive,Chicago,Midwest
+1,5,5,3/1/2025,Executive,Atlanta,South
+1,6,5,3/1/2025,Executive,Seattle,West
+1,7,4,3/1/2025,Executive,Denver,West
+1,8,5,3/1/2025,Executive,Nashville,South
+1,9,5,3/1/2025,Executive,Miami,South
+1,10,11,3/1/2025,Executive,Remote-East,East
+1,11,5,3/1/2025,Executive,Remote-Central,Central
+1,12,8,3/1/2025,Executive,Remote-West,West
+2,1,246,3/1/2025,Engineering,Las Vegas,West
+2,2,201,3/1/2025,Engineering,Phoenix,West
+2,3,280,3/1/2025,Engineering,Austin,South
+2,4,182,3/1/2025,Engineering,Chicago,Midwest
+2,5,188,3/1/2025,Engineering,Atlanta,South
+2,6,186,3/1/2025,Engineering,Seattle,West
+2,7,171,3/1/2025,Engineering,Denver,West
+2,8,156,3/1/2025,Engineering,Nashville,South
+2,9,176,3/1/2025,Engineering,Miami,South
+2,10,175,3/1/2025,Engineering,Remote-East,East
+2,11,213,3/1/2025,Engineering,Remote-Central,Central
+2,12,168,3/1/2025,Engineering,Remote-West,West
+3,1,77,3/1/2025,Product,Las Vegas,West
+3,2,53,3/1/2025,Product,Phoenix,West
+3,3,75,3/1/2025,Product,Austin,South
+3,4,45,3/1/2025,Product,Chicago,Midwest
+3,5,47,3/1/2025,Product,Atlanta,South
+3,6,63,3/1/2025,Product,Seattle,West
+3,7,49,3/1/2025,Product,Denver,West
+3,8,57,3/1/2025,Product,Nashville,South
+3,9,53,3/1/2025,Product,Miami,South
+3,10,56,3/1/2025,Product,Remote-East,East
+3,11,45,3/1/2025,Product,Remote-Central,Central
+3,12,49,3/1/2025,Product,Remote-West,West
+4,1,66,3/1/2025,IT,Las Vegas,West
+4,2,55,3/1/2025,IT,Phoenix,West
+4,3,88,3/1/2025,IT,Austin,South
+4,4,58,3/1/2025,IT,Chicago,Midwest
+4,5,54,3/1/2025,IT,Atlanta,South
+4,6,70,3/1/2025,IT,Seattle,West
+4,7,44,3/1/2025,IT,Denver,West
+4,8,50,3/1/2025,IT,Nashville,South
+4,9,55,3/1/2025,IT,Miami,South
+4,10,60,3/1/2025,IT,Remote-East,East
+4,11,54,3/1/2025,IT,Remote-Central,Central
+4,12,54,3/1/2025,IT,Remote-West,West
+5,1,39,3/1/2025,Finance,Las Vegas,West
+5,2,37,3/1/2025,Finance,Phoenix,West
+5,3,66,3/1/2025,Finance,Austin,South
+5,4,46,3/1/2025,Finance,Chicago,Midwest
+5,5,46,3/1/2025,Finance,Atlanta,South
+5,6,53,3/1/2025,Finance,Seattle,West
+5,7,46,3/1/2025,Finance,Denver,West
+5,8,34,3/1/2025,Finance,Nashville,South
+5,9,50,3/1/2025,Finance,Miami,South
+5,10,43,3/1/2025,Finance,Remote-East,East
+5,11,54,3/1/2025,Finance,Remote-Central,Central
+5,12,51,3/1/2025,Finance,Remote-West,West
+6,1,51,3/1/2025,HR,Las Vegas,West
+6,2,50,3/1/2025,HR,Phoenix,West
+6,3,67,3/1/2025,HR,Austin,South
+6,4,57,3/1/2025,HR,Chicago,Midwest
+6,5,41,3/1/2025,HR,Atlanta,South
+6,6,52,3/1/2025,HR,Seattle,West
+6,7,44,3/1/2025,HR,Denver,West
+6,8,50,3/1/2025,HR,Nashville,South
+6,9,44,3/1/2025,HR,Miami,South
+6,10,42,3/1/2025,HR,Remote-East,East
+6,11,43,3/1/2025,HR,Remote-Central,Central
+6,12,50,3/1/2025,HR,Remote-West,West
+7,1,65,3/1/2025,Marketing,Las Vegas,West
+7,2,48,3/1/2025,Marketing,Phoenix,West
+7,3,72,3/1/2025,Marketing,Austin,South
+7,4,47,3/1/2025,Marketing,Chicago,Midwest
+7,5,39,3/1/2025,Marketing,Atlanta,South
+7,6,60,3/1/2025,Marketing,Seattle,West
+7,7,55,3/1/2025,Marketing,Denver,West
+7,8,43,3/1/2025,Marketing,Nashville,South
+7,9,65,3/1/2025,Marketing,Miami,South
+7,10,60,3/1/2025,Marketing,Remote-East,East
+7,11,52,3/1/2025,Marketing,Remote-Central,Central
+7,12,54,3/1/2025,Marketing,Remote-West,West
+8,1,121,3/1/2025,Sales,Las Vegas,West
+8,2,98,3/1/2025,Sales,Phoenix,West
+8,3,152,3/1/2025,Sales,Austin,South
+8,4,102,3/1/2025,Sales,Chicago,Midwest
+8,5,100,3/1/2025,Sales,Atlanta,South
+8,6,103,3/1/2025,Sales,Seattle,West
+8,7,88,3/1/2025,Sales,Denver,West
+8,8,76,3/1/2025,Sales,Nashville,South
+8,9,93,3/1/2025,Sales,Miami,South
+8,10,86,3/1/2025,Sales,Remote-East,East
+8,11,98,3/1/2025,Sales,Remote-Central,Central
+8,12,98,3/1/2025,Sales,Remote-West,West
+9,1,97,3/1/2025,Operations,Las Vegas,West
+9,2,93,3/1/2025,Operations,Phoenix,West
+9,3,103,3/1/2025,Operations,Austin,South
+9,4,93,3/1/2025,Operations,Chicago,Midwest
+9,5,71,3/1/2025,Operations,Atlanta,South
+9,6,80,3/1/2025,Operations,Seattle,West
+9,7,70,3/1/2025,Operations,Denver,West
+9,8,67,3/1/2025,Operations,Nashville,South
+9,9,80,3/1/2025,Operations,Miami,South
+9,10,103,3/1/2025,Operations,Remote-East,East
+9,11,80,3/1/2025,Operations,Remote-Central,Central
+9,12,84,3/1/2025,Operations,Remote-West,West
+10,1,92,3/1/2025,Customer Support,Las Vegas,West
+10,2,64,3/1/2025,Customer Support,Phoenix,West
+10,3,96,3/1/2025,Customer Support,Austin,South
+10,4,64,3/1/2025,Customer Support,Chicago,Midwest
+10,5,60,3/1/2025,Customer Support,Atlanta,South
+10,6,55,3/1/2025,Customer Support,Seattle,West
+10,7,60,3/1/2025,Customer Support,Denver,West
+10,8,52,3/1/2025,Customer Support,Nashville,South
+10,9,64,3/1/2025,Customer Support,Miami,South
+10,10,76,3/1/2025,Customer Support,Remote-East,East
+10,11,52,3/1/2025,Customer Support,Remote-Central,Central
+10,12,63,3/1/2025,Customer Support,Remote-West,West
+11,1,9,3/1/2025,Legal,Las Vegas,West
+11,2,6,3/1/2025,Legal,Phoenix,West
+11,3,10,3/1/2025,Legal,Austin,South
+11,4,9,3/1/2025,Legal,Chicago,Midwest
+11,5,7,3/1/2025,Legal,Atlanta,South
+11,6,12,3/1/2025,Legal,Seattle,West
+11,7,15,3/1/2025,Legal,Denver,West
+11,8,4,3/1/2025,Legal,Nashville,South
+11,9,11,3/1/2025,Legal,Miami,South
+11,10,6,3/1/2025,Legal,Remote-East,East
+11,11,13,3/1/2025,Legal,Remote-Central,Central
+11,12,4,3/1/2025,Legal,Remote-West,West
+1,1,4,4/1/2025,Executive,Las Vegas,West
+1,2,3,4/1/2025,Executive,Phoenix,West
+1,3,12,4/1/2025,Executive,Austin,South
+1,4,7,4/1/2025,Executive,Chicago,Midwest
+1,5,5,4/1/2025,Executive,Atlanta,South
+1,6,5,4/1/2025,Executive,Seattle,West
+1,7,4,4/1/2025,Executive,Denver,West
+1,8,5,4/1/2025,Executive,Nashville,South
+1,9,5,4/1/2025,Executive,Miami,South
+1,10,11,4/1/2025,Executive,Remote-East,East
+1,11,5,4/1/2025,Executive,Remote-Central,Central
+1,12,8,4/1/2025,Executive,Remote-West,West
+2,1,247,4/1/2025,Engineering,Las Vegas,West
+2,2,201,4/1/2025,Engineering,Phoenix,West
+2,3,284,4/1/2025,Engineering,Austin,South
+2,4,185,4/1/2025,Engineering,Chicago,Midwest
+2,5,188,4/1/2025,Engineering,Atlanta,South
+2,6,186,4/1/2025,Engineering,Seattle,West
+2,7,171,4/1/2025,Engineering,Denver,West
+2,8,157,4/1/2025,Engineering,Nashville,South
+2,9,176,4/1/2025,Engineering,Miami,South
+2,10,175,4/1/2025,Engineering,Remote-East,East
+2,11,215,4/1/2025,Engineering,Remote-Central,Central
+2,12,169,4/1/2025,Engineering,Remote-West,West
+3,1,78,4/1/2025,Product,Las Vegas,West
+3,2,53,4/1/2025,Product,Phoenix,West
+3,3,76,4/1/2025,Product,Austin,South
+3,4,45,4/1/2025,Product,Chicago,Midwest
+3,5,47,4/1/2025,Product,Atlanta,South
+3,6,64,4/1/2025,Product,Seattle,West
+3,7,48,4/1/2025,Product,Denver,West
+3,8,57,4/1/2025,Product,Nashville,South
+3,9,53,4/1/2025,Product,Miami,South
+3,10,56,4/1/2025,Product,Remote-East,East
+3,11,45,4/1/2025,Product,Remote-Central,Central
+3,12,49,4/1/2025,Product,Remote-West,West
+4,1,66,4/1/2025,IT,Las Vegas,West
+4,2,55,4/1/2025,IT,Phoenix,West
+4,3,88,4/1/2025,IT,Austin,South
+4,4,58,4/1/2025,IT,Chicago,Midwest
+4,5,53,4/1/2025,IT,Atlanta,South
+4,6,70,4/1/2025,IT,Seattle,West
+4,7,44,4/1/2025,IT,Denver,West
+4,8,50,4/1/2025,IT,Nashville,South
+4,9,55,4/1/2025,IT,Miami,South
+4,10,61,4/1/2025,IT,Remote-East,East
+4,11,54,4/1/2025,IT,Remote-Central,Central
+4,12,54,4/1/2025,IT,Remote-West,West
+5,1,39,4/1/2025,Finance,Las Vegas,West
+5,2,37,4/1/2025,Finance,Phoenix,West
+5,3,66,4/1/2025,Finance,Austin,South
+5,4,46,4/1/2025,Finance,Chicago,Midwest
+5,5,46,4/1/2025,Finance,Atlanta,South
+5,6,53,4/1/2025,Finance,Seattle,West
+5,7,46,4/1/2025,Finance,Denver,West
+5,8,34,4/1/2025,Finance,Nashville,South
+5,9,50,4/1/2025,Finance,Miami,South
+5,10,43,4/1/2025,Finance,Remote-East,East
+5,11,54,4/1/2025,Finance,Remote-Central,Central
+5,12,51,4/1/2025,Finance,Remote-West,West
+6,1,51,4/1/2025,HR,Las Vegas,West
+6,2,50,4/1/2025,HR,Phoenix,West
+6,3,67,4/1/2025,HR,Austin,South
+6,4,57,4/1/2025,HR,Chicago,Midwest
+6,5,41,4/1/2025,HR,Atlanta,South
+6,6,52,4/1/2025,HR,Seattle,West
+6,7,44,4/1/2025,HR,Denver,West
+6,8,51,4/1/2025,HR,Nashville,South
+6,9,44,4/1/2025,HR,Miami,South
+6,10,42,4/1/2025,HR,Remote-East,East
+6,11,43,4/1/2025,HR,Remote-Central,Central
+6,12,50,4/1/2025,HR,Remote-West,West
+7,1,66,4/1/2025,Marketing,Las Vegas,West
+7,2,50,4/1/2025,Marketing,Phoenix,West
+7,3,72,4/1/2025,Marketing,Austin,South
+7,4,47,4/1/2025,Marketing,Chicago,Midwest
+7,5,39,4/1/2025,Marketing,Atlanta,South
+7,6,61,4/1/2025,Marketing,Seattle,West
+7,7,55,4/1/2025,Marketing,Denver,West
+7,8,44,4/1/2025,Marketing,Nashville,South
+7,9,65,4/1/2025,Marketing,Miami,South
+7,10,61,4/1/2025,Marketing,Remote-East,East
+7,11,52,4/1/2025,Marketing,Remote-Central,Central
+7,12,55,4/1/2025,Marketing,Remote-West,West
+8,1,120,4/1/2025,Sales,Las Vegas,West
+8,2,98,4/1/2025,Sales,Phoenix,West
+8,3,151,4/1/2025,Sales,Austin,South
+8,4,103,4/1/2025,Sales,Chicago,Midwest
+8,5,99,4/1/2025,Sales,Atlanta,South
+8,6,103,4/1/2025,Sales,Seattle,West
+8,7,88,4/1/2025,Sales,Denver,West
+8,8,76,4/1/2025,Sales,Nashville,South
+8,9,93,4/1/2025,Sales,Miami,South
+8,10,85,4/1/2025,Sales,Remote-East,East
+8,11,98,4/1/2025,Sales,Remote-Central,Central
+8,12,97,4/1/2025,Sales,Remote-West,West
+9,1,99,4/1/2025,Operations,Las Vegas,West
+9,2,94,4/1/2025,Operations,Phoenix,West
+9,3,104,4/1/2025,Operations,Austin,South
+9,4,93,4/1/2025,Operations,Chicago,Midwest
+9,5,71,4/1/2025,Operations,Atlanta,South
+9,6,80,4/1/2025,Operations,Seattle,West
+9,7,70,4/1/2025,Operations,Denver,West
+9,8,67,4/1/2025,Operations,Nashville,South
+9,9,80,4/1/2025,Operations,Miami,South
+9,10,104,4/1/2025,Operations,Remote-East,East
+9,11,80,4/1/2025,Operations,Remote-Central,Central
+9,12,87,4/1/2025,Operations,Remote-West,West
+10,1,92,4/1/2025,Customer Support,Las Vegas,West
+10,2,63,4/1/2025,Customer Support,Phoenix,West
+10,3,95,4/1/2025,Customer Support,Austin,South
+10,4,65,4/1/2025,Customer Support,Chicago,Midwest
+10,5,60,4/1/2025,Customer Support,Atlanta,South
+10,6,56,4/1/2025,Customer Support,Seattle,West
+10,7,60,4/1/2025,Customer Support,Denver,West
+10,8,54,4/1/2025,Customer Support,Nashville,South
+10,9,65,4/1/2025,Customer Support,Miami,South
+10,10,78,4/1/2025,Customer Support,Remote-East,East
+10,11,52,4/1/2025,Customer Support,Remote-Central,Central
+10,12,63,4/1/2025,Customer Support,Remote-West,West
+11,1,9,4/1/2025,Legal,Las Vegas,West
+11,2,6,4/1/2025,Legal,Phoenix,West
+11,3,10,4/1/2025,Legal,Austin,South
+11,4,9,4/1/2025,Legal,Chicago,Midwest
+11,5,7,4/1/2025,Legal,Atlanta,South
+11,6,13,4/1/2025,Legal,Seattle,West
+11,7,14,4/1/2025,Legal,Denver,West
+11,8,4,4/1/2025,Legal,Nashville,South
+11,9,11,4/1/2025,Legal,Miami,South
+11,10,6,4/1/2025,Legal,Remote-East,East
+11,11,13,4/1/2025,Legal,Remote-Central,Central
+11,12,3,4/1/2025,Legal,Remote-West,West
+1,1,4,5/1/2025,Executive,Las Vegas,West
+1,2,3,5/1/2025,Executive,Phoenix,West
+1,3,12,5/1/2025,Executive,Austin,South
+1,4,7,5/1/2025,Executive,Chicago,Midwest
+1,5,5,5/1/2025,Executive,Atlanta,South
+1,6,5,5/1/2025,Executive,Seattle,West
+1,7,4,5/1/2025,Executive,Denver,West
+1,8,5,5/1/2025,Executive,Nashville,South
+1,9,5,5/1/2025,Executive,Miami,South
+1,10,11,5/1/2025,Executive,Remote-East,East
+1,11,5,5/1/2025,Executive,Remote-Central,Central
+1,12,8,5/1/2025,Executive,Remote-West,West
+2,1,248,5/1/2025,Engineering,Las Vegas,West
+2,2,202,5/1/2025,Engineering,Phoenix,West
+2,3,287,5/1/2025,Engineering,Austin,South
+2,4,186,5/1/2025,Engineering,Chicago,Midwest
+2,5,189,5/1/2025,Engineering,Atlanta,South
+2,6,187,5/1/2025,Engineering,Seattle,West
+2,7,172,5/1/2025,Engineering,Denver,West
+2,8,158,5/1/2025,Engineering,Nashville,South
+2,9,176,5/1/2025,Engineering,Miami,South
+2,10,176,5/1/2025,Engineering,Remote-East,East
+2,11,216,5/1/2025,Engineering,Remote-Central,Central
+2,12,171,5/1/2025,Engineering,Remote-West,West
+3,1,78,5/1/2025,Product,Las Vegas,West
+3,2,52,5/1/2025,Product,Phoenix,West
+3,3,76,5/1/2025,Product,Austin,South
+3,4,46,5/1/2025,Product,Chicago,Midwest
+3,5,47,5/1/2025,Product,Atlanta,South
+3,6,65,5/1/2025,Product,Seattle,West
+3,7,48,5/1/2025,Product,Denver,West
+3,8,57,5/1/2025,Product,Nashville,South
+3,9,54,5/1/2025,Product,Miami,South
+3,10,56,5/1/2025,Product,Remote-East,East
+3,11,47,5/1/2025,Product,Remote-Central,Central
+3,12,49,5/1/2025,Product,Remote-West,West
+4,1,67,5/1/2025,IT,Las Vegas,West
+4,2,56,5/1/2025,IT,Phoenix,West
+4,3,89,5/1/2025,IT,Austin,South
+4,4,58,5/1/2025,IT,Chicago,Midwest
+4,5,53,5/1/2025,IT,Atlanta,South
+4,6,70,5/1/2025,IT,Seattle,West
+4,7,44,5/1/2025,IT,Denver,West
+4,8,51,5/1/2025,IT,Nashville,South
+4,9,55,5/1/2025,IT,Miami,South
+4,10,61,5/1/2025,IT,Remote-East,East
+4,11,54,5/1/2025,IT,Remote-Central,Central
+4,12,54,5/1/2025,IT,Remote-West,West
+5,1,39,5/1/2025,Finance,Las Vegas,West
+5,2,37,5/1/2025,Finance,Phoenix,West
+5,3,65,5/1/2025,Finance,Austin,South
+5,4,49,5/1/2025,Finance,Chicago,Midwest
+5,5,46,5/1/2025,Finance,Atlanta,South
+5,6,52,5/1/2025,Finance,Seattle,West
+5,7,46,5/1/2025,Finance,Denver,West
+5,8,35,5/1/2025,Finance,Nashville,South
+5,9,50,5/1/2025,Finance,Miami,South
+5,10,44,5/1/2025,Finance,Remote-East,East
+5,11,54,5/1/2025,Finance,Remote-Central,Central
+5,12,52,5/1/2025,Finance,Remote-West,West
+6,1,51,5/1/2025,HR,Las Vegas,West
+6,2,50,5/1/2025,HR,Phoenix,West
+6,3,67,5/1/2025,HR,Austin,South
+6,4,57,5/1/2025,HR,Chicago,Midwest
+6,5,41,5/1/2025,HR,Atlanta,South
+6,6,52,5/1/2025,HR,Seattle,West
+6,7,44,5/1/2025,HR,Denver,West
+6,8,52,5/1/2025,HR,Nashville,South
+6,9,44,5/1/2025,HR,Miami,South
+6,10,42,5/1/2025,HR,Remote-East,East
+6,11,42,5/1/2025,HR,Remote-Central,Central
+6,12,50,5/1/2025,HR,Remote-West,West
+7,1,66,5/1/2025,Marketing,Las Vegas,West
+7,2,50,5/1/2025,Marketing,Phoenix,West
+7,3,73,5/1/2025,Marketing,Austin,South
+7,4,47,5/1/2025,Marketing,Chicago,Midwest
+7,5,39,5/1/2025,Marketing,Atlanta,South
+7,6,60,5/1/2025,Marketing,Seattle,West
+7,7,55,5/1/2025,Marketing,Denver,West
+7,8,44,5/1/2025,Marketing,Nashville,South
+7,9,65,5/1/2025,Marketing,Miami,South
+7,10,61,5/1/2025,Marketing,Remote-East,East
+7,11,52,5/1/2025,Marketing,Remote-Central,Central
+7,12,54,5/1/2025,Marketing,Remote-West,West
+8,1,122,5/1/2025,Sales,Las Vegas,West
+8,2,99,5/1/2025,Sales,Phoenix,West
+8,3,151,5/1/2025,Sales,Austin,South
+8,4,104,5/1/2025,Sales,Chicago,Midwest
+8,5,99,5/1/2025,Sales,Atlanta,South
+8,6,105,5/1/2025,Sales,Seattle,West
+8,7,89,5/1/2025,Sales,Denver,West
+8,8,76,5/1/2025,Sales,Nashville,South
+8,9,92,5/1/2025,Sales,Miami,South
+8,10,85,5/1/2025,Sales,Remote-East,East
+8,11,98,5/1/2025,Sales,Remote-Central,Central
+8,12,98,5/1/2025,Sales,Remote-West,West
+9,1,98,5/1/2025,Operations,Las Vegas,West
+9,2,93,5/1/2025,Operations,Phoenix,West
+9,3,105,5/1/2025,Operations,Austin,South
+9,4,93,5/1/2025,Operations,Chicago,Midwest
+9,5,71,5/1/2025,Operations,Atlanta,South
+9,6,80,5/1/2025,Operations,Seattle,West
+9,7,71,5/1/2025,Operations,Denver,West
+9,8,68,5/1/2025,Operations,Nashville,South
+9,9,80,5/1/2025,Operations,Miami,South
+9,10,104,5/1/2025,Operations,Remote-East,East
+9,11,80,5/1/2025,Operations,Remote-Central,Central
+9,12,88,5/1/2025,Operations,Remote-West,West
+10,1,94,5/1/2025,Customer Support,Las Vegas,West
+10,2,62,5/1/2025,Customer Support,Phoenix,West
+10,3,95,5/1/2025,Customer Support,Austin,South
+10,4,65,5/1/2025,Customer Support,Chicago,Midwest
+10,5,60,5/1/2025,Customer Support,Atlanta,South
+10,6,56,5/1/2025,Customer Support,Seattle,West
+10,7,61,5/1/2025,Customer Support,Denver,West
+10,8,54,5/1/2025,Customer Support,Nashville,South
+10,9,64,5/1/2025,Customer Support,Miami,South
+10,10,78,5/1/2025,Customer Support,Remote-East,East
+10,11,52,5/1/2025,Customer Support,Remote-Central,Central
+10,12,63,5/1/2025,Customer Support,Remote-West,West
+11,1,9,5/1/2025,Legal,Las Vegas,West
+11,2,6,5/1/2025,Legal,Phoenix,West
+11,3,10,5/1/2025,Legal,Austin,South
+11,4,9,5/1/2025,Legal,Chicago,Midwest
+11,5,7,5/1/2025,Legal,Atlanta,South
+11,6,14,5/1/2025,Legal,Seattle,West
+11,7,14,5/1/2025,Legal,Denver,West
+11,8,4,5/1/2025,Legal,Nashville,South
+11,9,11,5/1/2025,Legal,Miami,South
+11,10,6,5/1/2025,Legal,Remote-East,East
+11,11,13,5/1/2025,Legal,Remote-Central,Central
+11,12,3,5/1/2025,Legal,Remote-West,West
+1,1,4,6/1/2025,Executive,Las Vegas,West
+1,2,3,6/1/2025,Executive,Phoenix,West
+1,3,12,6/1/2025,Executive,Austin,South
+1,4,7,6/1/2025,Executive,Chicago,Midwest
+1,5,5,6/1/2025,Executive,Atlanta,South
+1,6,5,6/1/2025,Executive,Seattle,West
+1,7,4,6/1/2025,Executive,Denver,West
+1,8,5,6/1/2025,Executive,Nashville,South
+1,9,5,6/1/2025,Executive,Miami,South
+1,10,11,6/1/2025,Executive,Remote-East,East
+1,11,5,6/1/2025,Executive,Remote-Central,Central
+1,12,8,6/1/2025,Executive,Remote-West,West
+2,1,250,6/1/2025,Engineering,Las Vegas,West
+2,2,204,6/1/2025,Engineering,Phoenix,West
+2,3,285,6/1/2025,Engineering,Austin,South
+2,4,188,6/1/2025,Engineering,Chicago,Midwest
+2,5,192,6/1/2025,Engineering,Atlanta,South
+2,6,187,6/1/2025,Engineering,Seattle,West
+2,7,179,6/1/2025,Engineering,Denver,West
+2,8,157,6/1/2025,Engineering,Nashville,South
+2,9,176,6/1/2025,Engineering,Miami,South
+2,10,175,6/1/2025,Engineering,Remote-East,East
+2,11,216,6/1/2025,Engineering,Remote-Central,Central
+2,12,175,6/1/2025,Engineering,Remote-West,West
+3,1,78,6/1/2025,Product,Las Vegas,West
+3,2,52,6/1/2025,Product,Phoenix,West
+3,3,76,6/1/2025,Product,Austin,South
+3,4,46,6/1/2025,Product,Chicago,Midwest
+3,5,47,6/1/2025,Product,Atlanta,South
+3,6,65,6/1/2025,Product,Seattle,West
+3,7,48,6/1/2025,Product,Denver,West
+3,8,57,6/1/2025,Product,Nashville,South
+3,9,54,6/1/2025,Product,Miami,South
+3,10,56,6/1/2025,Product,Remote-East,East
+3,11,48,6/1/2025,Product,Remote-Central,Central
+3,12,49,6/1/2025,Product,Remote-West,West
+4,1,69,6/1/2025,IT,Las Vegas,West
+4,2,56,6/1/2025,IT,Phoenix,West
+4,3,89,6/1/2025,IT,Austin,South
+4,4,58,6/1/2025,IT,Chicago,Midwest
+4,5,53,6/1/2025,IT,Atlanta,South
+4,6,69,6/1/2025,IT,Seattle,West
+4,7,44,6/1/2025,IT,Denver,West
+4,8,51,6/1/2025,IT,Nashville,South
+4,9,55,6/1/2025,IT,Miami,South
+4,10,62,6/1/2025,IT,Remote-East,East
+4,11,55,6/1/2025,IT,Remote-Central,Central
+4,12,54,6/1/2025,IT,Remote-West,West
+5,1,39,6/1/2025,Finance,Las Vegas,West
+5,2,37,6/1/2025,Finance,Phoenix,West
+5,3,65,6/1/2025,Finance,Austin,South
+5,4,50,6/1/2025,Finance,Chicago,Midwest
+5,5,46,6/1/2025,Finance,Atlanta,South
+5,6,51,6/1/2025,Finance,Seattle,West
+5,7,48,6/1/2025,Finance,Denver,West
+5,8,37,6/1/2025,Finance,Nashville,South
+5,9,49,6/1/2025,Finance,Miami,South
+5,10,44,6/1/2025,Finance,Remote-East,East
+5,11,55,6/1/2025,Finance,Remote-Central,Central
+5,12,52,6/1/2025,Finance,Remote-West,West
+6,1,51,6/1/2025,HR,Las Vegas,West
+6,2,50,6/1/2025,HR,Phoenix,West
+6,3,68,6/1/2025,HR,Austin,South
+6,4,57,6/1/2025,HR,Chicago,Midwest
+6,5,41,6/1/2025,HR,Atlanta,South
+6,6,52,6/1/2025,HR,Seattle,West
+6,7,44,6/1/2025,HR,Denver,West
+6,8,53,6/1/2025,HR,Nashville,South
+6,9,44,6/1/2025,HR,Miami,South
+6,10,42,6/1/2025,HR,Remote-East,East
+6,11,42,6/1/2025,HR,Remote-Central,Central
+6,12,50,6/1/2025,HR,Remote-West,West
+7,1,67,6/1/2025,Marketing,Las Vegas,West
+7,2,50,6/1/2025,Marketing,Phoenix,West
+7,3,72,6/1/2025,Marketing,Austin,South
+7,4,47,6/1/2025,Marketing,Chicago,Midwest
+7,5,39,6/1/2025,Marketing,Atlanta,South
+7,6,61,6/1/2025,Marketing,Seattle,West
+7,7,55,6/1/2025,Marketing,Denver,West
+7,8,44,6/1/2025,Marketing,Nashville,South
+7,9,66,6/1/2025,Marketing,Miami,South
+7,10,61,6/1/2025,Marketing,Remote-East,East
+7,11,51,6/1/2025,Marketing,Remote-Central,Central
+7,12,54,6/1/2025,Marketing,Remote-West,West
+8,1,123,6/1/2025,Sales,Las Vegas,West
+8,2,100,6/1/2025,Sales,Phoenix,West
+8,3,152,6/1/2025,Sales,Austin,South
+8,4,105,6/1/2025,Sales,Chicago,Midwest
+8,5,98,6/1/2025,Sales,Atlanta,South
+8,6,105,6/1/2025,Sales,Seattle,West
+8,7,89,6/1/2025,Sales,Denver,West
+8,8,76,6/1/2025,Sales,Nashville,South
+8,9,91,6/1/2025,Sales,Miami,South
+8,10,87,6/1/2025,Sales,Remote-East,East
+8,11,99,6/1/2025,Sales,Remote-Central,Central
+8,12,99,6/1/2025,Sales,Remote-West,West
+9,1,97,6/1/2025,Operations,Las Vegas,West
+9,2,92,6/1/2025,Operations,Phoenix,West
+9,3,105,6/1/2025,Operations,Austin,South
+9,4,95,6/1/2025,Operations,Chicago,Midwest
+9,5,71,6/1/2025,Operations,Atlanta,South
+9,6,79,6/1/2025,Operations,Seattle,West
+9,7,72,6/1/2025,Operations,Denver,West
+9,8,68,6/1/2025,Operations,Nashville,South
+9,9,80,6/1/2025,Operations,Miami,South
+9,10,104,6/1/2025,Operations,Remote-East,East
+9,11,80,6/1/2025,Operations,Remote-Central,Central
+9,12,87,6/1/2025,Operations,Remote-West,West
+10,1,94,6/1/2025,Customer Support,Las Vegas,West
+10,2,64,6/1/2025,Customer Support,Phoenix,West
+10,3,96,6/1/2025,Customer Support,Austin,South
+10,4,67,6/1/2025,Customer Support,Chicago,Midwest
+10,5,59,6/1/2025,Customer Support,Atlanta,South
+10,6,56,6/1/2025,Customer Support,Seattle,West
+10,7,62,6/1/2025,Customer Support,Denver,West
+10,8,54,6/1/2025,Customer Support,Nashville,South
+10,9,64,6/1/2025,Customer Support,Miami,South
+10,10,79,6/1/2025,Customer Support,Remote-East,East
+10,11,52,6/1/2025,Customer Support,Remote-Central,Central
+10,12,64,6/1/2025,Customer Support,Remote-West,West
+11,1,9,6/1/2025,Legal,Las Vegas,West
+11,2,6,6/1/2025,Legal,Phoenix,West
+11,3,10,6/1/2025,Legal,Austin,South
+11,4,9,6/1/2025,Legal,Chicago,Midwest
+11,5,7,6/1/2025,Legal,Atlanta,South
+11,6,14,6/1/2025,Legal,Seattle,West
+11,7,14,6/1/2025,Legal,Denver,West
+11,8,5,6/1/2025,Legal,Nashville,South
+11,9,11,6/1/2025,Legal,Miami,South
+11,10,7,6/1/2025,Legal,Remote-East,East
+11,11,13,6/1/2025,Legal,Remote-Central,Central
+11,12,3,6/1/2025,Legal,Remote-West,West
+1,1,4,7/1/2025,Executive,Las Vegas,West
+1,2,4,7/1/2025,Executive,Phoenix,West
+1,3,12,7/1/2025,Executive,Austin,South
+1,4,7,7/1/2025,Executive,Chicago,Midwest
+1,5,5,7/1/2025,Executive,Atlanta,South
+1,6,5,7/1/2025,Executive,Seattle,West
+1,7,4,7/1/2025,Executive,Denver,West
+1,8,5,7/1/2025,Executive,Nashville,South
+1,9,5,7/1/2025,Executive,Miami,South
+1,10,11,7/1/2025,Executive,Remote-East,East
+1,11,5,7/1/2025,Executive,Remote-Central,Central
+1,12,8,7/1/2025,Executive,Remote-West,West
+2,1,253,7/1/2025,Engineering,Las Vegas,West
+2,2,205,7/1/2025,Engineering,Phoenix,West
+2,3,287,7/1/2025,Engineering,Austin,South
+2,4,186,7/1/2025,Engineering,Chicago,Midwest
+2,5,194,7/1/2025,Engineering,Atlanta,South
+2,6,189,7/1/2025,Engineering,Seattle,West
+2,7,181,7/1/2025,Engineering,Denver,West
+2,8,156,7/1/2025,Engineering,Nashville,South
+2,9,180,7/1/2025,Engineering,Miami,South
+2,10,176,7/1/2025,Engineering,Remote-East,East
+2,11,219,7/1/2025,Engineering,Remote-Central,Central
+2,12,176,7/1/2025,Engineering,Remote-West,West
+3,1,80,7/1/2025,Product,Las Vegas,West
+3,2,52,7/1/2025,Product,Phoenix,West
+3,3,76,7/1/2025,Product,Austin,South
+3,4,47,7/1/2025,Product,Chicago,Midwest
+3,5,48,7/1/2025,Product,Atlanta,South
+3,6,65,7/1/2025,Product,Seattle,West
+3,7,49,7/1/2025,Product,Denver,West
+3,8,57,7/1/2025,Product,Nashville,South
+3,9,54,7/1/2025,Product,Miami,South
+3,10,56,7/1/2025,Product,Remote-East,East
+3,11,48,7/1/2025,Product,Remote-Central,Central
+3,12,50,7/1/2025,Product,Remote-West,West
+4,1,67,7/1/2025,IT,Las Vegas,West
+4,2,56,7/1/2025,IT,Phoenix,West
+4,3,89,7/1/2025,IT,Austin,South
+4,4,59,7/1/2025,IT,Chicago,Midwest
+4,5,54,7/1/2025,IT,Atlanta,South
+4,6,69,7/1/2025,IT,Seattle,West
+4,7,45,7/1/2025,IT,Denver,West
+4,8,52,7/1/2025,IT,Nashville,South
+4,9,54,7/1/2025,IT,Miami,South
+4,10,62,7/1/2025,IT,Remote-East,East
+4,11,56,7/1/2025,IT,Remote-Central,Central
+4,12,55,7/1/2025,IT,Remote-West,West
+5,1,40,7/1/2025,Finance,Las Vegas,West
+5,2,38,7/1/2025,Finance,Phoenix,West
+5,3,65,7/1/2025,Finance,Austin,South
+5,4,50,7/1/2025,Finance,Chicago,Midwest
+5,5,47,7/1/2025,Finance,Atlanta,South
+5,6,52,7/1/2025,Finance,Seattle,West
+5,7,48,7/1/2025,Finance,Denver,West
+5,8,38,7/1/2025,Finance,Nashville,South
+5,9,50,7/1/2025,Finance,Miami,South
+5,10,44,7/1/2025,Finance,Remote-East,East
+5,11,55,7/1/2025,Finance,Remote-Central,Central
+5,12,51,7/1/2025,Finance,Remote-West,West
+6,1,50,7/1/2025,HR,Las Vegas,West
+6,2,50,7/1/2025,HR,Phoenix,West
+6,3,68,7/1/2025,HR,Austin,South
+6,4,58,7/1/2025,HR,Chicago,Midwest
+6,5,41,7/1/2025,HR,Atlanta,South
+6,6,52,7/1/2025,HR,Seattle,West
+6,7,45,7/1/2025,HR,Denver,West
+6,8,53,7/1/2025,HR,Nashville,South
+6,9,44,7/1/2025,HR,Miami,South
+6,10,42,7/1/2025,HR,Remote-East,East
+6,11,42,7/1/2025,HR,Remote-Central,Central
+6,12,50,7/1/2025,HR,Remote-West,West
+7,1,68,7/1/2025,Marketing,Las Vegas,West
+7,2,50,7/1/2025,Marketing,Phoenix,West
+7,3,73,7/1/2025,Marketing,Austin,South
+7,4,47,7/1/2025,Marketing,Chicago,Midwest
+7,5,39,7/1/2025,Marketing,Atlanta,South
+7,6,62,7/1/2025,Marketing,Seattle,West
+7,7,56,7/1/2025,Marketing,Denver,West
+7,8,44,7/1/2025,Marketing,Nashville,South
+7,9,66,7/1/2025,Marketing,Miami,South
+7,10,61,7/1/2025,Marketing,Remote-East,East
+7,11,50,7/1/2025,Marketing,Remote-Central,Central
+7,12,54,7/1/2025,Marketing,Remote-West,West
+8,1,124,7/1/2025,Sales,Las Vegas,West
+8,2,101,7/1/2025,Sales,Phoenix,West
+8,3,151,7/1/2025,Sales,Austin,South
+8,4,106,7/1/2025,Sales,Chicago,Midwest
+8,5,98,7/1/2025,Sales,Atlanta,South
+8,6,104,7/1/2025,Sales,Seattle,West
+8,7,90,7/1/2025,Sales,Denver,West
+8,8,77,7/1/2025,Sales,Nashville,South
+8,9,91,7/1/2025,Sales,Miami,South
+8,10,86,7/1/2025,Sales,Remote-East,East
+8,11,98,7/1/2025,Sales,Remote-Central,Central
+8,12,100,7/1/2025,Sales,Remote-West,West
+9,1,97,7/1/2025,Operations,Las Vegas,West
+9,2,92,7/1/2025,Operations,Phoenix,West
+9,3,104,7/1/2025,Operations,Austin,South
+9,4,95,7/1/2025,Operations,Chicago,Midwest
+9,5,71,7/1/2025,Operations,Atlanta,South
+9,6,79,7/1/2025,Operations,Seattle,West
+9,7,72,7/1/2025,Operations,Denver,West
+9,8,69,7/1/2025,Operations,Nashville,South
+9,9,79,7/1/2025,Operations,Miami,South
+9,10,104,7/1/2025,Operations,Remote-East,East
+9,11,80,7/1/2025,Operations,Remote-Central,Central
+9,12,88,7/1/2025,Operations,Remote-West,West
+10,1,94,7/1/2025,Customer Support,Las Vegas,West
+10,2,64,7/1/2025,Customer Support,Phoenix,West
+10,3,96,7/1/2025,Customer Support,Austin,South
+10,4,68,7/1/2025,Customer Support,Chicago,Midwest
+10,5,60,7/1/2025,Customer Support,Atlanta,South
+10,6,57,7/1/2025,Customer Support,Seattle,West
+10,7,62,7/1/2025,Customer Support,Denver,West
+10,8,54,7/1/2025,Customer Support,Nashville,South
+10,9,65,7/1/2025,Customer Support,Miami,South
+10,10,79,7/1/2025,Customer Support,Remote-East,East
+10,11,52,7/1/2025,Customer Support,Remote-Central,Central
+10,12,64,7/1/2025,Customer Support,Remote-West,West
+11,1,9,7/1/2025,Legal,Las Vegas,West
+11,2,6,7/1/2025,Legal,Phoenix,West
+11,3,10,7/1/2025,Legal,Austin,South
+11,4,9,7/1/2025,Legal,Chicago,Midwest
+11,5,7,7/1/2025,Legal,Atlanta,South
+11,6,14,7/1/2025,Legal,Seattle,West
+11,7,14,7/1/2025,Legal,Denver,West
+11,8,5,7/1/2025,Legal,Nashville,South
+11,9,11,7/1/2025,Legal,Miami,South
+11,10,7,7/1/2025,Legal,Remote-East,East
+11,11,13,7/1/2025,Legal,Remote-Central,Central
+11,12,3,7/1/2025,Legal,Remote-West,West
+1,1,4,8/1/2025,Executive,Las Vegas,West
+1,2,4,8/1/2025,Executive,Phoenix,West
+1,3,12,8/1/2025,Executive,Austin,South
+1,4,7,8/1/2025,Executive,Chicago,Midwest
+1,5,5,8/1/2025,Executive,Atlanta,South
+1,6,5,8/1/2025,Executive,Seattle,West
+1,7,4,8/1/2025,Executive,Denver,West
+1,8,5,8/1/2025,Executive,Nashville,South
+1,9,5,8/1/2025,Executive,Miami,South
+1,10,11,8/1/2025,Executive,Remote-East,East
+1,11,5,8/1/2025,Executive,Remote-Central,Central
+1,12,8,8/1/2025,Executive,Remote-West,West
+2,1,257,8/1/2025,Engineering,Las Vegas,West
+2,2,203,8/1/2025,Engineering,Phoenix,West
+2,3,286,8/1/2025,Engineering,Austin,South
+2,4,183,8/1/2025,Engineering,Chicago,Midwest
+2,5,196,8/1/2025,Engineering,Atlanta,South
+2,6,192,8/1/2025,Engineering,Seattle,West
+2,7,182,8/1/2025,Engineering,Denver,West
+2,8,157,8/1/2025,Engineering,Nashville,South
+2,9,181,8/1/2025,Engineering,Miami,South
+2,10,175,8/1/2025,Engineering,Remote-East,East
+2,11,219,8/1/2025,Engineering,Remote-Central,Central
+2,12,177,8/1/2025,Engineering,Remote-West,West
+3,1,81,8/1/2025,Product,Las Vegas,West
+3,2,52,8/1/2025,Product,Phoenix,West
+3,3,76,8/1/2025,Product,Austin,South
+3,4,48,8/1/2025,Product,Chicago,Midwest
+3,5,48,8/1/2025,Product,Atlanta,South
+3,6,65,8/1/2025,Product,Seattle,West
+3,7,49,8/1/2025,Product,Denver,West
+3,8,57,8/1/2025,Product,Nashville,South
+3,9,54,8/1/2025,Product,Miami,South
+3,10,58,8/1/2025,Product,Remote-East,East
+3,11,48,8/1/2025,Product,Remote-Central,Central
+3,12,50,8/1/2025,Product,Remote-West,West
+4,1,69,8/1/2025,IT,Las Vegas,West
+4,2,56,8/1/2025,IT,Phoenix,West
+4,3,90,8/1/2025,IT,Austin,South
+4,4,60,8/1/2025,IT,Chicago,Midwest
+4,5,54,8/1/2025,IT,Atlanta,South
+4,6,69,8/1/2025,IT,Seattle,West
+4,7,45,8/1/2025,IT,Denver,West
+4,8,52,8/1/2025,IT,Nashville,South
+4,9,54,8/1/2025,IT,Miami,South
+4,10,64,8/1/2025,IT,Remote-East,East
+4,11,56,8/1/2025,IT,Remote-Central,Central
+4,12,56,8/1/2025,IT,Remote-West,West
+5,1,40,8/1/2025,Finance,Las Vegas,West
+5,2,39,8/1/2025,Finance,Phoenix,West
+5,3,66,8/1/2025,Finance,Austin,South
+5,4,50,8/1/2025,Finance,Chicago,Midwest
+5,5,47,8/1/2025,Finance,Atlanta,South
+5,6,52,8/1/2025,Finance,Seattle,West
+5,7,48,8/1/2025,Finance,Denver,West
+5,8,38,8/1/2025,Finance,Nashville,South
+5,9,52,8/1/2025,Finance,Miami,South
+5,10,45,8/1/2025,Finance,Remote-East,East
+5,11,56,8/1/2025,Finance,Remote-Central,Central
+5,12,52,8/1/2025,Finance,Remote-West,West
+6,1,51,8/1/2025,HR,Las Vegas,West
+6,2,51,8/1/2025,HR,Phoenix,West
+6,3,68,8/1/2025,HR,Austin,South
+6,4,59,8/1/2025,HR,Chicago,Midwest
+6,5,43,8/1/2025,HR,Atlanta,South
+6,6,52,8/1/2025,HR,Seattle,West
+6,7,45,8/1/2025,HR,Denver,West
+6,8,53,8/1/2025,HR,Nashville,South
+6,9,44,8/1/2025,HR,Miami,South
+6,10,42,8/1/2025,HR,Remote-East,East
+6,11,42,8/1/2025,HR,Remote-Central,Central
+6,12,51,8/1/2025,HR,Remote-West,West
+7,1,69,8/1/2025,Marketing,Las Vegas,West
+7,2,49,8/1/2025,Marketing,Phoenix,West
+7,3,73,8/1/2025,Marketing,Austin,South
+7,4,48,8/1/2025,Marketing,Chicago,Midwest
+7,5,39,8/1/2025,Marketing,Atlanta,South
+7,6,62,8/1/2025,Marketing,Seattle,West
+7,7,56,8/1/2025,Marketing,Denver,West
+7,8,44,8/1/2025,Marketing,Nashville,South
+7,9,65,8/1/2025,Marketing,Miami,South
+7,10,60,8/1/2025,Marketing,Remote-East,East
+7,11,50,8/1/2025,Marketing,Remote-Central,Central
+7,12,55,8/1/2025,Marketing,Remote-West,West
+8,1,124,8/1/2025,Sales,Las Vegas,West
+8,2,102,8/1/2025,Sales,Phoenix,West
+8,3,150,8/1/2025,Sales,Austin,South
+8,4,107,8/1/2025,Sales,Chicago,Midwest
+8,5,98,8/1/2025,Sales,Atlanta,South
+8,6,106,8/1/2025,Sales,Seattle,West
+8,7,90,8/1/2025,Sales,Denver,West
+8,8,79,8/1/2025,Sales,Nashville,South
+8,9,90,8/1/2025,Sales,Miami,South
+8,10,86,8/1/2025,Sales,Remote-East,East
+8,11,98,8/1/2025,Sales,Remote-Central,Central
+8,12,100,8/1/2025,Sales,Remote-West,West
+9,1,97,8/1/2025,Operations,Las Vegas,West
+9,2,91,8/1/2025,Operations,Phoenix,West
+9,3,107,8/1/2025,Operations,Austin,South
+9,4,96,8/1/2025,Operations,Chicago,Midwest
+9,5,72,8/1/2025,Operations,Atlanta,South
+9,6,79,8/1/2025,Operations,Seattle,West
+9,7,73,8/1/2025,Operations,Denver,West
+9,8,69,8/1/2025,Operations,Nashville,South
+9,9,80,8/1/2025,Operations,Miami,South
+9,10,102,8/1/2025,Operations,Remote-East,East
+9,11,81,8/1/2025,Operations,Remote-Central,Central
+9,12,89,8/1/2025,Operations,Remote-West,West
+10,1,95,8/1/2025,Customer Support,Las Vegas,West
+10,2,64,8/1/2025,Customer Support,Phoenix,West
+10,3,96,8/1/2025,Customer Support,Austin,South
+10,4,68,8/1/2025,Customer Support,Chicago,Midwest
+10,5,61,8/1/2025,Customer Support,Atlanta,South
+10,6,57,8/1/2025,Customer Support,Seattle,West
+10,7,62,8/1/2025,Customer Support,Denver,West
+10,8,54,8/1/2025,Customer Support,Nashville,South
+10,9,65,8/1/2025,Customer Support,Miami,South
+10,10,79,8/1/2025,Customer Support,Remote-East,East
+10,11,51,8/1/2025,Customer Support,Remote-Central,Central
+10,12,64,8/1/2025,Customer Support,Remote-West,West
+11,1,9,8/1/2025,Legal,Las Vegas,West
+11,2,6,8/1/2025,Legal,Phoenix,West
+11,3,10,8/1/2025,Legal,Austin,South
+11,4,10,8/1/2025,Legal,Chicago,Midwest
+11,5,6,8/1/2025,Legal,Atlanta,South
+11,6,14,8/1/2025,Legal,Seattle,West
+11,7,14,8/1/2025,Legal,Denver,West
+11,8,5,8/1/2025,Legal,Nashville,South
+11,9,11,8/1/2025,Legal,Miami,South
+11,10,7,8/1/2025,Legal,Remote-East,East
+11,11,13,8/1/2025,Legal,Remote-Central,Central
+11,12,3,8/1/2025,Legal,Remote-West,West
+1,1,4,9/1/2025,Executive,Las Vegas,West
+1,2,4,9/1/2025,Executive,Phoenix,West
+1,3,12,9/1/2025,Executive,Austin,South
+1,4,7,9/1/2025,Executive,Chicago,Midwest
+1,5,5,9/1/2025,Executive,Atlanta,South
+1,6,5,9/1/2025,Executive,Seattle,West
+1,7,4,9/1/2025,Executive,Denver,West
+1,8,5,9/1/2025,Executive,Nashville,South
+1,9,5,9/1/2025,Executive,Miami,South
+1,10,11,9/1/2025,Executive,Remote-East,East
+1,11,5,9/1/2025,Executive,Remote-Central,Central
+1,12,8,9/1/2025,Executive,Remote-West,West
+2,1,258,9/1/2025,Engineering,Las Vegas,West
+2,2,204,9/1/2025,Engineering,Phoenix,West
+2,3,288,9/1/2025,Engineering,Austin,South
+2,4,183,9/1/2025,Engineering,Chicago,Midwest
+2,5,199,9/1/2025,Engineering,Atlanta,South
+2,6,191,9/1/2025,Engineering,Seattle,West
+2,7,179,9/1/2025,Engineering,Denver,West
+2,8,157,9/1/2025,Engineering,Nashville,South
+2,9,180,9/1/2025,Engineering,Miami,South
+2,10,174,9/1/2025,Engineering,Remote-East,East
+2,11,220,9/1/2025,Engineering,Remote-Central,Central
+2,12,177,9/1/2025,Engineering,Remote-West,West
+3,1,81,9/1/2025,Product,Las Vegas,West
+3,2,53,9/1/2025,Product,Phoenix,West
+3,3,76,9/1/2025,Product,Austin,South
+3,4,47,9/1/2025,Product,Chicago,Midwest
+3,5,48,9/1/2025,Product,Atlanta,South
+3,6,64,9/1/2025,Product,Seattle,West
+3,7,49,9/1/2025,Product,Denver,West
+3,8,57,9/1/2025,Product,Nashville,South
+3,9,54,9/1/2025,Product,Miami,South
+3,10,59,9/1/2025,Product,Remote-East,East
+3,11,49,9/1/2025,Product,Remote-Central,Central
+3,12,50,9/1/2025,Product,Remote-West,West
+4,1,71,9/1/2025,IT,Las Vegas,West
+4,2,56,9/1/2025,IT,Phoenix,West
+4,3,90,9/1/2025,IT,Austin,South
+4,4,61,9/1/2025,IT,Chicago,Midwest
+4,5,55,9/1/2025,IT,Atlanta,South
+4,6,69,9/1/2025,IT,Seattle,West
+4,7,45,9/1/2025,IT,Denver,West
+4,8,53,9/1/2025,IT,Nashville,South
+4,9,54,9/1/2025,IT,Miami,South
+4,10,64,9/1/2025,IT,Remote-East,East
+4,11,57,9/1/2025,IT,Remote-Central,Central
+4,12,56,9/1/2025,IT,Remote-West,West
+5,1,40,9/1/2025,Finance,Las Vegas,West
+5,2,39,9/1/2025,Finance,Phoenix,West
+5,3,68,9/1/2025,Finance,Austin,South
+5,4,49,9/1/2025,Finance,Chicago,Midwest
+5,5,47,9/1/2025,Finance,Atlanta,South
+5,6,53,9/1/2025,Finance,Seattle,West
+5,7,48,9/1/2025,Finance,Denver,West
+5,8,40,9/1/2025,Finance,Nashville,South
+5,9,52,9/1/2025,Finance,Miami,South
+5,10,45,9/1/2025,Finance,Remote-East,East
+5,11,55,9/1/2025,Finance,Remote-Central,Central
+5,12,52,9/1/2025,Finance,Remote-West,West
+6,1,52,9/1/2025,HR,Las Vegas,West
+6,2,52,9/1/2025,HR,Phoenix,West
+6,3,67,9/1/2025,HR,Austin,South
+6,4,59,9/1/2025,HR,Chicago,Midwest
+6,5,43,9/1/2025,HR,Atlanta,South
+6,6,53,9/1/2025,HR,Seattle,West
+6,7,45,9/1/2025,HR,Denver,West
+6,8,52,9/1/2025,HR,Nashville,South
+6,9,44,9/1/2025,HR,Miami,South
+6,10,42,9/1/2025,HR,Remote-East,East
+6,11,44,9/1/2025,HR,Remote-Central,Central
+6,12,51,9/1/2025,HR,Remote-West,West
+7,1,69,9/1/2025,Marketing,Las Vegas,West
+7,2,50,9/1/2025,Marketing,Phoenix,West
+7,3,73,9/1/2025,Marketing,Austin,South
+7,4,48,9/1/2025,Marketing,Chicago,Midwest
+7,5,39,9/1/2025,Marketing,Atlanta,South
+7,6,63,9/1/2025,Marketing,Seattle,West
+7,7,58,9/1/2025,Marketing,Denver,West
+7,8,44,9/1/2025,Marketing,Nashville,South
+7,9,65,9/1/2025,Marketing,Miami,South
+7,10,60,9/1/2025,Marketing,Remote-East,East
+7,11,50,9/1/2025,Marketing,Remote-Central,Central
+7,12,55,9/1/2025,Marketing,Remote-West,West
+8,1,124,9/1/2025,Sales,Las Vegas,West
+8,2,101,9/1/2025,Sales,Phoenix,West
+8,3,152,9/1/2025,Sales,Austin,South
+8,4,104,9/1/2025,Sales,Chicago,Midwest
+8,5,98,9/1/2025,Sales,Atlanta,South
+8,6,106,9/1/2025,Sales,Seattle,West
+8,7,90,9/1/2025,Sales,Denver,West
+8,8,79,9/1/2025,Sales,Nashville,South
+8,9,90,9/1/2025,Sales,Miami,South
+8,10,86,9/1/2025,Sales,Remote-East,East
+8,11,100,9/1/2025,Sales,Remote-Central,Central
+8,12,100,9/1/2025,Sales,Remote-West,West
+9,1,98,9/1/2025,Operations,Las Vegas,West
+9,2,89,9/1/2025,Operations,Phoenix,West
+9,3,109,9/1/2025,Operations,Austin,South
+9,4,96,9/1/2025,Operations,Chicago,Midwest
+9,5,72,9/1/2025,Operations,Atlanta,South
+9,6,79,9/1/2025,Operations,Seattle,West
+9,7,73,9/1/2025,Operations,Denver,West
+9,8,70,9/1/2025,Operations,Nashville,South
+9,9,80,9/1/2025,Operations,Miami,South
+9,10,102,9/1/2025,Operations,Remote-East,East
+9,11,81,9/1/2025,Operations,Remote-Central,Central
+9,12,89,9/1/2025,Operations,Remote-West,West
+10,1,98,9/1/2025,Customer Support,Las Vegas,West
+10,2,64,9/1/2025,Customer Support,Phoenix,West
+10,3,96,9/1/2025,Customer Support,Austin,South
+10,4,68,9/1/2025,Customer Support,Chicago,Midwest
+10,5,61,9/1/2025,Customer Support,Atlanta,South
+10,6,55,9/1/2025,Customer Support,Seattle,West
+10,7,62,9/1/2025,Customer Support,Denver,West
+10,8,54,9/1/2025,Customer Support,Nashville,South
+10,9,65,9/1/2025,Customer Support,Miami,South
+10,10,79,9/1/2025,Customer Support,Remote-East,East
+10,11,51,9/1/2025,Customer Support,Remote-Central,Central
+10,12,64,9/1/2025,Customer Support,Remote-West,West
+11,1,9,9/1/2025,Legal,Las Vegas,West
+11,2,6,9/1/2025,Legal,Phoenix,West
+11,3,10,9/1/2025,Legal,Austin,South
+11,4,10,9/1/2025,Legal,Chicago,Midwest
+11,5,6,9/1/2025,Legal,Atlanta,South
+11,6,14,9/1/2025,Legal,Seattle,West
+11,7,14,9/1/2025,Legal,Denver,West
+11,8,5,9/1/2025,Legal,Nashville,South
+11,9,11,9/1/2025,Legal,Miami,South
+11,10,8,9/1/2025,Legal,Remote-East,East
+11,11,13,9/1/2025,Legal,Remote-Central,Central
+11,12,3,9/1/2025,Legal,Remote-West,West
+1,1,4,10/1/2025,Executive,Las Vegas,West
+1,2,4,10/1/2025,Executive,Phoenix,West
+1,3,12,10/1/2025,Executive,Austin,South
+1,4,7,10/1/2025,Executive,Chicago,Midwest
+1,5,5,10/1/2025,Executive,Atlanta,South
+1,6,5,10/1/2025,Executive,Seattle,West
+1,7,4,10/1/2025,Executive,Denver,West
+1,8,5,10/1/2025,Executive,Nashville,South
+1,9,5,10/1/2025,Executive,Miami,South
+1,10,11,10/1/2025,Executive,Remote-East,East
+1,11,5,10/1/2025,Executive,Remote-Central,Central
+1,12,8,10/1/2025,Executive,Remote-West,West
+2,1,259,10/1/2025,Engineering,Las Vegas,West
+2,2,205,10/1/2025,Engineering,Phoenix,West
+2,3,290,10/1/2025,Engineering,Austin,South
+2,4,183,10/1/2025,Engineering,Chicago,Midwest
+2,5,201,10/1/2025,Engineering,Atlanta,South
+2,6,192,10/1/2025,Engineering,Seattle,West
+2,7,180,10/1/2025,Engineering,Denver,West
+2,8,159,10/1/2025,Engineering,Nashville,South
+2,9,182,10/1/2025,Engineering,Miami,South
+2,10,175,10/1/2025,Engineering,Remote-East,East
+2,11,218,10/1/2025,Engineering,Remote-Central,Central
+2,12,177,10/1/2025,Engineering,Remote-West,West
+3,1,81,10/1/2025,Product,Las Vegas,West
+3,2,53,10/1/2025,Product,Phoenix,West
+3,3,77,10/1/2025,Product,Austin,South
+3,4,47,10/1/2025,Product,Chicago,Midwest
+3,5,48,10/1/2025,Product,Atlanta,South
+3,6,64,10/1/2025,Product,Seattle,West
+3,7,49,10/1/2025,Product,Denver,West
+3,8,57,10/1/2025,Product,Nashville,South
+3,9,55,10/1/2025,Product,Miami,South
+3,10,60,10/1/2025,Product,Remote-East,East
+3,11,49,10/1/2025,Product,Remote-Central,Central
+3,12,50,10/1/2025,Product,Remote-West,West
+4,1,72,10/1/2025,IT,Las Vegas,West
+4,2,56,10/1/2025,IT,Phoenix,West
+4,3,89,10/1/2025,IT,Austin,South
+4,4,61,10/1/2025,IT,Chicago,Midwest
+4,5,55,10/1/2025,IT,Atlanta,South
+4,6,69,10/1/2025,IT,Seattle,West
+4,7,44,10/1/2025,IT,Denver,West
+4,8,54,10/1/2025,IT,Nashville,South
+4,9,54,10/1/2025,IT,Miami,South
+4,10,63,10/1/2025,IT,Remote-East,East
+4,11,57,10/1/2025,IT,Remote-Central,Central
+4,12,56,10/1/2025,IT,Remote-West,West
+5,1,41,10/1/2025,Finance,Las Vegas,West
+5,2,39,10/1/2025,Finance,Phoenix,West
+5,3,68,10/1/2025,Finance,Austin,South
+5,4,50,10/1/2025,Finance,Chicago,Midwest
+5,5,47,10/1/2025,Finance,Atlanta,South
+5,6,52,10/1/2025,Finance,Seattle,West
+5,7,48,10/1/2025,Finance,Denver,West
+5,8,40,10/1/2025,Finance,Nashville,South
+5,9,53,10/1/2025,Finance,Miami,South
+5,10,47,10/1/2025,Finance,Remote-East,East
+5,11,56,10/1/2025,Finance,Remote-Central,Central
+5,12,52,10/1/2025,Finance,Remote-West,West
+6,1,52,10/1/2025,HR,Las Vegas,West
+6,2,52,10/1/2025,HR,Phoenix,West
+6,3,68,10/1/2025,HR,Austin,South
+6,4,59,10/1/2025,HR,Chicago,Midwest
+6,5,43,10/1/2025,HR,Atlanta,South
+6,6,53,10/1/2025,HR,Seattle,West
+6,7,47,10/1/2025,HR,Denver,West
+6,8,52,10/1/2025,HR,Nashville,South
+6,9,44,10/1/2025,HR,Miami,South
+6,10,42,10/1/2025,HR,Remote-East,East
+6,11,44,10/1/2025,HR,Remote-Central,Central
+6,12,50,10/1/2025,HR,Remote-West,West
+7,1,72,10/1/2025,Marketing,Las Vegas,West
+7,2,50,10/1/2025,Marketing,Phoenix,West
+7,3,73,10/1/2025,Marketing,Austin,South
+7,4,48,10/1/2025,Marketing,Chicago,Midwest
+7,5,39,10/1/2025,Marketing,Atlanta,South
+7,6,63,10/1/2025,Marketing,Seattle,West
+7,7,58,10/1/2025,Marketing,Denver,West
+7,8,44,10/1/2025,Marketing,Nashville,South
+7,9,65,10/1/2025,Marketing,Miami,South
+7,10,60,10/1/2025,Marketing,Remote-East,East
+7,11,51,10/1/2025,Marketing,Remote-Central,Central
+7,12,55,10/1/2025,Marketing,Remote-West,West
+8,1,124,10/1/2025,Sales,Las Vegas,West
+8,2,101,10/1/2025,Sales,Phoenix,West
+8,3,152,10/1/2025,Sales,Austin,South
+8,4,106,10/1/2025,Sales,Chicago,Midwest
+8,5,99,10/1/2025,Sales,Atlanta,South
+8,6,106,10/1/2025,Sales,Seattle,West
+8,7,90,10/1/2025,Sales,Denver,West
+8,8,80,10/1/2025,Sales,Nashville,South
+8,9,92,10/1/2025,Sales,Miami,South
+8,10,88,10/1/2025,Sales,Remote-East,East
+8,11,99,10/1/2025,Sales,Remote-Central,Central
+8,12,100,10/1/2025,Sales,Remote-West,West
+9,1,98,10/1/2025,Operations,Las Vegas,West
+9,2,89,10/1/2025,Operations,Phoenix,West
+9,3,110,10/1/2025,Operations,Austin,South
+9,4,98,10/1/2025,Operations,Chicago,Midwest
+9,5,73,10/1/2025,Operations,Atlanta,South
+9,6,79,10/1/2025,Operations,Seattle,West
+9,7,73,10/1/2025,Operations,Denver,West
+9,8,71,10/1/2025,Operations,Nashville,South
+9,9,80,10/1/2025,Operations,Miami,South
+9,10,103,10/1/2025,Operations,Remote-East,East
+9,11,81,10/1/2025,Operations,Remote-Central,Central
+9,12,88,10/1/2025,Operations,Remote-West,West
+10,1,97,10/1/2025,Customer Support,Las Vegas,West
+10,2,64,10/1/2025,Customer Support,Phoenix,West
+10,3,96,10/1/2025,Customer Support,Austin,South
+10,4,68,10/1/2025,Customer Support,Chicago,Midwest
+10,5,61,10/1/2025,Customer Support,Atlanta,South
+10,6,55,10/1/2025,Customer Support,Seattle,West
+10,7,62,10/1/2025,Customer Support,Denver,West
+10,8,53,10/1/2025,Customer Support,Nashville,South
+10,9,65,10/1/2025,Customer Support,Miami,South
+10,10,79,10/1/2025,Customer Support,Remote-East,East
+10,11,53,10/1/2025,Customer Support,Remote-Central,Central
+10,12,64,10/1/2025,Customer Support,Remote-West,West
+11,1,10,10/1/2025,Legal,Las Vegas,West
+11,2,6,10/1/2025,Legal,Phoenix,West
+11,3,11,10/1/2025,Legal,Austin,South
+11,4,11,10/1/2025,Legal,Chicago,Midwest
+11,5,6,10/1/2025,Legal,Atlanta,South
+11,6,14,10/1/2025,Legal,Seattle,West
+11,7,14,10/1/2025,Legal,Denver,West
+11,8,5,10/1/2025,Legal,Nashville,South
+11,9,11,10/1/2025,Legal,Miami,South
+11,10,8,10/1/2025,Legal,Remote-East,East
+11,11,13,10/1/2025,Legal,Remote-Central,Central
+11,12,3,10/1/2025,Legal,Remote-West,West
+1,1,4,11/1/2025,Executive,Las Vegas,West
+1,2,4,11/1/2025,Executive,Phoenix,West
+1,3,12,11/1/2025,Executive,Austin,South
+1,4,7,11/1/2025,Executive,Chicago,Midwest
+1,5,5,11/1/2025,Executive,Atlanta,South
+1,6,5,11/1/2025,Executive,Seattle,West
+1,7,4,11/1/2025,Executive,Denver,West
+1,8,5,11/1/2025,Executive,Nashville,South
+1,9,5,11/1/2025,Executive,Miami,South
+1,10,11,11/1/2025,Executive,Remote-East,East
+1,11,5,11/1/2025,Executive,Remote-Central,Central
+1,12,8,11/1/2025,Executive,Remote-West,West
+2,1,262,11/1/2025,Engineering,Las Vegas,West
+2,2,205,11/1/2025,Engineering,Phoenix,West
+2,3,288,11/1/2025,Engineering,Austin,South
+2,4,185,11/1/2025,Engineering,Chicago,Midwest
+2,5,202,11/1/2025,Engineering,Atlanta,South
+2,6,194,11/1/2025,Engineering,Seattle,West
+2,7,183,11/1/2025,Engineering,Denver,West
+2,8,158,11/1/2025,Engineering,Nashville,South
+2,9,183,11/1/2025,Engineering,Miami,South
+2,10,175,11/1/2025,Engineering,Remote-East,East
+2,11,217,11/1/2025,Engineering,Remote-Central,Central
+2,12,178,11/1/2025,Engineering,Remote-West,West
+3,1,82,11/1/2025,Product,Las Vegas,West
+3,2,53,11/1/2025,Product,Phoenix,West
+3,3,77,11/1/2025,Product,Austin,South
+3,4,47,11/1/2025,Product,Chicago,Midwest
+3,5,48,11/1/2025,Product,Atlanta,South
+3,6,64,11/1/2025,Product,Seattle,West
+3,7,48,11/1/2025,Product,Denver,West
+3,8,57,11/1/2025,Product,Nashville,South
+3,9,56,11/1/2025,Product,Miami,South
+3,10,60,11/1/2025,Product,Remote-East,East
+3,11,49,11/1/2025,Product,Remote-Central,Central
+3,12,51,11/1/2025,Product,Remote-West,West
+4,1,74,11/1/2025,IT,Las Vegas,West
+4,2,56,11/1/2025,IT,Phoenix,West
+4,3,89,11/1/2025,IT,Austin,South
+4,4,60,11/1/2025,IT,Chicago,Midwest
+4,5,55,11/1/2025,IT,Atlanta,South
+4,6,69,11/1/2025,IT,Seattle,West
+4,7,45,11/1/2025,IT,Denver,West
+4,8,54,11/1/2025,IT,Nashville,South
+4,9,55,11/1/2025,IT,Miami,South
+4,10,63,11/1/2025,IT,Remote-East,East
+4,11,57,11/1/2025,IT,Remote-Central,Central
+4,12,56,11/1/2025,IT,Remote-West,West
+5,1,41,11/1/2025,Finance,Las Vegas,West
+5,2,39,11/1/2025,Finance,Phoenix,West
+5,3,68,11/1/2025,Finance,Austin,South
+5,4,50,11/1/2025,Finance,Chicago,Midwest
+5,5,47,11/1/2025,Finance,Atlanta,South
+5,6,53,11/1/2025,Finance,Seattle,West
+5,7,48,11/1/2025,Finance,Denver,West
+5,8,40,11/1/2025,Finance,Nashville,South
+5,9,53,11/1/2025,Finance,Miami,South
+5,10,48,11/1/2025,Finance,Remote-East,East
+5,11,56,11/1/2025,Finance,Remote-Central,Central
+5,12,52,11/1/2025,Finance,Remote-West,West
+6,1,53,11/1/2025,HR,Las Vegas,West
+6,2,52,11/1/2025,HR,Phoenix,West
+6,3,68,11/1/2025,HR,Austin,South
+6,4,60,11/1/2025,HR,Chicago,Midwest
+6,5,44,11/1/2025,HR,Atlanta,South
+6,6,53,11/1/2025,HR,Seattle,West
+6,7,47,11/1/2025,HR,Denver,West
+6,8,53,11/1/2025,HR,Nashville,South
+6,9,44,11/1/2025,HR,Miami,South
+6,10,42,11/1/2025,HR,Remote-East,East
+6,11,45,11/1/2025,HR,Remote-Central,Central
+6,12,51,11/1/2025,HR,Remote-West,West
+7,1,73,11/1/2025,Marketing,Las Vegas,West
+7,2,50,11/1/2025,Marketing,Phoenix,West
+7,3,73,11/1/2025,Marketing,Austin,South
+7,4,49,11/1/2025,Marketing,Chicago,Midwest
+7,5,39,11/1/2025,Marketing,Atlanta,South
+7,6,64,11/1/2025,Marketing,Seattle,West
+7,7,60,11/1/2025,Marketing,Denver,West
+7,8,44,11/1/2025,Marketing,Nashville,South
+7,9,64,11/1/2025,Marketing,Miami,South
+7,10,61,11/1/2025,Marketing,Remote-East,East
+7,11,51,11/1/2025,Marketing,Remote-Central,Central
+7,12,55,11/1/2025,Marketing,Remote-West,West
+8,1,125,11/1/2025,Sales,Las Vegas,West
+8,2,102,11/1/2025,Sales,Phoenix,West
+8,3,154,11/1/2025,Sales,Austin,South
+8,4,107,11/1/2025,Sales,Chicago,Midwest
+8,5,99,11/1/2025,Sales,Atlanta,South
+8,6,106,11/1/2025,Sales,Seattle,West
+8,7,89,11/1/2025,Sales,Denver,West
+8,8,80,11/1/2025,Sales,Nashville,South
+8,9,92,11/1/2025,Sales,Miami,South
+8,10,88,11/1/2025,Sales,Remote-East,East
+8,11,98,11/1/2025,Sales,Remote-Central,Central
+8,12,101,11/1/2025,Sales,Remote-West,West
+9,1,99,11/1/2025,Operations,Las Vegas,West
+9,2,89,11/1/2025,Operations,Phoenix,West
+9,3,111,11/1/2025,Operations,Austin,South
+9,4,98,11/1/2025,Operations,Chicago,Midwest
+9,5,74,11/1/2025,Operations,Atlanta,South
+9,6,79,11/1/2025,Operations,Seattle,West
+9,7,73,11/1/2025,Operations,Denver,West
+9,8,72,11/1/2025,Operations,Nashville,South
+9,9,79,11/1/2025,Operations,Miami,South
+9,10,103,11/1/2025,Operations,Remote-East,East
+9,11,81,11/1/2025,Operations,Remote-Central,Central
+9,12,88,11/1/2025,Operations,Remote-West,West
+10,1,98,11/1/2025,Customer Support,Las Vegas,West
+10,2,64,11/1/2025,Customer Support,Phoenix,West
+10,3,96,11/1/2025,Customer Support,Austin,South
+10,4,71,11/1/2025,Customer Support,Chicago,Midwest
+10,5,61,11/1/2025,Customer Support,Atlanta,South
+10,6,55,11/1/2025,Customer Support,Seattle,West
+10,7,63,11/1/2025,Customer Support,Denver,West
+10,8,53,11/1/2025,Customer Support,Nashville,South
+10,9,65,11/1/2025,Customer Support,Miami,South
+10,10,80,11/1/2025,Customer Support,Remote-East,East
+10,11,53,11/1/2025,Customer Support,Remote-Central,Central
+10,12,64,11/1/2025,Customer Support,Remote-West,West
+11,1,10,11/1/2025,Legal,Las Vegas,West
+11,2,6,11/1/2025,Legal,Phoenix,West
+11,3,11,11/1/2025,Legal,Austin,South
+11,4,11,11/1/2025,Legal,Chicago,Midwest
+11,5,6,11/1/2025,Legal,Atlanta,South
+11,6,14,11/1/2025,Legal,Seattle,West
+11,7,14,11/1/2025,Legal,Denver,West
+11,8,5,11/1/2025,Legal,Nashville,South
+11,9,11,11/1/2025,Legal,Miami,South
+11,10,8,11/1/2025,Legal,Remote-East,East
+11,11,13,11/1/2025,Legal,Remote-Central,Central
+11,12,3,11/1/2025,Legal,Remote-West,West
+1,1,4,12/1/2025,Executive,Las Vegas,West
+1,2,4,12/1/2025,Executive,Phoenix,West
+1,3,12,12/1/2025,Executive,Austin,South
+1,4,7,12/1/2025,Executive,Chicago,Midwest
+1,5,5,12/1/2025,Executive,Atlanta,South
+1,6,5,12/1/2025,Executive,Seattle,West
+1,7,4,12/1/2025,Executive,Denver,West
+1,8,5,12/1/2025,Executive,Nashville,South
+1,9,5,12/1/2025,Executive,Miami,South
+1,10,11,12/1/2025,Executive,Remote-East,East
+1,11,5,12/1/2025,Executive,Remote-Central,Central
+1,12,8,12/1/2025,Executive,Remote-West,West
+2,1,262,12/1/2025,Engineering,Las Vegas,West
+2,2,207,12/1/2025,Engineering,Phoenix,West
+2,3,290,12/1/2025,Engineering,Austin,South
+2,4,184,12/1/2025,Engineering,Chicago,Midwest
+2,5,202,12/1/2025,Engineering,Atlanta,South
+2,6,194,12/1/2025,Engineering,Seattle,West
+2,7,185,12/1/2025,Engineering,Denver,West
+2,8,162,12/1/2025,Engineering,Nashville,South
+2,9,183,12/1/2025,Engineering,Miami,South
+2,10,176,12/1/2025,Engineering,Remote-East,East
+2,11,216,12/1/2025,Engineering,Remote-Central,Central
+2,12,179,12/1/2025,Engineering,Remote-West,West
+3,1,82,12/1/2025,Product,Las Vegas,West
+3,2,54,12/1/2025,Product,Phoenix,West
+3,3,76,12/1/2025,Product,Austin,South
+3,4,47,12/1/2025,Product,Chicago,Midwest
+3,5,48,12/1/2025,Product,Atlanta,South
+3,6,64,12/1/2025,Product,Seattle,West
+3,7,50,12/1/2025,Product,Denver,West
+3,8,56,12/1/2025,Product,Nashville,South
+3,9,56,12/1/2025,Product,Miami,South
+3,10,60,12/1/2025,Product,Remote-East,East
+3,11,49,12/1/2025,Product,Remote-Central,Central
+3,12,51,12/1/2025,Product,Remote-West,West
+4,1,75,12/1/2025,IT,Las Vegas,West
+4,2,56,12/1/2025,IT,Phoenix,West
+4,3,89,12/1/2025,IT,Austin,South
+4,4,60,12/1/2025,IT,Chicago,Midwest
+4,5,55,12/1/2025,IT,Atlanta,South
+4,6,67,12/1/2025,IT,Seattle,West
+4,7,45,12/1/2025,IT,Denver,West
+4,8,54,12/1/2025,IT,Nashville,South
+4,9,55,12/1/2025,IT,Miami,South
+4,10,62,12/1/2025,IT,Remote-East,East
+4,11,56,12/1/2025,IT,Remote-Central,Central
+4,12,56,12/1/2025,IT,Remote-West,West
+5,1,43,12/1/2025,Finance,Las Vegas,West
+5,2,39,12/1/2025,Finance,Phoenix,West
+5,3,68,12/1/2025,Finance,Austin,South
+5,4,50,12/1/2025,Finance,Chicago,Midwest
+5,5,47,12/1/2025,Finance,Atlanta,South
+5,6,53,12/1/2025,Finance,Seattle,West
+5,7,48,12/1/2025,Finance,Denver,West
+5,8,40,12/1/2025,Finance,Nashville,South
+5,9,54,12/1/2025,Finance,Miami,South
+5,10,48,12/1/2025,Finance,Remote-East,East
+5,11,56,12/1/2025,Finance,Remote-Central,Central
+5,12,52,12/1/2025,Finance,Remote-West,West
+6,1,53,12/1/2025,HR,Las Vegas,West
+6,2,52,12/1/2025,HR,Phoenix,West
+6,3,68,12/1/2025,HR,Austin,South
+6,4,60,12/1/2025,HR,Chicago,Midwest
+6,5,44,12/1/2025,HR,Atlanta,South
+6,6,53,12/1/2025,HR,Seattle,West
+6,7,46,12/1/2025,HR,Denver,West
+6,8,54,12/1/2025,HR,Nashville,South
+6,9,44,12/1/2025,HR,Miami,South
+6,10,40,12/1/2025,HR,Remote-East,East
+6,11,44,12/1/2025,HR,Remote-Central,Central
+6,12,52,12/1/2025,HR,Remote-West,West
+7,1,73,12/1/2025,Marketing,Las Vegas,West
+7,2,51,12/1/2025,Marketing,Phoenix,West
+7,3,73,12/1/2025,Marketing,Austin,South
+7,4,49,12/1/2025,Marketing,Chicago,Midwest
+7,5,39,12/1/2025,Marketing,Atlanta,South
+7,6,64,12/1/2025,Marketing,Seattle,West
+7,7,61,12/1/2025,Marketing,Denver,West
+7,8,46,12/1/2025,Marketing,Nashville,South
+7,9,63,12/1/2025,Marketing,Miami,South
+7,10,60,12/1/2025,Marketing,Remote-East,East
+7,11,51,12/1/2025,Marketing,Remote-Central,Central
+7,12,55,12/1/2025,Marketing,Remote-West,West
+8,1,126,12/1/2025,Sales,Las Vegas,West
+8,2,103,12/1/2025,Sales,Phoenix,West
+8,3,156,12/1/2025,Sales,Austin,South
+8,4,107,12/1/2025,Sales,Chicago,Midwest
+8,5,98,12/1/2025,Sales,Atlanta,South
+8,6,105,12/1/2025,Sales,Seattle,West
+8,7,89,12/1/2025,Sales,Denver,West
+8,8,80,12/1/2025,Sales,Nashville,South
+8,9,92,12/1/2025,Sales,Miami,South
+8,10,89,12/1/2025,Sales,Remote-East,East
+8,11,99,12/1/2025,Sales,Remote-Central,Central
+8,12,101,12/1/2025,Sales,Remote-West,West
+9,1,97,12/1/2025,Operations,Las Vegas,West
+9,2,90,12/1/2025,Operations,Phoenix,West
+9,3,112,12/1/2025,Operations,Austin,South
+9,4,98,12/1/2025,Operations,Chicago,Midwest
+9,5,75,12/1/2025,Operations,Atlanta,South
+9,6,81,12/1/2025,Operations,Seattle,West
+9,7,75,12/1/2025,Operations,Denver,West
+9,8,71,12/1/2025,Operations,Nashville,South
+9,9,78,12/1/2025,Operations,Miami,South
+9,10,103,12/1/2025,Operations,Remote-East,East
+9,11,80,12/1/2025,Operations,Remote-Central,Central
+9,12,88,12/1/2025,Operations,Remote-West,West
+10,1,99,12/1/2025,Customer Support,Las Vegas,West
+10,2,63,12/1/2025,Customer Support,Phoenix,West
+10,3,97,12/1/2025,Customer Support,Austin,South
+10,4,73,12/1/2025,Customer Support,Chicago,Midwest
+10,5,61,12/1/2025,Customer Support,Atlanta,South
+10,6,54,12/1/2025,Customer Support,Seattle,West
+10,7,63,12/1/2025,Customer Support,Denver,West
+10,8,53,12/1/2025,Customer Support,Nashville,South
+10,9,65,12/1/2025,Customer Support,Miami,South
+10,10,80,12/1/2025,Customer Support,Remote-East,East
+10,11,53,12/1/2025,Customer Support,Remote-Central,Central
+10,12,65,12/1/2025,Customer Support,Remote-West,West
+11,1,11,12/1/2025,Legal,Las Vegas,West
+11,2,6,12/1/2025,Legal,Phoenix,West
+11,3,11,12/1/2025,Legal,Austin,South
+11,4,11,12/1/2025,Legal,Chicago,Midwest
+11,5,6,12/1/2025,Legal,Atlanta,South
+11,6,14,12/1/2025,Legal,Seattle,West
+11,7,14,12/1/2025,Legal,Denver,West
+11,8,5,12/1/2025,Legal,Nashville,South
+11,9,11,12/1/2025,Legal,Miami,South
+11,10,8,12/1/2025,Legal,Remote-East,East
+11,11,13,12/1/2025,Legal,Remote-Central,Central
+11,12,3,12/1/2025,Legal,Remote-West,West
+1,1,4,1/1/2026,Executive,Las Vegas,West
+1,2,4,1/1/2026,Executive,Phoenix,West
+1,3,12,1/1/2026,Executive,Austin,South
+1,4,7,1/1/2026,Executive,Chicago,Midwest
+1,5,5,1/1/2026,Executive,Atlanta,South
+1,6,6,1/1/2026,Executive,Seattle,West
+1,7,4,1/1/2026,Executive,Denver,West
+1,8,5,1/1/2026,Executive,Nashville,South
+1,9,5,1/1/2026,Executive,Miami,South
+1,10,11,1/1/2026,Executive,Remote-East,East
+1,11,5,1/1/2026,Executive,Remote-Central,Central
+1,12,8,1/1/2026,Executive,Remote-West,West
+2,1,263,1/1/2026,Engineering,Las Vegas,West
+2,2,208,1/1/2026,Engineering,Phoenix,West
+2,3,290,1/1/2026,Engineering,Austin,South
+2,4,185,1/1/2026,Engineering,Chicago,Midwest
+2,5,203,1/1/2026,Engineering,Atlanta,South
+2,6,194,1/1/2026,Engineering,Seattle,West
+2,7,185,1/1/2026,Engineering,Denver,West
+2,8,162,1/1/2026,Engineering,Nashville,South
+2,9,185,1/1/2026,Engineering,Miami,South
+2,10,174,1/1/2026,Engineering,Remote-East,East
+2,11,215,1/1/2026,Engineering,Remote-Central,Central
+2,12,178,1/1/2026,Engineering,Remote-West,West
+3,1,82,1/1/2026,Product,Las Vegas,West
+3,2,54,1/1/2026,Product,Phoenix,West
+3,3,76,1/1/2026,Product,Austin,South
+3,4,47,1/1/2026,Product,Chicago,Midwest
+3,5,48,1/1/2026,Product,Atlanta,South
+3,6,64,1/1/2026,Product,Seattle,West
+3,7,51,1/1/2026,Product,Denver,West
+3,8,56,1/1/2026,Product,Nashville,South
+3,9,56,1/1/2026,Product,Miami,South
+3,10,61,1/1/2026,Product,Remote-East,East
+3,11,48,1/1/2026,Product,Remote-Central,Central
+3,12,51,1/1/2026,Product,Remote-West,West
+4,1,75,1/1/2026,IT,Las Vegas,West
+4,2,58,1/1/2026,IT,Phoenix,West
+4,3,91,1/1/2026,IT,Austin,South
+4,4,62,1/1/2026,IT,Chicago,Midwest
+4,5,55,1/1/2026,IT,Atlanta,South
+4,6,66,1/1/2026,IT,Seattle,West
+4,7,45,1/1/2026,IT,Denver,West
+4,8,53,1/1/2026,IT,Nashville,South
+4,9,56,1/1/2026,IT,Miami,South
+4,10,62,1/1/2026,IT,Remote-East,East
+4,11,57,1/1/2026,IT,Remote-Central,Central
+4,12,56,1/1/2026,IT,Remote-West,West
+5,1,43,1/1/2026,Finance,Las Vegas,West
+5,2,39,1/1/2026,Finance,Phoenix,West
+5,3,68,1/1/2026,Finance,Austin,South
+5,4,50,1/1/2026,Finance,Chicago,Midwest
+5,5,47,1/1/2026,Finance,Atlanta,South
+5,6,54,1/1/2026,Finance,Seattle,West
+5,7,48,1/1/2026,Finance,Denver,West
+5,8,39,1/1/2026,Finance,Nashville,South
+5,9,54,1/1/2026,Finance,Miami,South
+5,10,48,1/1/2026,Finance,Remote-East,East
+5,11,56,1/1/2026,Finance,Remote-Central,Central
+5,12,52,1/1/2026,Finance,Remote-West,West
+6,1,54,1/1/2026,HR,Las Vegas,West
+6,2,52,1/1/2026,HR,Phoenix,West
+6,3,68,1/1/2026,HR,Austin,South
+6,4,60,1/1/2026,HR,Chicago,Midwest
+6,5,44,1/1/2026,HR,Atlanta,South
+6,6,54,1/1/2026,HR,Seattle,West
+6,7,45,1/1/2026,HR,Denver,West
+6,8,55,1/1/2026,HR,Nashville,South
+6,9,44,1/1/2026,HR,Miami,South
+6,10,40,1/1/2026,HR,Remote-East,East
+6,11,44,1/1/2026,HR,Remote-Central,Central
+6,12,52,1/1/2026,HR,Remote-West,West
+7,1,73,1/1/2026,Marketing,Las Vegas,West
+7,2,52,1/1/2026,Marketing,Phoenix,West
+7,3,73,1/1/2026,Marketing,Austin,South
+7,4,51,1/1/2026,Marketing,Chicago,Midwest
+7,5,39,1/1/2026,Marketing,Atlanta,South
+7,6,65,1/1/2026,Marketing,Seattle,West
+7,7,61,1/1/2026,Marketing,Denver,West
+7,8,45,1/1/2026,Marketing,Nashville,South
+7,9,65,1/1/2026,Marketing,Miami,South
+7,10,60,1/1/2026,Marketing,Remote-East,East
+7,11,52,1/1/2026,Marketing,Remote-Central,Central
+7,12,55,1/1/2026,Marketing,Remote-West,West
+8,1,127,1/1/2026,Sales,Las Vegas,West
+8,2,103,1/1/2026,Sales,Phoenix,West
+8,3,153,1/1/2026,Sales,Austin,South
+8,4,107,1/1/2026,Sales,Chicago,Midwest
+8,5,99,1/1/2026,Sales,Atlanta,South
+8,6,106,1/1/2026,Sales,Seattle,West
+8,7,89,1/1/2026,Sales,Denver,West
+8,8,82,1/1/2026,Sales,Nashville,South
+8,9,93,1/1/2026,Sales,Miami,South
+8,10,89,1/1/2026,Sales,Remote-East,East
+8,11,99,1/1/2026,Sales,Remote-Central,Central
+8,12,101,1/1/2026,Sales,Remote-West,West
+9,1,98,1/1/2026,Operations,Las Vegas,West
+9,2,92,1/1/2026,Operations,Phoenix,West
+9,3,112,1/1/2026,Operations,Austin,South
+9,4,99,1/1/2026,Operations,Chicago,Midwest
+9,5,75,1/1/2026,Operations,Atlanta,South
+9,6,82,1/1/2026,Operations,Seattle,West
+9,7,75,1/1/2026,Operations,Denver,West
+9,8,71,1/1/2026,Operations,Nashville,South
+9,9,78,1/1/2026,Operations,Miami,South
+9,10,105,1/1/2026,Operations,Remote-East,East
+9,11,81,1/1/2026,Operations,Remote-Central,Central
+9,12,88,1/1/2026,Operations,Remote-West,West
+10,1,98,1/1/2026,Customer Support,Las Vegas,West
+10,2,63,1/1/2026,Customer Support,Phoenix,West
+10,3,99,1/1/2026,Customer Support,Austin,South
+10,4,75,1/1/2026,Customer Support,Chicago,Midwest
+10,5,61,1/1/2026,Customer Support,Atlanta,South
+10,6,54,1/1/2026,Customer Support,Seattle,West
+10,7,61,1/1/2026,Customer Support,Denver,West
+10,8,54,1/1/2026,Customer Support,Nashville,South
+10,9,66,1/1/2026,Customer Support,Miami,South
+10,10,80,1/1/2026,Customer Support,Remote-East,East
+10,11,52,1/1/2026,Customer Support,Remote-Central,Central
+10,12,65,1/1/2026,Customer Support,Remote-West,West
+11,1,11,1/1/2026,Legal,Las Vegas,West
+11,2,6,1/1/2026,Legal,Phoenix,West
+11,3,11,1/1/2026,Legal,Austin,South
+11,4,11,1/1/2026,Legal,Chicago,Midwest
+11,5,6,1/1/2026,Legal,Atlanta,South
+11,6,14,1/1/2026,Legal,Seattle,West
+11,7,14,1/1/2026,Legal,Denver,West
+11,8,5,1/1/2026,Legal,Nashville,South
+11,9,11,1/1/2026,Legal,Miami,South
+11,10,8,1/1/2026,Legal,Remote-East,East
+11,11,13,1/1/2026,Legal,Remote-Central,Central
+11,12,3,1/1/2026,Legal,Remote-West,West
+1,1,5,2/1/2026,Executive,Las Vegas,West
+1,2,4,2/1/2026,Executive,Phoenix,West
+1,3,12,2/1/2026,Executive,Austin,South
+1,4,7,2/1/2026,Executive,Chicago,Midwest
+1,5,5,2/1/2026,Executive,Atlanta,South
+1,6,6,2/1/2026,Executive,Seattle,West
+1,7,4,2/1/2026,Executive,Denver,West
+1,8,5,2/1/2026,Executive,Nashville,South
+1,9,5,2/1/2026,Executive,Miami,South
+1,10,11,2/1/2026,Executive,Remote-East,East
+1,11,5,2/1/2026,Executive,Remote-Central,Central
+1,12,8,2/1/2026,Executive,Remote-West,West
+2,1,263,2/1/2026,Engineering,Las Vegas,West
+2,2,207,2/1/2026,Engineering,Phoenix,West
+2,3,292,2/1/2026,Engineering,Austin,South
+2,4,187,2/1/2026,Engineering,Chicago,Midwest
+2,5,205,2/1/2026,Engineering,Atlanta,South
+2,6,197,2/1/2026,Engineering,Seattle,West
+2,7,185,2/1/2026,Engineering,Denver,West
+2,8,162,2/1/2026,Engineering,Nashville,South
+2,9,187,2/1/2026,Engineering,Miami,South
+2,10,175,2/1/2026,Engineering,Remote-East,East
+2,11,215,2/1/2026,Engineering,Remote-Central,Central
+2,12,177,2/1/2026,Engineering,Remote-West,West
+3,1,82,2/1/2026,Product,Las Vegas,West
+3,2,55,2/1/2026,Product,Phoenix,West
+3,3,78,2/1/2026,Product,Austin,South
+3,4,47,2/1/2026,Product,Chicago,Midwest
+3,5,48,2/1/2026,Product,Atlanta,South
+3,6,65,2/1/2026,Product,Seattle,West
+3,7,51,2/1/2026,Product,Denver,West
+3,8,55,2/1/2026,Product,Nashville,South
+3,9,56,2/1/2026,Product,Miami,South
+3,10,62,2/1/2026,Product,Remote-East,East
+3,11,48,2/1/2026,Product,Remote-Central,Central
+3,12,52,2/1/2026,Product,Remote-West,West
+4,1,75,2/1/2026,IT,Las Vegas,West
+4,2,58,2/1/2026,IT,Phoenix,West
+4,3,92,2/1/2026,IT,Austin,South
+4,4,62,2/1/2026,IT,Chicago,Midwest
+4,5,55,2/1/2026,IT,Atlanta,South
+4,6,66,2/1/2026,IT,Seattle,West
+4,7,45,2/1/2026,IT,Denver,West
+4,8,53,2/1/2026,IT,Nashville,South
+4,9,55,2/1/2026,IT,Miami,South
+4,10,63,2/1/2026,IT,Remote-East,East
+4,11,57,2/1/2026,IT,Remote-Central,Central
+4,12,56,2/1/2026,IT,Remote-West,West
+5,1,43,2/1/2026,Finance,Las Vegas,West
+5,2,40,2/1/2026,Finance,Phoenix,West
+5,3,68,2/1/2026,Finance,Austin,South
+5,4,50,2/1/2026,Finance,Chicago,Midwest
+5,5,47,2/1/2026,Finance,Atlanta,South
+5,6,55,2/1/2026,Finance,Seattle,West
+5,7,47,2/1/2026,Finance,Denver,West
+5,8,38,2/1/2026,Finance,Nashville,South
+5,9,54,2/1/2026,Finance,Miami,South
+5,10,47,2/1/2026,Finance,Remote-East,East
+5,11,57,2/1/2026,Finance,Remote-Central,Central
+5,12,53,2/1/2026,Finance,Remote-West,West
+6,1,54,2/1/2026,HR,Las Vegas,West
+6,2,52,2/1/2026,HR,Phoenix,West
+6,3,69,2/1/2026,HR,Austin,South
+6,4,61,2/1/2026,HR,Chicago,Midwest
+6,5,44,2/1/2026,HR,Atlanta,South
+6,6,55,2/1/2026,HR,Seattle,West
+6,7,45,2/1/2026,HR,Denver,West
+6,8,56,2/1/2026,HR,Nashville,South
+6,9,44,2/1/2026,HR,Miami,South
+6,10,40,2/1/2026,HR,Remote-East,East
+6,11,44,2/1/2026,HR,Remote-Central,Central
+6,12,52,2/1/2026,HR,Remote-West,West
+7,1,74,2/1/2026,Marketing,Las Vegas,West
+7,2,52,2/1/2026,Marketing,Phoenix,West
+7,3,72,2/1/2026,Marketing,Austin,South
+7,4,51,2/1/2026,Marketing,Chicago,Midwest
+7,5,39,2/1/2026,Marketing,Atlanta,South
+7,6,65,2/1/2026,Marketing,Seattle,West
+7,7,61,2/1/2026,Marketing,Denver,West
+7,8,45,2/1/2026,Marketing,Nashville,South
+7,9,65,2/1/2026,Marketing,Miami,South
+7,10,60,2/1/2026,Marketing,Remote-East,East
+7,11,54,2/1/2026,Marketing,Remote-Central,Central
+7,12,55,2/1/2026,Marketing,Remote-West,West
+8,1,127,2/1/2026,Sales,Las Vegas,West
+8,2,103,2/1/2026,Sales,Phoenix,West
+8,3,152,2/1/2026,Sales,Austin,South
+8,4,108,2/1/2026,Sales,Chicago,Midwest
+8,5,101,2/1/2026,Sales,Atlanta,South
+8,6,107,2/1/2026,Sales,Seattle,West
+8,7,89,2/1/2026,Sales,Denver,West
+8,8,83,2/1/2026,Sales,Nashville,South
+8,9,93,2/1/2026,Sales,Miami,South
+8,10,89,2/1/2026,Sales,Remote-East,East
+8,11,97,2/1/2026,Sales,Remote-Central,Central
+8,12,101,2/1/2026,Sales,Remote-West,West
+9,1,100,2/1/2026,Operations,Las Vegas,West
+9,2,93,2/1/2026,Operations,Phoenix,West
+9,3,115,2/1/2026,Operations,Austin,South
+9,4,99,2/1/2026,Operations,Chicago,Midwest
+9,5,75,2/1/2026,Operations,Atlanta,South
+9,6,83,2/1/2026,Operations,Seattle,West
+9,7,76,2/1/2026,Operations,Denver,West
+9,8,71,2/1/2026,Operations,Nashville,South
+9,9,77,2/1/2026,Operations,Miami,South
+9,10,107,2/1/2026,Operations,Remote-East,East
+9,11,82,2/1/2026,Operations,Remote-Central,Central
+9,12,87,2/1/2026,Operations,Remote-West,West
+10,1,99,2/1/2026,Customer Support,Las Vegas,West
+10,2,62,2/1/2026,Customer Support,Phoenix,West
+10,3,100,2/1/2026,Customer Support,Austin,South
+10,4,75,2/1/2026,Customer Support,Chicago,Midwest
+10,5,61,2/1/2026,Customer Support,Atlanta,South
+10,6,54,2/1/2026,Customer Support,Seattle,West
+10,7,62,2/1/2026,Customer Support,Denver,West
+10,8,53,2/1/2026,Customer Support,Nashville,South
+10,9,67,2/1/2026,Customer Support,Miami,South
+10,10,79,2/1/2026,Customer Support,Remote-East,East
+10,11,52,2/1/2026,Customer Support,Remote-Central,Central
+10,12,65,2/1/2026,Customer Support,Remote-West,West
+11,1,11,2/1/2026,Legal,Las Vegas,West
+11,2,6,2/1/2026,Legal,Phoenix,West
+11,3,11,2/1/2026,Legal,Austin,South
+11,4,11,2/1/2026,Legal,Chicago,Midwest
+11,5,6,2/1/2026,Legal,Atlanta,South
+11,6,14,2/1/2026,Legal,Seattle,West
+11,7,14,2/1/2026,Legal,Denver,West
+11,8,6,2/1/2026,Legal,Nashville,South
+11,9,11,2/1/2026,Legal,Miami,South
+11,10,8,2/1/2026,Legal,Remote-East,East
+11,11,13,2/1/2026,Legal,Remote-Central,Central
+11,12,3,2/1/2026,Legal,Remote-West,West
+1,1,5,3/1/2026,Executive,Las Vegas,West
+1,2,4,3/1/2026,Executive,Phoenix,West
+1,3,12,3/1/2026,Executive,Austin,South
+1,4,7,3/1/2026,Executive,Chicago,Midwest
+1,5,5,3/1/2026,Executive,Atlanta,South
+1,6,6,3/1/2026,Executive,Seattle,West
+1,7,4,3/1/2026,Executive,Denver,West
+1,8,5,3/1/2026,Executive,Nashville,South
+1,9,5,3/1/2026,Executive,Miami,South
+1,10,11,3/1/2026,Executive,Remote-East,East
+1,11,5,3/1/2026,Executive,Remote-Central,Central
+1,12,8,3/1/2026,Executive,Remote-West,West
+2,1,263,3/1/2026,Engineering,Las Vegas,West
+2,2,207,3/1/2026,Engineering,Phoenix,West
+2,3,289,3/1/2026,Engineering,Austin,South
+2,4,184,3/1/2026,Engineering,Chicago,Midwest
+2,5,202,3/1/2026,Engineering,Atlanta,South
+2,6,196,3/1/2026,Engineering,Seattle,West
+2,7,185,3/1/2026,Engineering,Denver,West
+2,8,162,3/1/2026,Engineering,Nashville,South
+2,9,186,3/1/2026,Engineering,Miami,South
+2,10,175,3/1/2026,Engineering,Remote-East,East
+2,11,213,3/1/2026,Engineering,Remote-Central,Central
+2,12,176,3/1/2026,Engineering,Remote-West,West
+3,1,82,3/1/2026,Product,Las Vegas,West
+3,2,55,3/1/2026,Product,Phoenix,West
+3,3,78,3/1/2026,Product,Austin,South
+3,4,47,3/1/2026,Product,Chicago,Midwest
+3,5,48,3/1/2026,Product,Atlanta,South
+3,6,64,3/1/2026,Product,Seattle,West
+3,7,51,3/1/2026,Product,Denver,West
+3,8,54,3/1/2026,Product,Nashville,South
+3,9,56,3/1/2026,Product,Miami,South
+3,10,62,3/1/2026,Product,Remote-East,East
+3,11,48,3/1/2026,Product,Remote-Central,Central
+3,12,52,3/1/2026,Product,Remote-West,West
+4,1,74,3/1/2026,IT,Las Vegas,West
+4,2,58,3/1/2026,IT,Phoenix,West
+4,3,92,3/1/2026,IT,Austin,South
+4,4,62,3/1/2026,IT,Chicago,Midwest
+4,5,54,3/1/2026,IT,Atlanta,South
+4,6,65,3/1/2026,IT,Seattle,West
+4,7,45,3/1/2026,IT,Denver,West
+4,8,53,3/1/2026,IT,Nashville,South
+4,9,52,3/1/2026,IT,Miami,South
+4,10,63,3/1/2026,IT,Remote-East,East
+4,11,57,3/1/2026,IT,Remote-Central,Central
+4,12,55,3/1/2026,IT,Remote-West,West
+5,1,43,3/1/2026,Finance,Las Vegas,West
+5,2,40,3/1/2026,Finance,Phoenix,West
+5,3,68,3/1/2026,Finance,Austin,South
+5,4,50,3/1/2026,Finance,Chicago,Midwest
+5,5,46,3/1/2026,Finance,Atlanta,South
+5,6,55,3/1/2026,Finance,Seattle,West
+5,7,47,3/1/2026,Finance,Denver,West
+5,8,38,3/1/2026,Finance,Nashville,South
+5,9,54,3/1/2026,Finance,Miami,South
+5,10,47,3/1/2026,Finance,Remote-East,East
+5,11,57,3/1/2026,Finance,Remote-Central,Central
+5,12,53,3/1/2026,Finance,Remote-West,West
+6,1,54,3/1/2026,HR,Las Vegas,West
+6,2,52,3/1/2026,HR,Phoenix,West
+6,3,69,3/1/2026,HR,Austin,South
+6,4,60,3/1/2026,HR,Chicago,Midwest
+6,5,44,3/1/2026,HR,Atlanta,South
+6,6,55,3/1/2026,HR,Seattle,West
+6,7,45,3/1/2026,HR,Denver,West
+6,8,56,3/1/2026,HR,Nashville,South
+6,9,43,3/1/2026,HR,Miami,South
+6,10,40,3/1/2026,HR,Remote-East,East
+6,11,44,3/1/2026,HR,Remote-Central,Central
+6,12,52,3/1/2026,HR,Remote-West,West
+7,1,74,3/1/2026,Marketing,Las Vegas,West
+7,2,52,3/1/2026,Marketing,Phoenix,West
+7,3,71,3/1/2026,Marketing,Austin,South
+7,4,51,3/1/2026,Marketing,Chicago,Midwest
+7,5,38,3/1/2026,Marketing,Atlanta,South
+7,6,64,3/1/2026,Marketing,Seattle,West
+7,7,60,3/1/2026,Marketing,Denver,West
+7,8,45,3/1/2026,Marketing,Nashville,South
+7,9,64,3/1/2026,Marketing,Miami,South
+7,10,60,3/1/2026,Marketing,Remote-East,East
+7,11,54,3/1/2026,Marketing,Remote-Central,Central
+7,12,53,3/1/2026,Marketing,Remote-West,West
+8,1,127,3/1/2026,Sales,Las Vegas,West
+8,2,103,3/1/2026,Sales,Phoenix,West
+8,3,151,3/1/2026,Sales,Austin,South
+8,4,107,3/1/2026,Sales,Chicago,Midwest
+8,5,101,3/1/2026,Sales,Atlanta,South
+8,6,107,3/1/2026,Sales,Seattle,West
+8,7,88,3/1/2026,Sales,Denver,West
+8,8,83,3/1/2026,Sales,Nashville,South
+8,9,93,3/1/2026,Sales,Miami,South
+8,10,88,3/1/2026,Sales,Remote-East,East
+8,11,97,3/1/2026,Sales,Remote-Central,Central
+8,12,100,3/1/2026,Sales,Remote-West,West
+9,1,100,3/1/2026,Operations,Las Vegas,West
+9,2,93,3/1/2026,Operations,Phoenix,West
+9,3,115,3/1/2026,Operations,Austin,South
+9,4,99,3/1/2026,Operations,Chicago,Midwest
+9,5,74,3/1/2026,Operations,Atlanta,South
+9,6,83,3/1/2026,Operations,Seattle,West
+9,7,76,3/1/2026,Operations,Denver,West
+9,8,71,3/1/2026,Operations,Nashville,South
+9,9,77,3/1/2026,Operations,Miami,South
+9,10,107,3/1/2026,Operations,Remote-East,East
+9,11,82,3/1/2026,Operations,Remote-Central,Central
+9,12,87,3/1/2026,Operations,Remote-West,West
+10,1,98,3/1/2026,Customer Support,Las Vegas,West
+10,2,62,3/1/2026,Customer Support,Phoenix,West
+10,3,100,3/1/2026,Customer Support,Austin,South
+10,4,75,3/1/2026,Customer Support,Chicago,Midwest
+10,5,60,3/1/2026,Customer Support,Atlanta,South
+10,6,54,3/1/2026,Customer Support,Seattle,West
+10,7,62,3/1/2026,Customer Support,Denver,West
+10,8,53,3/1/2026,Customer Support,Nashville,South
+10,9,66,3/1/2026,Customer Support,Miami,South
+10,10,79,3/1/2026,Customer Support,Remote-East,East
+10,11,52,3/1/2026,Customer Support,Remote-Central,Central
+10,12,64,3/1/2026,Customer Support,Remote-West,West
+11,1,11,3/1/2026,Legal,Las Vegas,West
+11,2,6,3/1/2026,Legal,Phoenix,West
+11,3,11,3/1/2026,Legal,Austin,South
+11,4,10,3/1/2026,Legal,Chicago,Midwest
+11,5,6,3/1/2026,Legal,Atlanta,South
+11,6,14,3/1/2026,Legal,Seattle,West
+11,7,14,3/1/2026,Legal,Denver,West
+11,8,6,3/1/2026,Legal,Nashville,South
+11,9,11,3/1/2026,Legal,Miami,South
+11,10,8,3/1/2026,Legal,Remote-East,East
+11,11,13,3/1/2026,Legal,Remote-Central,Central
+11,12,3,3/1/2026,Legal,Remote-West,West
